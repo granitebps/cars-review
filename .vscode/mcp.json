@@ -1,0 +1,18 @@
+{
+  "servers": {
+    "youtube": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/Users/granitebps/Development/project/mcp/youtube-mcp/dist/index.js"]
+    },
+    "twitter": {
+      "type": "stdio",
+      "command": "node",
+      "args": ["/Users/granitebps/Development/project/mcp/twitter-mcp/dist/index.js"],
+      "env": {
+        "TWITTER_MODE": "rettiwt",
+        "RETTIWT_API_KEY": "a2R0PW13RDZsV0lUcm9LM1djVHkxUVVQZTFOWDBYMlY0N0hoUEFFZTlqbjY7dHdpZD11JTNEMjcyODYyMTAxO2N0MD01Mjk5MDE3MmM3MjQ2MGFlNDQ0ZDA3MTkwZDJiNmE0OGFhMjc2MjNiNzQyOGJkMzM5MDEyYTgxYTg4YTgzZTc5N2RlZDQxNDUyMGM4MDliZTc5ZjIzMWI4MzJiNjllNTA3NjVkNTkzMGZmYTAyYjZkOTY4YzI2NGU3YzdlNTgxY2I1OGFiMWRiYTk0MTk4MTBiYTdhNmZmYTBhNzZiYWIxO2F1dGhfdG9rZW49NDM4Njg4OGM2OWMyYzNiMjk1MjUwNjc1OWFhNzA0MWVhODc0Yzc0Zjs="
+      }
+    }
+  }
+}
