@@ -1,531 +1,522 @@
-# 🚙 TOYOTA VELOZ HYBRID 2026 - PROFIL LENGKAP
+# 🚙 TOYOTA NEW VELOZ HYBRID EV 2026 - RISET TERVERIFIKASI
+
+**Last cross-check**: March 2026  
+**Fokus riset**: status launch resmi, spesifikasi detail, perbedaan varian, impresi reviewer, feedback awal pengguna, efisiensi BBM, dan after sales Toyota Indonesia
+
+---
 
 ## 📋 OVERVIEW
 
 | Aspek | Detail |
 |-------|--------|
 | **Brand** | Toyota |
-| **Kategori** | Light Multi-Purpose Vehicle (LMPV) 7-Seater |
-| **Tahun** | 2025-2026 |
-| **Teknologi** | Hybrid Self-Charging (THS) |
-| **Garansi Baterai** | 8 tahun/160.000 km |
-| **Jaminan Servis** | T-Care gratis 3 tahun/60.000 km |
+| **Model** | New Veloz Hybrid EV |
+| **Kategori** | LMPV / Family MPV 7-Seater |
+| **Status Pasar Indonesia** | Sudah resmi meluncur di GJAW 2025, penjualan dimulai di IIMS 2026 |
+| **Teknologi** | Self-Charging Hybrid / Toyota Hybrid System |
+| **Karakter Utama** | MPV keluarga yang fokus pada efisiensi, kehalusan, dan kemudahan harian |
+| **Garansi Kendaraan** | 3 tahun / 100.000 km |
+| **Garansi Baterai Hybrid** | 8 tahun / 160.000 km |
+| **Program Servis** | T-Care sampai 7 servis / 3 tahun / 60.000 km |
+
+### Ringkasan cepat
+
+Toyota New Veloz Hybrid EV sekarang sudah menjadi produk resmi, bukan lagi sekadar rumor. Posisi mobil ini cukup unik: ia mencoba membawa pengalaman hybrid Toyota ke segmen MPV 7-penumpang yang lebih terjangkau dibanding Innova Zenix Hybrid.
+
+Dari hasil cross-check sumber resmi, media otomotif Indonesia, listing spesifikasi, dan review YouTube, karakter Veloz Hybrid paling kuat ada di tiga hal:
+
+- **lebih halus dari Veloz bensin**
+- **lebih irit signifikan untuk penggunaan kota**
+- **lebih menarik untuk keluarga urban yang ingin Toyota hybrid tanpa naik ke segmen yang lebih mahal**
 
 ---
 
 ## 💰 DAFTAR HARGA OTR JAKARTA 2026
 
-| Varian | Harga | Catatan |
-|--------|-------|---------|
-| **V HEV** | Rp 308.000.000 | Entry level, fitur basic |
-| **Q HEV** | Rp 325.000.000 | Multimedia & safety upgrade |
-| **Q HEV Modellista** | Rp 350-354.000.000 | Body kit sporty |
-| **Q HEV TSS Modellista** | Rp 385-389.000.000 | **FULL PAKET + ADAS** |
+Harga publik masih muncul dalam beberapa versi karena ada campuran:
+
+- harga pre-book GJAW 2025
+- harga promo IIMS 2026
+- harga dealer dengan surcharge warna premium
+- listing portal otomotif yang update-nya tidak seragam
+
+### Rentang harga yang paling aman dipakai
+
+| Varian | Rentang harga yang terpantau | Catatan |
+|--------|-------------------------------|---------|
+| **V HEV** | Rp 299 juta - Rp 308 juta | Rp 299 juta identik dengan fase pre-book/promo awal |
+| **Q HEV** | Rp 320 juta - Rp 325 juta | Harga paling konsisten di sumber media dan listing |
+| **Q HEV Modellista** | Rp 350 juta - Rp 354 juta | Bisa naik karena warna premium / two-tone |
+| **Q HEV TSS Modellista** | Rp 385 juta - Rp 390 juta | Trim terlengkap, paling mahal |
+
+### Catatan harga penting
+
+- Harga `Rp 299 juta` untuk `V HEV` banyak muncul sebagai **harga perkenalan / pre-book**.
+- Beberapa referensi Maret 2026 sudah menggeser basis V HEV ke sekitar `Rp 303-308 juta`.
+- Warna premium umumnya menambah sekitar `Rp 1,5 juta`.
+- Untuk penulisan publik, paling aman memakai **rentang harga**, bukan satu angka tunggal mutlak.
 
 ---
 
 ## ⚙️ SPESIFIKASI TEKNIS (SEMUA VARIAN)
 
-### Mesin & Transmisi
-- **Tipe Mesin**: 2NR-VEX, 1.500cc, 4-silinder, DOHC, siklus Atkinson
-- **Mesin Bensin**: 91 PS @ 5.200-5.600 rpm | 121 Nm @ 3.800-4.800 rpm
-- **Motor Listrik**: 80 PS | 141 Nm (instant torque)
-- **Total Daya Sistem**: ±109 hp
-- **Transmisi**: e-CVT (planetary gear automatic)
-- **Penggerak**: Front Wheel Drive (FWD)
-- **Konsumsi BBM**: 24,6-28 km/liter (hybrid mode)
+### Mesin & Sistem Hybrid
+
+- **Kode mesin**: 2NR-VEX
+- **Kapasitas mesin**: 1.496 cc
+- **Konfigurasi**: 4-silinder, DOHC, Atkinson-cycle
+- **Tenaga mesin bensin**: 91 PS
+- **Torsi mesin bensin**: 121 Nm
+- **Torsi motor listrik**: 141 Nm
+- **Output sistem gabungan**: umum dilaporkan sekitar 109-111 PS
+- **Sistem hybrid**: Toyota Hybrid System, series-parallel
+- **Mode pengisian**: Self-charging melalui kerja mesin + regenerative braking
+- **Transmisi**: e-CVT
+- **Penggerak roda**: Front Wheel Drive (FWD)
+
+### Detail Chassis, Kaki-kaki & Ban
+
+- **Suspensi depan**: MacPherson Strut
+- **Suspensi belakang**: Torsion Beam
+- **Rem depan**: Disc
+- **Rem belakang**: Disc
+- **Steering**: Electric Power Steering
+- **Ukuran velg**: 17 inci
+- **Ukuran ban**: 205/50 R17
 
 ### Dimensi & Kapasitas
-- **Panjang**: 4.512 mm
-- **Lebar**: 1.780 mm
-- **Tinggi**: 1.700 mm
-- **Wheelbase**: 2.750 mm
-- **Ground Clearance**: 205 mm (**TERTINGGI** di kelasnya)
-- **Kapasitas Penumpang**: 7 orang (2-3-2 config)
-- **Kapasitas Bagasi**: ~300L normal, ~600L max (kursi dilipat)
-- **Kapasitas Tangki**: 43 liter
-- **Berat Kosong**: ±1.290 kg
+
+| Item | Standard body | Modellista body kit |
+|---|---|---|
+| **Panjang** | 4.475 mm | 4.512 mm |
+| **Lebar** | 1.750 mm | 1.780 mm |
+| **Tinggi** | 1.700 mm | 1.700 mm |
+| **Wheelbase** | 2.750 mm | 2.750 mm |
+| **Ground clearance** | 205 mm | 205 mm |
+| **Tangki BBM** | 43 liter | 43 liter |
+| **Kapasitas penumpang** | 7 orang | 7 orang |
 
 ### Baterai Hybrid
+
 - **Tipe**: Lithium-ion
-- **Sistem Charge**: Self-charging via regenerative braking
-- **Mode EV**: Hingga ~2 km di kecepatan rendah
-- **Durasi**: 8 tahun/160.000 km warranty
+- **Karakter**: Self-charging, tidak perlu colok charger eksternal
+- **Sumber pengisian**:
+  - regenerative braking
+  - kerja mesin
+  - manajemen energi hybrid system
+- **Garansi baterai**: 8 tahun / 160.000 km
+
+### Yang perlu dicatat
+
+- Beberapa portal menulis tenaga total `109 hp`, sementara sumber lain menuliskan `111 PS`. Secara praktis, perbedaannya kecil dan berasal dari cara penulisan satuan.
+- Untuk riset ini, angka tenaga ditulis sebagai **kisaran sistem gabungan 109-111 PS** agar tetap konsisten dengan banyak sumber.
+
+---
+
+## 🔍 PERBANDINGAN VARIAN RINGKAS
+
+Ini bagian paling penting untuk pembeli, karena perbedaan Veloz Hybrid bukan di mesin, tetapi di **fitur, tampilan, dan safety package**.
+
+| Fitur Kunci | V HEV | Q HEV | Q HEV Modellista | Q HEV TSS Modellista |
+|---|---|---|---|---|
+| Head unit | 9 inci | 10 inci | 10 inci | 10 inci |
+| Wireless Apple CarPlay / Android Auto | ❌ | ✅ | ✅ | ✅ |
+| Kamera parkir | Rear camera | 360 camera | 360 camera | 360 camera |
+| Modellista styling | ❌ | ❌ | ✅ | ✅ |
+| Rear Seat Entertainment | ❌ | ❌ | ✅ | ✅ |
+| T Intouch | ❌ | ❌ | ❌ | ✅ |
+| Toyota Safety Sense | ❌ | ❌ | ❌ | ✅ |
+| Adaptive Cruise Control | ❌ | ❌ | ❌ | ✅ |
+| Posisi pasar | Entry hybrid | Mid trim terbaik value | Fokus gaya + kenyamanan | Full package |
+
+### Inti beda tiap varian
+
+- **V HEV**: paling murah, cocok untuk yang hanya mengejar hybrid Toyota dan efisiensi.
+- **Q HEV**: titik tengah paling masuk akal, karena fitur infotainment dan kamera sudah naik kelas.
+- **Q HEV Modellista**: lebih fokus ke tampilan dan kenyamanan penumpang.
+- **Q HEV TSS Modellista**: untuk pembeli yang memang mau paket lengkap dan mau bayar mahal untuk ADAS + konektivitas.
 
 ---
 
 ## 🎨 EKSTERIOR PER VARIAN
 
 ### V HEV (Entry Level)
-- **Lampu**: Halogen headlamp, DRL LED standar
-- **Grill**: Design standar Toyota
-- **Velg**: Alloy 17 inci (205/50 R17)
-- **Warna**: 5 pilihan standar
-- **Spion**: Manual lipat
-- **Kamera**: Mundur saja (bukan 360°)
-- **Body Kit**: Standard, tanpa aerokit
-- **Emblem**: Standard Toyota + logo HEV biru
+
+- Tampilan paling sederhana di keluarga Veloz Hybrid
+- Sudah mendapatkan **LED headlamp**
+- Head unit dan fitur luar masih paling basic
+- Kamera parkir hanya **rear camera**
+- Belum ada paket body kit Modellista
+- Cocok untuk pembeli yang tidak terlalu peduli tampilan agresif
 
 ### Q HEV (Mid Level)
-- **Lampu**: LED headlamp + LED fog lamp
-- **Velg**: Alloy 17", design lebih premium (dual tone option)
-- **Jendela**: Power window depan-belakang
-- **Kamera**: **360° rear-view system** (upgrade!)
-- **Spion**: Auto-fold + power mirror
-- **Desain**: Garis lebih smooth, trim chrome
-- **Emblem**: TSS badge
 
-### Q HEV MODELLISTA (Premium)
-- **Body Kit Modellista**:
-  - Front bumper underguard sporty
-  - Side skirt dengan chrome trim
-  - Rear bumper lower skirt sportier
-  - Overfender dengan accent black (SUV look)
-- **Velg**: Alloy 17" dual tone (dark/sportier)
-- **Top Color**: Two-tone atap available (putih/hitam, silver/hitam)
-- **Lampu**: LED headlamp full + LED DRL T-shape
-- **Grill**: Slightly more aggressive design
-- **Warna Eksklusif**: Sunrise Copper (khusus Modellista)
-- **Overall**: Tampilan premium SUV
+- Eksterior masih belum seatraktif Modellista, tetapi sudah terasa lebih lengkap
+- Naik kelas di sisi fitur fungsional
+- Biasanya jadi titik tengah yang paling menarik secara value
+- Masih tanpa TSS
 
-### Q HEV TSS MODELLISTA (Tertinggi)
-- **Semua fitur Modellista PLUS**:
-- **Lampu**: Full LED headlamp dengan sequential turn signal
-- **Velg**: Alloy 17" premium dual tone
-- **Accent**: Kuning/biru di trim (luxury impression)
-- **Spion**: Power + heated + auto-fold + memory
-- **Jendela**: Power window all + anti-pinch safety
-- **Desain**: Luxury SUV impression **PALING KUAT**
+### Q HEV Modellista
+
+- Nilai jual utamanya ada di **paket aerokit dan tampilan**
+- Tambahan ornamen hitam, under guard, dan sentuhan eksterior khas Modellista
+- Di banyak sumber, varian ini juga terkait dengan nuansa **lebih premium / sporty**
+- Cocok untuk pembeli yang ingin Veloz Hybrid terlihat lebih spesial, bukan sekadar hemat BBM
+
+### Q HEV TSS Modellista
+
+- Basis tampilannya sama dengan Modellista
+- Perbedaannya bukan terutama di bodi, tetapi pada **paket safety dan konektivitas**
+- Secara visual tetap menjadi trim paling lengkap, tetapi nilai tambah utamanya justru di fitur aktif
 
 ---
 
-## 🏠 INTERIOR PER VARIAN
+## 🏠 INTERIOR & FITUR PER VARIAN
 
 ### V HEV - Interior Dasar
 
-**Dashboard & Layout**
-- Dashboard: 2-tone (hitam+abu), hard plastic
-- Stir: Manual tilt/telescopic
-- Instrumen: Digital MID 7" single color
-- Head Unit: 9 inci touchscreen
-  - Konektivitas: Bluetooth + USB + AUX
-  - **TIDAK** wireless CarPlay/Android Auto
-  - Audio: 6 speaker standar
-  - Fitur: Radio, rear camera display
+**Yang paling pasti terkonfirmasi**
 
-**Kursi & Padding**
-- Baris 1: Fabric, manual adjust (height, lumbar)
-- Baris 2: Fabric, 60:40 split folding
-- Baris 3: Bench fabric, 50:50 split
-- Headrest: Manual semua baris
-- Isofix: 2 titik (baris 2)
+- **Head unit 9 inci**
+- belum ada **wireless Apple CarPlay / Android Auto**
+- tema interior cenderung lebih sederhana
+- kursi bernuansa hitam penuh di beberapa sumber peluncuran
+- kamera mundur biasa
 
-**Fitur Kenyamanan**
-- Rem Tangan: Lever mekanik
-- Cruise Control: **TIDAK ADA** (V HEV)
-- Arm Rest: Minimal
-- AC: Single-zone manual
-- Power Outlet: 12V lighter x 1
-- Material: Fabric dominan, plastic standar
-- Overall: **Minimalis, fungsional**
+**Kesan umum**
 
----
+- Fungsional
+- Tidak mewah
+- Cocok untuk pembeli yang memprioritaskan efisiensi dan badge Toyota, bukan gimmick fitur
 
-### Q HEV - Mid Level Upgrade
+### Q HEV - Mid Level yang Paling Rasional
 
-**Dashboard Upgrade**
-- Dashboard: **Soft-touch panel** (upgrade!)
-- Stir: Leather-wrapped multi-function
-- Instrumen: Digital cluster 10,25" full TFT
-- Head Unit: **10,25 inci** touchscreen (lebih besar!)
-  - Bluetooth + USB Type-C
-  - **MASIH BELUM wireless CarPlay**
-  - Audio: 8 speaker + subwoofer setting
-  - Navigation tersedia
+**Upgrade utama dibanding V HEV**
 
-**Kursi Upgrade**
-- Baris 1: Semi-leather upholstery, elektrik adjust (height)
-- Baris 2: Available captain seat option (berbayar)
-- Baris 3: Leather-like upholstery
-- Headrest: Leather-wrapped
+- **head unit 10 inci**
+- **wireless Apple CarPlay / Android Auto**
+- **kamera 360 derajat**
+- nuansa kabin terasa lebih modern
 
-**Fitur Tambahan**
-- Rem Tangan: **Elektrik** (Electric Parking Brake)
-- Cruise Control: **Tersedia** (standar)
-- AC: Dual-zone automatic
-- Power Outlet: 12V x 2 + USB x 3
-- Wireless Charging: Tersedia (Q Modellista+)
-- Ambient Lighting: Available (Q Modellista+)
-- Overall: **Mid-level comfort, mulai premium**
+**Kesan umum**
 
----
+- Ini varian yang paling mudah direkomendasikan kalau pembeli ingin fitur harian sudah enak dipakai, tapi belum mau masuk harga Modellista / TSS.
 
-### Q HEV MODELLISTA - Premium
+### Q HEV Modellista - Lebih Menarik secara Tampilan & Penumpang
 
-**Design Premium**
-- Dashboard: Soft-touch 2-tone (hitam+putih/beige)
-- Aksen: Chrome trim di dashboard + door trim
-- Jahitan: Stitching kontras (kualitas lebih baik)
+**Yang konsisten disebut banyak sumber**
 
-**Fitur Premium**
-- Instrumen: Digital 10,25" + **head-up display (HUD)**
-- Head Unit: 10,25" + rear seat entertainment screen
-- Audio: 8 speaker premium
-- Ambient Lighting: RGB with multiple colors
-- Wireless CarPlay/Android Auto: **MASIH BELUM** (Q HEV)
-- Surround View: 360° camera (optional Q Modellista TSS)
-- Panoramic Sunroof: Available (biaya tambah)
+- paket eksterior Modellista
+- nuansa interior lebih spesial daripada Q HEV biasa
+- **Rear Seat Entertainment**
+- sentuhan visual black theme / premium theme
 
-**Kursi Modellista**
-- Material: Semi-leather dengan stitching kontras
-- Baris 1: Elektrik adjustable (seat heater+cooler untuk TSS)
-- Baris 2: Captain seat premium with arm rest
-- Baris 3: Leather-like upholstery
+**Kesan umum**
 
----
+- Varian ini lebih cocok untuk pembeli yang ingin mobil keluarga terasa lebih "naik kelas" secara tampilan.
 
-### Q HEV TSS MODELLISTA - Full Kelas Atas
+### Q HEV TSS Modellista - Full Feature
 
-**Teknologi Penuh**
-- Head Unit: 10,25" + HUD + Rear Seat Entertainment
-- **Wireless CarPlay: YA!** ✅
-- **Wireless Android Auto: YA!** ✅
-- Bluetooth 5.0 multi-device
-- NFC (Near Field Communication)
-- Audio: 8 speaker premium + subwoofer
-- Navigation: Built-in dengan real-time traffic
-- Voice Control: Natural language processing
-- Air Purifier: Tersedia (TSS varian)
+**Tambahan terkonfirmasi di atas Modellista**
 
-**Kursi & Interior Luxury**
-- Kursi Baris 1: Full elektrik (height, lumbar, angle, reclining)
-- Seat Heater: Baris 1 + baris 2
-- Ventilated Seat: Baris 1 (pendingin kursi)
-- Memory Seat: Simpan 2 posisi preferensi
-- Captain Seat: Premium leather, adjustable armrest
-- Ambient Light: RGB color changer (12 colors)
+- **Toyota Safety Sense**
+- **Adaptive Cruise Control**
+- **T Intouch**
 
-**Fitur Tambahan TSS**
-- Gesture Control: Untuk volume radio dll
-- Panoramic Sunroof: Tipis, fixed
-- Massage Seat: Baris 1 (premium)
-- Air Quality Monitor: Dalam kabin
-- Personalization: Multiple interior theme
+**Catatan penting**
+
+- Banyak fitur mewah yang pernah ditulis di draft lama **tidak bisa diverifikasi**, misalnya HUD, panoramic sunroof, massage seat, ventilated seat, memory seat, dan gesture control.
+- Jadi, varian ini tetap paling lengkap, **tetapi bukan berarti masuk level premium SUV mewah**.
 
 ---
 
 ## 🚗 KENYAMANAN BERKENDARA & KARAKTER MOBIL
 
-### Kenyamanan Berkendara
+### Karakter dasar mobil
 
-#### Bantingan Suspensi
-- **Karakter**: Empuk & responsif, tidak terlalu bouncy
-- **Jalan Halus**: Sangat nyaman, suspensi absorb dengan baik
-- **Jalan Bergelombang**: Excellent! Getaran diredam baik, penumpang tidak tersentak
-- **Speed Bump/Polisi Tidur**: Lembut, tidak keras, comfortable untuk penumpang
-- **Jalanan Rusak**: Suspensi cukup mengompensasi, bantingan acceptable
-- **Rating Kenyamanan**: ⭐⭐⭐⭐⭐ (5/5) - Terbaik di kelasnya
+Toyota New Veloz Hybrid EV bukan mobil untuk mengejar sensasi sporty. Karakternya lebih cocok disebut:
 
-#### Limbung (Body Roll)
-- **Karakter**: Moderate body roll, terkontrol dengan baik
-- **Kecepatan Rendah (0-40 km/h)**: Hampir tidak terasa limbung, VSC stability control aktif
-- **Kecepatan Sedang (40-80 km/h)**: Sedikit limbung saat menikung tajam, tapi masih terkontrol
-- **Kecepatan Tinggi (80-120 km/h)**: Limbung terasa lebih nyata di kurva tajam, tapi tidak dangerous
-- **Comparison**: Lebih stabil dari Veloz bensin murni (suspensi hybrid lebih baik)
-- **Rating Stabilitas**: ⭐⭐⭐⭐ (4/5) - Baik untuk MPV, ada kompromi vs SUV
+> **smooth, quiet, efficient family MPV**
 
-#### Handling & Steering
-- **Steering Feel**: Ringan di bawah 20 km/h, medium di tengah kecepatan, properly weighted di highway
-- **EPS (Electric Power Steering)**: Responsive, feedback dari jalan cukup terasa
-- **Manuver Parkir**: Easy! Steering ringan membuat parkir smooth
-- **Overtaking**: Responsif, perlu koreksi minimal untuk lane change
-- **Precise**: Electric steering memberikan akurasi yang baik untuk MPV
-- **Rating Handling**: ⭐⭐⭐⭐ (4/5) - Baik untuk MPV, bukan sporty tapi controlled
+### Apa yang banyak reviewer setujui
 
-#### Akselerasi & Response
-- **Tarikan Awal (0-40 km/h)**: **EXCELLENT!** Motor listrik memberikan instant torque, terasa responsif
-- **Mid-Range (40-80 km/h)**: Smooth, transisi mesin bensin + motor hampir tidak terasa
-- **High-Speed (80+ km/h)**: Gradual, mesin bensin dominant, cukup untuk highway
-- **Overtaking**: Responsif, torsi instant membantu, acceleration smooth
-- **Comparison**: Lebih responsif dari Veloz bensin murni, responsif seperti turbo charged tapi smooth
-- **Rating Response**: ⭐⭐⭐⭐⭐ (5/5) - Instant torque dari hybrid excellent!
+- tarikan awal lebih responsif dari Veloz bensin
+- perpindahan kerja mesin dan motor terasa halus
+- kabin lebih senyap, terutama di kecepatan rendah / stop-and-go
+- untuk penggunaan kota, hybrid system sangat terasa manfaatnya
 
-#### Braking
-- **Pedal Feel**: Progresif, mudah untuk modulate, anti-lock
-- **Braking Power**: Strong, reliable, tidak berlebihan
-- **Emergency Stop**: Responsive, confident stopping power
-- **Regenerative Braking**: Unique hybrid feature - baterai charge saat rem
-- **Pedal Resistance**: Medium - natural feel, tidak too stiff, tidak too soft
-- **Rating Braking**: ⭐⭐⭐⭐⭐ (5/5) - Solid & reliable
+### Suspensi dan handling
 
-#### Kabin Noise & Vibration
-- **Engine Noise**: **Minimal!** Hybrid system sangat quiet terutama saat low RPM
-- **Road Noise**: Moderate-low, soundproofing cukup baik
-- **Wind Noise**: Minimal di kecepatan normal, terasa hanya di 120+ km/h
-- **Vibration**: Hampir tidak terasa engine vibration (smoothness dari hybrid)
-- **Overall Quietness**: ⭐⭐⭐⭐⭐ (5/5) - Kelas atas untuk LMPV!
+Ada dua kubu reviewer:
 
-#### Kenyamanan Penumpang
-- **Baris 1 (Driver)**: Excellent kursi empuk, supportive, jarak panjang tidak capek
-- **Baris 2 (Captain Seat)**: Lega, arm rest baik, comfortable untuk 2 jam+ perjalanan
-- **Baris 3**: Decent untuk anak-anak atau occasional adult, agak sempit untuk long trip
-- **Climate Control**: Dual-zone (Q+) sangat help, baris 3 AC adequate
-- **Visibility**: Baik, positioning ergonomis, tidak banyak blind spot
-- **Overall Comfort**: ⭐⭐⭐⭐⭐ (5/5) - Top tier untuk family MPV
+- kubu pertama bilang hybrid terasa **lebih planted / lebih tenang**
+- kubu kedua bilang kenyamanannya masih sangat mirip Veloz biasa, hanya sedikit lebih matang
 
----
+Kesimpulan paling aman:
 
-### Karakter Mobil (Driving Character)
+- **lebih refined dari Veloz bensin**
+- **lebih matang untuk harian**
+- **tetap MPV keluarga**, bukan handling car
 
-#### Overall Character
-🎯 **SMOOTH, QUIET, EFFICIENT FAMILY CRUISER**
+### Akselerasi
 
-Toyota Veloz Hybrid adalah mobil yang dirancang untuk kenyamanan keluarga modern. Hybrid system-nya memberikan pengalaman berkendara yang halus, senyap, dan efisien - sempurna untuk urban commuting dan perjalanan jauh. Bukan mobil untuk yang mengejar adrenalin, tapi untuk yang menghargai kenyamanan, reliability, dan value.
+- kelebihan utama ada di **respons awal**
+- motor listrik membantu start dari diam jadi terasa enteng
+- saat dipakai normal, karakter mobil terasa santai dan halus
+- saat dipaksa kencang, tetap terasa sebagai MPV keluarga, bukan mobil performa
 
-#### Engine Characteristic
-- **Personality**: Gentle, refined, low-maintenance temperament
-- **Sound**: Whisper quiet, especially di bawah 2000 RPM
-- **Response**: Instant torque dari hybrid motor, smooth transition ke bensin engine
-- **Power Delivery**: Linear, tidak tiba-tiba, progressive acceleration
-- **Vibration**: Minimal, sistem hybrid isolate vibration dengan baik
-- **Thermal Management**: Cool head, tidak pernah overheat even under heavy load
+### NVH (Noise, Vibration, Harshness)
 
-#### Transmission Character
-- **e-CVT Feel**: Smooth, seamless gear ratio change - no "rubber band" effect
-- **Shift Behavior**: Invisible shifting, terasa seperti seamless power delivery
-- **Response Time**: Quick engagement, tidak ada turbo lag feeling
-- **Uphill Performance**: Smooth, mesin/motor work together well
-- **Downhill Behavior**: Regenerative braking kicks in, smooth deceleration
-- **Overall**: ⭐⭐⭐⭐ (4/5) - Smooth execution, tidak sporty tapi excellent for family
+Ini salah satu kekuatan paling konsisten dipuji:
 
-#### Driving Dynamics
-- **Sedan-like Feel**: Surprisingly car-like untuk MPV, bukan floating feeling
-- **Planted Stance**: Ground clearance 205mm terasa adequate, tidak terlalu tall
-- **Cornering Speed**: Can handle moderate speeds in corners, tidak untuk spirited driving
-- **Straight-Line Stability**: Excellent, autopilot-like at highway speeds
-- **Emergency Maneuver**: Responsive, ESC/VSC control well, safe confidence
-
-#### City Driving Character
-- **Stop-and-Go Traffic**: **PERFECT!** Hybrid excel di sini, EV mode quiet, smooth stop
-- **Parking Maneuver**: Easy steering, compact dimension, excellent sightline
-- **Acceleration**: Quick off-line berkat instant hybrid torque
-- **Brake Feel**: Progressive pedal, easy to modulate in traffic
-- **Overall**: ⭐⭐⭐⭐⭐ (5/5) - Best urban commuter in class
-
-#### Highway Character
-- **Cruising**: Smooth sailing, adaptive cruise control (TSS varian) help reduce fatigue
-- **Lane Keeping**: Electric steering maintain straight line effortlessly
-- **Wind Noise**: Minimal, kabin tenang
-- **Engine Load**: Linear progression, no surprise dips/surge
-- **Fuel Economy**: Outstanding - hybrid engine extremely efficient at highway speeds
-- **Long Distance Feel**: Comfortable, not fatiguing, confidence-inspiring
-- **Overall**: ⭐⭐⭐⭐⭐ (5/5) - Excellent long-distance machine
-
-#### Mountain/Hill Driving
-- **Uphill Power**: Adequate, not weak, hybrid torque assist very helpful
-- **Downhill Control**: Regenerative braking smooth, no brake fade
-- **Switchback Handling**: Safe, ESC keep car stable, not overconfident-inducing
-- **Temperature Management**: Excellent thermal control, tidak overheat
-- **Consistency**: Mile after mile, performance remain stable
-- **Rating**: ⭐⭐⭐⭐ (4/5) - Capable, but not designed for extreme driving
-
-#### Comparison to Competitors
-
-| Aspek | Veloz Hybrid | Stargazer | XL7 | Xpander Cross |
-|-------|-------------|-----------|-----|---------------|
-| **Smoothness** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Quietness** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Comfort** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐⭐ |
-| **Responsiveness** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Stability** | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐ | ⭐⭐⭐⭐ |
-| **Efficiency** | ⭐⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ | ⭐⭐⭐⭐ |
-
-#### Who This Car Suits Best
-✅ **PERFECT FOR:**
-- Urban commuters yang nilai smoothness & efficiency
-- Family yang sering travel jauh (comfort oriented)
-- Pengguna yang peduli environment (eco-conscious)
-- Mereka yang ingin reliability Toyota dengan hybrid tech
-- Professional drivers yang stress reduction penting
-
-❌ **NOT IDEAL FOR:**
-- Enthusiast mencari sporty character
-- Off-road adventure seekers
-- Performance-oriented drivers
-- Budget ultra-ketat (entry price Rp 308jt)
+- lebih senyap dari Veloz bensin
+- lebih nyaman untuk stop-and-go
+- engine noise tidak seagresif mobil bensin konvensional saat jalan santai
 
 ---
 
 ## 🛡️ FITUR KESELAMATAN & ADAS
 
-### Safety Features Semua Varian
+### Safety dasar yang umum disebut
 
-| Fitur | V HEV | Q HEV | Q Modellista | Q TSS |
-|-------|-------|-------|-------------|-------|
-| Airbag (6pcs) | ✅ | ✅ | ✅ | ✅ |
-| ABS + EBD | ✅ | ✅ | ✅ | ✅ |
-| VSC + Hill Assist | ✅ | ✅ | ✅ | ✅ |
-| ISOFIX | ✅ | ✅ | ✅ | ✅ |
-| Kamera 360° | ❌ | ✅ | ✅ | ✅ |
+- ABS
+- EBD
+- Vehicle Stability Control
+- Hill Start Assist
+- ISOFIX
+- airbag
+- kamera parkir
 
-### Toyota Safety Sense (TSS) - Q HEV TSS Modellista ONLY
+### Toyota Safety Sense
 
-**Autonomous Safety Features:**
+**TSS hanya terkonfirmasi pada `Q HEV TSS Modellista`.**
 
-| Fitur | Deskripsi | Range |
-|-------|-----------|-------|
-| **Adaptive Cruise Control (ACC)** | Speed otomatis, jaga jarak aman | 0-160 km/h |
-| **Pre-Collision Warning/Braking (PCS)** | Deteksi mobil, pejalan kaki, sepeda | hingga 40 km/h |
-| **Lane Departure Alert (LDA)** | Peringatan + steering assist | 32-160 km/h |
-| **Lane Tracing Assist (LTA)** | Maintain lane center otomatis | 32-160 km/h |
-| **Pedestrian Detection** | Deteksi pejalan kaki | - |
-| **Front Departure Alert (FDA)** | Alert mobil depan mulai jalan | - |
-| **Adaptive High Beam (AHB)** | Otomatis switch high/low beam | - |
-| **Surround View Monitor** | Kamera 360° parkir/manuver | Optional |
+Fitur yang paling sering disebut di media dan materi perbedaan varian:
 
----
+- Pre-Collision System
+- Lane Departure Alert
+- Adaptive Cruise Control
+- Front Departure Alert
+- T Intouch integration pada trim teratas
 
-## 📊 KONSUMSI BBM REAL (Data dari Pengguna)
+### Hal yang perlu dipahami
 
-| Kondisi | Konsumsi | Catatan |
-|---------|----------|---------|
-| **Kota (Macet)** | 22-26 km/l | Stop-and-go optimal untuk hybrid |
-| **Tol/Highway** | 20-24 km/l | Motor dominan |
-| **Campuran** | 24-28 km/l | Average optimal |
-| **Sportif (Full Power)** | 18-20 km/l | Less efficient |
-| **Eco Mode** | 26-29 km/l | Maximum efficiency |
-| **Tanjakan Berat** | 16-18 km/l | Mesin bekerja lebih keras |
-
-**Average Real World: 22-25 km/l** (50% lebih hemat dari bensin murni!)
+- Nilai jual terbesar trim tertinggi memang di sini.
+- Kalau pembeli sangat memprioritaskan ADAS, tiga varian bawah terasa kurang menarik.
+- Kalau pembeli hanya fokus irit dan Toyota badge, V HEV / Q HEV masih cukup masuk akal.
 
 ---
 
-## 🎯 REVIEW PENGGUNA
+## 📊 KONSUMSI BBM REAL (Data Awal Indonesia)
 
-### ✅ Testimoni Positif
+Karena mobil ini baru mulai dijual pada 2026, data BBM yang tersedia masih dominan berasal dari:
 
-> **"Invest yang tepat untuk keluarga urban!"** - Cahyani, Jakarta (3 bulan)
->
-> Saya sebelumnya pakai Veloz bensin, sekarang ganti Veloz Hybrid Q Modellista. Perbedaannya JAUH! Konsumsi BBM dari 14 km/l jadi 24-25 km/l. Interior jauh lebih premium, fitur multimedia besar cocok untuk perjalanan. Hybrid systemnya halus, tarikan awal responsif kayak mobil elektrik. 
-> 
-> Perjalanan Lombok-Bali 1000 km, mobil tidak pernah capai temperatur tinggi. Performa di tanjakan sangat baik. Baterai hybrid langgeng, tidak perlu khawatir. Servis gratis di Auto2000 selama 3 tahun.
-> 
-> **Definitely RECOMMENDED untuk yang sering berkendara dalam kota macet!**
+- test drive media
+- road trip event
+- early review
+- impresi komunitas awal
 
-> **"Game Changer di Segmen LMPV"** - Budi, Bandung (6 bulan)
->
-> Veloz Hybrid adalah solusi sempurna untuk kebutuhan sehari-hari. Irit, nyaman, fitur lengkap. Adaptive cruise control TSS benar-benar mengurangi stress di macet Jakarta. Interior modern, tidak ketinggalan teknologi.
-> 
-> Kualitas interior Veloz lebih premium dari kompetitor (Stargazer). Headrest baris ketiga emang mini, tapi overall satisfied!
+### Kisaran paling realistis saat ini
 
-### ⚠️ Testimoni Kritik
+| Kondisi | Hasil yang paling masuk akal |
+|---------|------------------------------|
+| Kota macet / stop-and-go | 22-26 km/l |
+| Campuran kota + tol | 22-26 km/l |
+| Jalur panjang efisien | sekitar 25,8-25,9 km/l |
+| Eco run sangat ringan | bisa di atas 28 km/l, tapi jangan dianggap angka harian |
 
-> **"Baris Ketiga Memang Sempit"** - Ahmad, Medan (3 bulan)
->
-> Veloz Hybrid bagusan dari harapan. Tapi perlu disadarkan: baris ketiga hanya cocok anak-anak atau dewasa pendek (legroom 750mm terbatas). Suspensi agak keras di jalan berlubang (bukan sekompak Xpander).
->
-> Material interior Q HEV banyak plastic keras, tidak 100% soft-touch. Tapi dibanding harganya, ini acceptable trade-off.
+### Angka yang paling kuat
 
-> **"Fitur ADAS Bagus, Tapi Perlu Adaptasi"** - Rudi, Jakarta (5 bulan)
->
-> Adaptive Cruise Control sangat membantu, tapi perlu learning curve. Lane Keeping Assist terkadang terlalu sensitive di jalan dengan lane marking tipis.
->
-> Fitur bagus, tapi manusia masih perlu aware. Tidak bisa 100% rely on automation!
+- `DetikOto` melaporkan **25,9 km/l** di rute Bali dengan **4 penumpang dewasa + bagasi penuh**
+- Toyota dan beberapa media menyebut efisiensi sekitar **40% lebih baik** dibanding Veloz bensin
+
+### Kesimpulan BBM
+
+Kalau dipakai dalam konteks Indonesia:
+
+- **Jakarta macet**: hybrid sangat masuk akal
+- **perjalanan campuran**: tetap unggul
+- **tol kecepatan tinggi terus-menerus**: tetap irit, tapi keunggulan paling terasa tetap di kondisi kota / transisi
 
 ---
 
-## ⚠️ COMMON PROBLEMS & KELUHAN PENGGUNA
+## 🎥 REVIEWER INSIGHTS (Media + YouTube)
 
-### 1. Transmisi CVT Issue (RARE)
-- **Gejala**: Bunyi aneh, perubahan kecepatan kurang smooth
-- **Frekuensi**: <0.1% dari pengguna
-- **Solusi**: Klaim garansi (gratis di bengkel resmi)
+### Yang paling sering dipuji
 
-### 2. Suspensi Keras (REPORTED)
-- **Gejala**: Jalan rusak terasa lebih hard dibanding kompetitor
-- **Tingkat Keparahan**: MINOR
-- **Mitigasi**: Ganti ke bantalan aftermarket
+#### 1. Kehalusan sistem hybrid
 
-### 3. Recall Airbag (2025)
-- **Status**: ECU airbag bermasalah pada batch tertentu
-- **Action**: Sudah ditarik recall, safe untuk unit 2026
+Banyak reviewer menyorot bahwa transisi hybrid terasa natural dan tidak bikin mobil terasa "aneh". Ini penting, karena pembeli MPV keluarga biasanya tidak mau sistem yang rumit atau mengganggu.
 
-### 4. Kapasitas Baris Ketiga Terbatas
-- **Legroom**: 750mm (untuk anak/dewasa pendek saja)
-- **Tingkat Keparahan**: EXPECTED (LMPV design)
-- **Mitigasi**: Gunakan baris 2 bisa move back
+#### 2. Respons awal lebih enak
 
-### 5. Material Interior Plastik Keras (Q HEV)
-- **Lokasi**: Dashboard, door trim area tertentu
-- **Durability**: Solid, tidak gampang retak
-- **Trade-off**: Wajar untuk harga entry Q level
+Reviewer dari media event test drive dan beberapa channel YouTube sama-sama menekankan bahwa Veloz Hybrid terasa lebih sigap dari diam dibanding Veloz bensin.
 
-### 6. Service Center SHVS Terbatas
-- **Jaringan**: Auto2000 widespread, daerah masih kurang
-- **Biaya**: +15-20% dibanding bensin murni
-- **Mitigasi**: Gunakan authorized dealer
+#### 3. Kabin lebih senyap
 
-### 7. Fitur Limitation Varian Bawah
-- **V HEV**: Tidak ada cruise control, multimedia basic
-- **Q HEV**: Belum wireless carplay
-- **Mitigasi**: Upgrade ke Q Modellista/TSS untuk full features
+Ini poin yang muncul berulang:
+
+- lebih tenang di kecepatan rendah
+- lebih santai untuk penggunaan harian
+- lebih cocok buat family car urban
+
+### Catatan dari review YouTube yang terpantau
+
+Beberapa kanal / review yang muncul dalam penelusuran:
+
+- **OtoDriver / Fitra Eri** - menyorot potensi Veloz Hybrid sebagai hybrid mass-market yang smooth dan mudah dipakai
+- **Moladin** - menekankan value hybrid yang lebih terjangkau dan impresi awal yang positif
+- **Driving Tomorrow** - fokus pada kehalusan e-CVT, nuansa EV-like di kecepatan rendah, dan sisi family usability
+- **coverage event / road test Oto.com** - banyak menekankan kenyamanan, NVH, dan feel yang lebih refined
+
+### Yang masih belum banyak dibahas panjang
+
+- durability jangka panjang baterai pada Veloz Hybrid spesifik model ini
+- biaya maintenance jangka panjang setelah beberapa tahun
+- resale value real di pasar mobil bekas, karena model masih terlalu baru
+
+---
+
+## 👥 OWNER FEEDBACK (Masih Tahap Awal)
+
+Karena penjualan baru berjalan 2026, feedback pemilik masih belum sedalam model yang sudah 3-5 tahun beredar. Namun tema yang mulai terlihat cukup jelas.
+
+### Yang paling sering diapresiasi
+
+- efisiensi BBM
+- kenyamanan harian
+- kabin lebih halus dari versi bensin
+- Toyota hybrid akhirnya masuk segmen keluarga yang lebih terjangkau
+
+### Yang paling sering dipertanyakan / dikeluhkan
+
+- harga trim atas cepat naik
+- baris ketiga tetap tidak ideal untuk dewasa tinggi di perjalanan panjang
+- material kabin tidak bisa dibilang mewah penuh
+- TSS hanya ada di trim teratas
+- pembeli luar kota masih ingin bukti lebih soal kesiapan hybrid service jangka panjang
+
+### Masalah umum yang paling realistis saat ini
+
+#### 1. Baris ketiga tetap terbatas
+
+- Ini bukan masalah unik hybrid, tapi tetap jadi concern utama
+- Cocok untuk anak-anak atau dewasa pendek pada perjalanan pendek-menengah
+
+#### 2. Material interior masih campuran
+
+- Bukan jelek, tapi juga bukan premium murni
+- Hard plastic tetap ada
+
+#### 3. Harga naik signifikan kalau mengejar fitur lengkap
+
+- V HEV menarik karena entry point hybrid
+- Tapi kalau mau tampilan + TSS + konektivitas penuh, harga melonjak jauh
+
+#### 4. Data long-term hybrid ownership masih minim
+
+- Bukan berarti buruk
+- Hanya saja, model masih terlalu baru untuk menyimpulkan durability spesifik Veloz Hybrid secara jangka panjang
+
+---
+
+## 🛠️ AFTER SALES & BIAYA KEPEMILIKAN
+
+### Garansi & program servis
+
+| Item | Detail |
+|---|---|
+| **Garansi kendaraan** | 3 tahun / 100.000 km |
+| **Garansi aki biasa** | 1 tahun / 20.000 km |
+| **Garansi baterai hybrid** | 8 tahun / 160.000 km |
+| **T-Care** | sampai 7 servis / 3 tahun / 60.000 km |
+| **Extended warranty reward** | tambahan 1 tahun / 20.000 km jika servis tepat waktu |
+
+### Interval servis
+
+- servis awal: `1 bulan / 1.000 km`
+- berikutnya: tiap `6 bulan / 10.000 km`
+
+### Kekuatan after sales Toyota
+
+- jaringan Toyota sangat kuat untuk ukuran Indonesia
+- ada layanan bengkel resmi, body & paint, Toyota Mobile Service, dan service point
+- ini menjadi salah satu alasan mengapa banyak pembeli tetap nyaman memilih Toyota hybrid pertama mereka
+
+### Hidden ownership cost yang patut diperhatikan
+
+- servis hybrid kemungkinan sedikit lebih mahal dibanding Veloz bensin
+- belum ada angka nasional tunggal yang simpel untuk biaya ganti baterai out-of-warranty
+- kalau pembeli tinggal jauh dari kota besar, kenyamanan psikologis terhadap hybrid service tetap perlu dipertimbangkan
+
+### Kesimpulan after sales
+
+Untuk konteks Indonesia, Veloz Hybrid cukup kuat bukan hanya karena mobilnya, tapi karena **ekosistem Toyota**. Ini faktor besar yang tidak bisa diabaikan saat membandingkan dengan kompetitor.
 
 ---
 
 ## 🏆 OVERALL RATING
 
-### Skor per Kategori (out of 5)
+### Skor ringkas berdasarkan data awal
 
 | Kategori | Rating | Catatan |
 |----------|--------|---------|
-| Performance | ⭐⭐⭐⭐ (4.0) | Hybrid responsif, tidak terlalu sporty |
-| Comfort | ⭐⭐⭐⭐ (4.2) | Nyaman, baris 3 agak sempit |
-| Fuel Efficiency | ⭐⭐⭐⭐⭐ (5.0) | **TERBAIK** di kelasnya |
-| Design & Style | ⭐⭐⭐⭐ (4.3) | Modern, Modellista sporty |
-| Interior Quality | ⭐⭐⭐⭐ (4.1) | Soft-touch (Q+), plastic dasar (V) |
-| Technology | ⭐⭐⭐⭐⭐ (4.8) | TSS excellent, wireless CarPlay |
-| Safety | ⭐⭐⭐⭐⭐ (4.9) | 6 airbag, ESC, PCS, LKA lengkap |
-| Reliability | ⭐⭐⭐⭐⭐ (5.0) | Toyota DNA proven |
-| Maintenance | ⭐⭐⭐⭐ (4.4) | Gratis 3 tahun, hybrid sedikit lebih mahal |
-| Resale Value | ⭐⭐⭐⭐⭐ (4.9) | Toyota value terjaga baik |
-| **Ride Comfort** | ⭐⭐⭐⭐⭐ (5.0) | **EXCEPTIONAL** - Best suspension |
-| **Driving Character** | ⭐⭐⭐⭐⭐ (5.0) | **SMOOTH CRUISER** - Perfect family car |
+| Efisiensi BBM | 5/5 | Kekuatan utama mobil ini |
+| Kenyamanan harian | 4.5/5 | Halus, senyap, cocok buat kota |
+| Fitur | 4/5 | Q ke atas menarik, tapi TSS terlalu dibatasi di trim tertinggi |
+| Interior quality | 3.8/5 | Rapih, modern, tapi belum premium penuh |
+| Value | 4/5 | Menarik di V/Q, mulai berat di trim atas |
+| After sales | 5/5 | Toyota tetap unggul di rasa aman kepemilikan |
+| Prospek jangka panjang | 4/5 | Menjanjikan, tapi data owner belum panjang |
 
-### **OVERALL RATING: ⭐⭐⭐⭐⭐ (4.7/5)**
+### Overall rating: **4.4/5**
 
 ---
 
-## ✅ REKOMENDASI FINAL
+## ✅ FINAL INSIGHT
 
-### Highly Recommended Untuk:
-✅ Keluarga urban yang sering di kemacetan
-✅ Prioritas efisiensi BBM (50% lebih hemat)
-✅ Ingin teknologi hybrid dengan durability terbukti
-✅ Budget Rp 300-400 juta dengan ekspektasi features premium
-✅ Perjalanan jauh dengan kenyamanan maksimal
-✅ Pengguna yang value smoothness & quiet ride
+Toyota New Veloz Hybrid EV adalah **produk yang relevan dan kuat** untuk pasar keluarga urban Indonesia.
 
-### Perlu Pertimbangan Jika:
-⚠️ Butuh ruang baris ketiga luas (pertimbangan Innova/Xpander)
-⚠️ Ingin performa sporty (turbo lebih "nendang")
-⚠️ Budget sangat ketat (ada entry-level LMPV lebih murah)
-⚠️ Daerah jauh dari service center Toyota/Auto2000
+Mobil ini paling cocok untuk:
+
+- pengguna harian Jakarta / kota besar
+- keluarga yang sering stop-and-go
+- pembeli yang ingin hybrid Toyota tanpa naik ke segmen lebih mahal
+- orang yang mengutamakan efisiensi, kehalusan, dan after-sales peace of mind
+
+Mobil ini kurang cocok untuk:
+
+- pembeli yang ingin nuansa premium mewah penuh
+- keluarga yang sering memaksa baris ketiga untuk dewasa tinggi dalam perjalanan jauh
+- pembeli yang ingin ADAS lengkap tanpa harus naik ke trim teratas
+
+### Kesimpulan paling jujur
+
+Veloz Hybrid bukan MPV premium yang disamarkan. Ia tetap **MPV keluarga praktis**, tetapi kini:
+
+- lebih halus
+- lebih irit
+- lebih modern
+- dan lebih relevan untuk kebutuhan Indonesia saat ini
+
+Kalau target Anda adalah **mobil keluarga Toyota yang efisien dan nyaman untuk harian**, Veloz Hybrid masuk akal. Kalau target Anda adalah **kemewahan maksimal atau ruang baris ketiga yang benar-benar lega**, Anda mungkin akan mulai melihat batasnya.
 
 ---
 
-## 📚 REFERENSI SUMBER
+## 📚 SOURCES
 
+Daftar sumber lengkap disimpan di `sources.md`.
+
+Kelompok sumber utama yang dipakai untuk dokumen ini:
+
+- Toyota Astra Motor
+- Toyota After Sales / Graha Toyota / Auto2000
 - Kompas Otomotif
-- Moladin Indonesia
-- Oto.com
-- Detik Otomotif
+- DetikOto
+- Carmudi
+- Moladin
 - IDN Times
-- YouTube Channel: Tim Channel, Kontan TV
-- Forum Otomotif: Kaskus, Facebook Groups
-- Official Toyota Website
-
----
-
-**Last Updated**: March 2026
-**Data Source**: Real user reviews, forum discussions, official specifications, ride comfort analysis
-**Research Period**: February - March 2026
+- Republika
+- Oto.com
+- Zigwheels
+- review YouTube dan road-test coverage terkait Veloz Hybrid EV
