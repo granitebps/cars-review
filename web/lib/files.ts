@@ -16,6 +16,7 @@ const EXCLUDED_ROOT_FILES = new Set([
   'README.md',
   'AGENTS.md',
   'CLAUDE.md',
+  'car-agent-plan.md',
 ])
 
 const RESEARCH_FILE_REGEX = new RegExp(

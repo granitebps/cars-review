@@ -32,7 +32,18 @@ export default function Home() {
       </div>
 
       {!hasContent && (
-        <p className="text-gray-400">No content found. Add markdown files to get started.</p>
+        <div className="mt-8 rounded-lg border border-dashed border-gray-300 p-10 text-center">
+          <div className="text-4xl mb-3">🔬</div>
+          <h2 className="text-base font-semibold text-gray-700 mb-1">No research files yet</h2>
+          <p className="text-sm text-gray-400 max-w-sm mx-auto">
+            Add research files to{' '}
+            <code className="bg-gray-100 px-1 rounded text-xs">research/&#123;car-name&#125;/</code>{' '}
+            following the naming convention and they'll appear here automatically.
+          </p>
+          <p className="text-xs text-gray-400 mt-3">
+            e.g. <code className="bg-gray-100 px-1 rounded">toyota-veloz-master-research.md</code>
+          </p>
+        </div>
       )}
 
       {navTree.reviews.length > 0 && (
