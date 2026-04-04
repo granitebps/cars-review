@@ -1,7 +1,7 @@
-# Variant suggestion questionnaire
+# Car & Variant Suggestion Questionnaire
 
-**Updated:** 2026-04-02  
-**Purpose:** daftar pertanyaan reusable untuk menentukan rekomendasi varian mobil, baik untuk Toyota Veloz Hybrid maupun model lain.
+**Updated:** 2026-04-04  
+**Purpose:** daftar pertanyaan reusable untuk menentukan rekomendasi mobil dan/atau varian, baik untuk memilih model (antar mobil) maupun memilih trim (dalam satu model).
 
 ---
 
@@ -17,6 +17,23 @@ Tujuannya:
 - bisa dipakai ulang saat ada update spesifikasi, harga, atau review baru
 
 Kalau semua pertanyaan dijawab, hasil rekomendasinya biasanya jauh lebih akurat.
+
+---
+
+## Section 0 - Car Selection (Pemilihan Model)
+
+Gunakan section ini kalau user belum memilih model mobil. Kalau user sudah punya model tertentu, langsung ke Section 1.
+
+1. Tipe body apa yang dicari? (MPV, SUV, sedan, hatchback, crossover)
+2. Kategori apa? (LMPV, UMPV, compact SUV, medium SUV, dll.)
+3. Mobil baru atau bekas?
+4. Brand apa yang dipertimbangkan?
+5. Brand apa yang dihindari? Kenapa?
+6. Ada mobil spesifik yang jadi kompetitor utama?
+7. Apakah terbuka dengan hybrid atau EV?
+8. Berapa kapasitas penumpang minimal yang dibutuhkan?
+9. Seberapa penting ground clearance tinggi?
+10. Apakah punya pengalaman dengan brand tertentu sebelumnya?
 
 ---
 
@@ -157,46 +174,75 @@ Kalau semua pertanyaan dijawab, hasil rekomendasinya biasanya jauh lebih akurat.
 
 ## Section 10 - Output Framework
 
-Setelah semua jawaban terkumpul, rekomendasi varian sebaiknya dibagi menjadi:
+Setelah semua jawaban terkumpul, rekomendasi sebaiknya dibagi menjadi:
 
 ### 1. Best Overall Match
 
-Varian yang paling cocok dengan kebutuhan nyata pembeli.
+Varian atau model yang paling cocok dengan kebutuhan nyata pembeli.
 
 ### 2. Best Value for Money
 
-Varian dengan rasio harga terhadap fitur paling masuk akal.
+Varian atau model dengan rasio harga terhadap fitur paling masuk akal.
 
 ### 3. Cheapest Acceptable Option
 
-Varian termurah yang masih aman direkomendasikan.
+Varian atau model termurah yang masih aman direkomendasikan.
 
 ### 4. Best Premium Choice
 
-Varian tertinggi yang masuk akal untuk pembeli yang ingin fitur maksimal.
+Varian atau model tertinggi yang masuk akal untuk pembeli yang ingin fitur maksimal.
 
-### 5. Who Should Avoid Each Variant
+### 5. Who Should Avoid Each Option
 
 Contoh:
 
 - hindari trim entry kalau wajib 360 camera
 - hindari trim style kalau tidak peduli tampilan
 - hindari trim tertinggi kalau ADAS tidak dipakai
+- hindari model A kalau butuh after-sales yang luas
+- hindari model B kalau budget ketat
+
+### Cross-Model Recommendation (kalau membandingkan antar model)
+
+Kalau user membandingkan 2-3 model:
+
+- pilih model A kalau prioritas utama adalah X
+- pilih model B kalau prioritas utama adalah Y
+- hindari model C kalau Z
+
+---
+
+## Cross-Model Decision Filters
+
+Gunakan section ini kalau user sudah punya 2-3 shortlist model dan butuh bantuan memilih. Section ini melengkapi Section 0.
+
+1. Dari shortlist Anda, model mana yang paling sering Anda lihat/baca reviewnya?
+2. Apakah ada model yang sudah Anda test drive?
+3. Model mana yang dealer-nya paling dekat/mudah dijangkau?
+4. Apakah ada model yang resale value-nya lebih penting buat Anda?
+5. Model mana yang after-sales / jaringan bengkelnya paling Anda percaya?
+6. Apakah ada model yang spare part-nya lebih mudah/murah?
+7. Kalau semua harga sama, model mana yang paling Anda suka secara desain?
+8. Apakah ada model yang waiting period-nya terlalu lama untuk Anda?
+9. Model mana yang paling banyak dipuji di komunitas yang Anda ikuti?
+10. Kalau disuruh pilih sekarang tanpa mikir panjang, model mana yang dipilih?
 
 ---
 
 ## Compact Version for Quick Consultation
 
-Kalau butuh versi cepat, cukup tanyakan 8 pertanyaan ini:
+Kalau butuh versi cepat, cukup tanyakan 10 pertanyaan ini:
 
-1. Budget ideal dan budget maksimal?
-2. Mobil lebih sering dipakai untuk apa?
-3. Lebih penting harga, fitur, safety, atau tampilan?
-4. ADAS penting atau tidak?
-5. 360 camera penting atau tidak?
-6. Tampilan sporty / body kit penting atau tidak?
-7. Mobil akan sering dipakai full penumpang atau tidak?
-8. Anda cari varian paling murah, paling worth it, atau paling lengkap?
+1. Sudah punya model tertentu atau masih cari? (kalau belum: tipe body dan kategori apa?)
+2. Budget ideal dan budget maksimal?
+3. Mobil lebih sering dipakai untuk apa?
+4. Lebih penting harga, fitur, safety, atau tampilan?
+5. ADAS penting atau tidak?
+6. 360 camera penting atau tidak?
+7. Tampilan sporty / body kit penting atau tidak?
+8. Mobil akan sering dipakai full penumpang atau tidak?
+9. Anda cari varian paling murah, paling worth it, atau paling lengkap?
+10. Ada brand atau model yang dihindari?
 
 ---
 

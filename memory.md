@@ -17,25 +17,28 @@
 - Dari percakapan X/Twitter Indonesia, Veloz Hybrid dipersepsikan positif sebagai hybrid Toyota 7-seater yang irit dan cocok untuk keluarga atau mudik, tetapi keberatan yang paling sering muncul adalah pajak tahunan, perbandingan value vs XL7/Tiggo 8 CSH/used Zenix, dan kekhawatiran ownership cost.
 - Twitter/X lebih berguna untuk membaca shopping behavior dan barrier ke pembelian Veloz Hybrid daripada untuk menarik kesimpulan reliabilitas jangka menengah.
 
-## Hyundai Stargazer (All Variants)
+## Hyundai Stargazer Cartenz & Cartenz X
 
-- Hyundai Stargazer memiliki 4 model: Stargazer (2022), Stargazer X (2023), Stargazer Cartenz (2025), Stargazer Cartenz X (2025). Model generasi 1 sudah discontinued, digantikan Cartenz/Cartenz X.
-- Harga Cartenz: Rp 269.9–350.4 juta; Cartenz X: Rp 361.9–391.9 juta (OTR Jakarta 2025-2026).
-- Semua model pakai mesin 1.5L Smartstream G1.5 MPI (115 PS / 144 Nm), transmisi 6MT atau IVT (chain-based CVT), FWD.
-- SmartSense ADAS berubah dari camera-based (gen-1) ke radar-based (Cartenz/Cartenz X) — upgrade signifikan.
-- SCC with Stop & Go hanya tersedia di Cartenz Smart HSS ke atas dan semua Cartenz X — fitur baru yang tidak ada di gen-1.
-- Ground clearance TURUN dari Stargazer original (195mm) ke Cartenz (185mm), sementara Cartenz X mempertahankan 190–205mm.
-- Recall radiator fan motor mempengaruhi Stargazer dan Creta gen awal (sebelum 2024). Bisa menyebabkan overheat dan kerusakan mesin. Status: recall resmi sudah dilakukan oleh Hyundai.
-- Battery drain dilaporkan oleh beberapa pemilik terkait fitur Bluelink — dapat menyebabkan kesulitan starter setelah parkir lama. Solusi: nonaktifkan Bluelink saat parkir lama.
-- Interior quality secara konsisten dinilai terbaik di kelas LMPV oleh reviewer profesional dan pemilik (OtoDriver, Om Mobi, Ridwan Hanif, Carmudi, multiple Twitter owners).
-- Hill-climb capability terbukti kuat: Moladin test Stargazer X 8 penumpang di Jogja, KOKOMOBIL test Cartenz di Cangar — keduanya lulus. Beberapa pembeli menyatakan video tanjakan menjadi alasan utama pembelian.
-- Fuel economy real-world: 11–14 km/l kota, 18–22 km/l highway (terkonfirmasi dari banyak pemilik di Twitter dan YouTube).
-- Resale value gen-1 Stargazer turun signifikan (~35-40% dalam 3 tahun). Hyundai menawarkan program garansi resale 70% pada 3 tahun untuk mitigasi.
-- Jaringan dealer Hyundai (126+) masih jauh di bawah Toyota (500+) dan Mitsubishi (300+). Layanan di luar kota besar masih terbatas.
-- Free Service 5 tahun/75.000 km + Free Parts 3 tahun/45.000 km — paket aftersales terkuat di kelas LMPV.
-- Cartenz Prime HSS (Rp 350.4 juta) memiliki value index tertinggi — paling banyak fitur per rupiah berdasarkan analisis perbandingan varian.
-- Cartenz Smart HSS (Rp 332.9 juta) adalah sweet spot untuk pembeli yang mengutamakan safety: 6 airbag + full SmartSense + SCC Stop&Go.
-- Cartenz X Trend (Rp 361.9 juta) memiliki LEBIH SEDIKIT fitur safety dibanding Cartenz Smart HSS (Rp 332.9 juta) — hanya 2 airbag. Jangan bandingkan berdasarkan nama model saja, bandingkan berdasarkan fitur aktual.
-- Sentimen design Cartenz/Cartenz X sangat positif (~80%) — perbaikan besar dari desain depan Stargazer original yang kontroversial.
-- IVT chain-type CVT lebih responsif dari belt CVT biasa, tapi lebih berisik di RPM tinggi saat beban berat.
-- CKD production di HMMI Cikarang, ekspor ke Thailand, Malaysia, Saudi Arabia — mendukung kelangsungan produksi dan ketersediaan suku cadang.
+- Stargazer Cartenz dan Cartenz X diluncurkan di GIIAS 2025 (Juli 2025), diproduksi lokal di pabrik Hyundai Cikarang dengan TKDN >40%. Branding: "The Real Indonesian Car".
+- Gen-1 Stargazer dan Stargazer X sudah berhenti produksi sejak Agustus 2025. Sisa stok masih dijual terbatas di beberapa dealer per Feb 2026.
+- Harga OTR Jakarta: Cartenz Trend MT Rp 269.9M → Cartenz X Prime Package Rp 391.9M (9 varian total: 6 Cartenz + 3 Cartenz X).
+- Mesin semua varian: Smartstream G1.5 MPI, 115 PS / 143.8 Nm, transmisi 6MT atau IVT (bukan 5MT).
+- Tangki BBM: 40 liter (dikonfirmasi oleh Carmudi, KabarOto description). Beberapa sumber lama menyebut 45L yang merujuk ke gen-1.
+- Ground clearance Cartenz dan Cartenz X: 205 mm. Dikonfirmasi multiple sources (Carmudi, KabarOto, Moladin). Beberapa sumber menyebut 190mm untuk Cartenz X Trend yang perlu verifikasi ulang.
+- Ban Cartenz Trend/Style: 205/55 R16. Ban Cartenz Smart HSS/Prime HSS dan semua Cartenz X: 205/50 R17.
+- Rem belakang Cartenz Trend/Style: drum. Cartenz Smart HSS/Prime HSS dan semua Cartenz X: disc.
+- Cartenz X Trend (Rp 319.9M) TIDAK memiliki SmartSense ADAS, sementara Cartenz Smart HSS (Rp 329.9M) memiliki full ADAS — buyer harus cermat membandingkan.
+- Cartenz Prime HSS (Rp 350.4M) memiliki value index tertinggi menurut analisis fitur-per-rupiah: full ADAS + SVM 360 + BOSE + ventilated seat + SCC Stop & Go.
+- SmartSense ADAS lengkap tersedia mulai Cartenz Smart HSS dan Cartenz X Style ke atas: FCA, LKA, LFA, BCA, DAW, HBA, TPMS, RCCA, SEA. SCC w/ Stop & Go, BVM, dan SVM hanya di Prime/Prime Package.
+- Konsumsi BBM real-world dari multiple owner dan reviewer: kota 10-14 km/l, tol 15-22 km/l, kombinasi 13.8-15 km/l. Irit untuk mesin 1.5L NA.
+- Pajak tahunan Cartenz: estimasi ~Rp 5.0-5.3 juta/tahun (kendaraan pertama, non-progresif). Dikonfirmasi Kompas Otomotif.
+- Biaya servis sangat murah: gratis jasa 5 tahun/75,000 km, gratis sparepart 3 tahun/45,000 km. Setelah garansi ~Rp 1.03 juta per servis.
+- Program resale value: 70% guaranteed buyback di tahun ke-3 (program trade-in Hyundai). Dikonfirmasi Kompas dan Tribunnews.
+- Waiting period pendek: 2-3 minggu dari order. Produksi lokal memastikan stok tersedia. Dikonfirmasi Katadata dan GridOto.
+- Keluhan paling konsisten: (1) underpowered full load di tanjakan, (2) IVT noise saat akselerasi keras, (3) desain depan polarizing, (4) Bluelink battery drain, (5) ADAS terlalu sensitif.
+- Radiator fan recall mempengaruhi gen-1 pre-2024. Belum dikonfirmasi apakah masalah ini masih ada di Cartenz. SoJooCars YouTube comment menyebut aux fan issue.
+- Pilar A agak tebal, sedikit mengurangi visibility saat belok. Dilaporkan owner @ardiindra di Twitter.
+- Komunitas HYSTORI (Hyundai Stargazer Owner Indonesia) aktif di seluruh Indonesia, ada thread Kaskus dan website resmi hystori.id.
+- Dari YouTube (20 video, 300+ komentar): desain depan 50/50 polarizing (belakang dan interior dipuji), fitur ADAS sangat diapresiasi, concern harga Cartenz X Prime mendekati segmen atas, wish list utama: varian hybrid.
+- Dari Twitter/X: sentimen mixed-positive. Feature-to-price ratio dipuji, service center expansion diminta, perbandingan dengan Veloz Hybrid sangat sering muncul.
+- Sales: 500-700 unit/bulan. GIIAS 2025: 50% total SPK Hyundai (~1,500 unit). Market share LMPV masih di bawah Xpander dan Avanza/Veloz tapi bertumbuh.

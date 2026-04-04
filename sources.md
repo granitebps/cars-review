@@ -168,91 +168,149 @@
 
 ---
 
-## Hyundai Stargazer
+## Hyundai Stargazer Cartenz & Cartenz X
 
 ### Official / first-party
 
-- https://www.hyundai.com/id/en/find-a-car/stargazer/specification
-- https://www.hyundai.com/id/id/find-a-car/stargazer-cartenz-x/specification
-- https://hyundaimobil.co.id/news/details/price-list-hyundai-stargazer-cartenz-dan-stargazer-cartenz-x
-- https://hyundaimobil.id/stargazer-cartenz/
-- https://stargazercartenz.com/model
+- https://hyundaimobil.co.id/news/details/the-real-indonesian-car-stargazer-cartenz-dan-stargazer-cartenz-x
+- https://www.hyundai.com/id (SmartSense & safety features)
+- https://stargazercartenz.com (official microsite)
+- https://www.hyundai.com/content/dam/hyundai/id/id/data/marketing/brochure/maintenance/STARGAZER-Biaya_Perawatan_Berkala.pdf
 
-### Automotive media (web)
+### Indonesian launch coverage
 
-- https://www.oto.com/mobil-baru/hyundai/stargazer-cartenz/harga
-- https://www.oto.com/en/mobil-baru/hyundai/stargazer-cartenz-x
-- https://www.carmudi.co.id/journal/mau-beli-hyundai-stargazer-cartenz-simak-dulu-harga-dan-variannya/
-- https://www.carmudi.co.id/journal/perbedaan-spesifikasi-utama-di-masing-masing-varian-hyundai-stargazer/
-- https://www.zigwheels.co.id/en/mobil-baru/hyundai/stargazer-cartenz/spesifikasi/
-- https://www.zigwheels.co.id/en/mobil-baru/hyundai/stargazer-cartenz-x/
-- https://www.mobil123.com/berita/spesifikasi-fitur-dan-harga-mobil-hyundai-stargazer-130973/130973
-- https://www.mobil123.com/berita/hyundai-stargazer-cartenz-cartenz-x-terobosan-mpv-keluarga-yang-lahir-dari-jalanan-indonesia-144476/144476
-- https://autonetmagz.com/bedah-hyundai-stargazer-inilah-fitur-tiap-tipe-harga-jualnya/109405/
-- https://moladin.com/news/varian-hyundai-stargazer/
-- https://carusermagz.com/beda-tipe-hyundai-stargazer-perbedaan-fitur-tipe-active-trend-style-dan-prime/
+- https://otomotif.kompas.com/read/2025/07/23/101646915/hyundai-stargazer-cartenz-resmi-meluncur-di-giias-2025
+- https://www.gridoto.com/read/224276232/hyundai-stargazer-cartenz-dan-cartenz-x-mejeng-di-giias-2025-sudah-bisa-pesan-di-dealer
+- https://auto.katadata.co.id/car/hyundai-stargazer-cartenz-purchased-at-giias-2025-claimed-to-have-no-waiting-list-19629
+- https://voi.id/en/otoinfo/503279
+- https://mediaindonesia.com/ekonomi/798802/hyundai-stargazer-cartenz-dan-cartenz-x-mulai-diproduksi-di-indonesia
+- https://www.idntimes.com/automotive/car/stargazer-cartenz-produksi-lokal-meluncur-agustus-2025-02-kmhpr-vxgyt5
+- https://pekanbaru.tribunnews.com/riau-region/1087427/hyundai-resmi-luncurkan-stargazer-cartenz-dan-cartenz-x-di-pekanbaru
 
-### News & launch coverage
+### Current spec / pricing portals
 
-- https://www.idntimes.com/automotive/car/hyundai-stargazer-cartenz-spesifikasi-harga-q9t01-00-lp9v2-4dpjsn
-- https://otomotif.kompas.com/read/2022/07/18/155136315/sebelum-beli-simak-dulu-perbedaan-fitur-tiap-tipe-hyundai-stargazer
-- https://toraja.tribunnews.com/2025/07/23/hyundai-luncurkan-stargazer-cartenz-dan-cartenz-x-di-giias-2025-intip-spesifikasi-dan-harganya
-- https://paultan.org/2025/07/25/19482025-hyundai-stargazer-cartenz-launched-in-indonesia038/
-- https://lifestyle.fin.co.id/2025/07/25/perbedaan-hyundai-stargazer-cartenz-cartenz-x-mana-yang-cocok-untuk-gaya-hidupmu
-- https://autoindo.id/stargazer-cartenz-dan-cartenz-x-jawaban-hyundai-untuk-mobilitas-keluarga-dan-profesional-indonesia/
-- https://hyundaimajumotor.id/news-290725/
+- https://dealer-hyundai-jakarta.com (Cartenz X specs)
+- https://www.otodriver.com (harga lengkap all variants)
+- https://www.carmudi.co.id (harga, review, biaya perawatan)
+- https://www.oto.com (Stargazer Cartenz specs)
+- https://moladin.com (review, spesifikasi, kredit, pajak)
+- https://www.zigwheels.co.id (spesifikasi)
+- https://vehiclesizes.com (international specs)
+- https://hyundaibintaro.org (perbedaan varian)
+- https://hyundaiutama.com (jadwal servis berkala)
+- https://hyundaifatmawati.net (pajak info)
+
+### Reviews and analysis
+
+- https://tirto.id (spesifikasi, kelebihan, kekurangan)
+- https://uzone.id (review Cartenz X)
+- https://www.idntimes.com (Cartenz vs Cartenz X comparison)
+- https://otomotif.sindonews.com (perbedaan & kekurangan)
+- https://pikiran-rakyat.com (spesifikasi)
+- https://medcom.id (fitur Cartenz X)
+- https://cnbcindonesia.com (fitur Cartenz X)
+- https://biz.kompas.com (daya tarik, resale value)
+- https://realitasonline.id (kenyamanan)
+- https://www.tvonenews.com/lifestyle/otomotif/375564-review-hyundai-stargazer-cartenz
+- https://www.bincangbincangmobil.com/mobile-podcast/831880307/review-hyundai-stargazer-cartenz
+- https://www.ototaiment.com/2025/08/03/60537/terungkap-rahasia-di-balik-hyundai-stargazer-cartenz
+- https://www.mobil123.com/berita/hyundai-stargazer-cartenz-cartenz-x-terobosan-mpv-keluarga-144476/144476
+- https://paultan.org (regional launch coverage)
+- https://www.topgear.com.ph (international perspective)
+
+### Fuel consumption
+
+- https://www.carmudi.co.id (konsumsi BBM)
+- https://www.otodriver.com (konsumsi BBM real-world)
+- https://www.gridoto.com (konsumsi BBM)
+- https://autofun.co.id (test drive BBM)
+
+### Tax and ownership cost
+
+- https://otomotif.kompas.com/read/2025/08/23/174200915/pajak-tahunan-hyundai-stargazer-cartenz-sekitar-rp-5-3-juta
+- https://www.ototaiment.com/2025/08/24/62529/terungkap-segini-pajak-tahunan-hyundai-stargazer-cartenz
+- https://hipake.com/pajak-mobil-hyundai-stargazer-semua-tahun/
+- https://moladin.com/news/pajak-hyundai-stargazer/
+- https://www.gridoto.com/read/223904926/berapa-pajak-tahunan-yang-harus-dibayar-pemilik-hyundai-stargazer-x
+
+### Service and maintenance
+
+- https://otomotifnet.gridoto.com/read/233549641/luar-biasa-murah-biaya-servis-hyundai-stargazer-lima-tahun-cuma-sejutaan
+- https://oto.detik.com/mobil/d-7513373/biaya-servis-berkala-hyundai-stargazer
+- https://www.carmudi.co.id/journal/biaya-perawatan-hyundai-stargazer-selama-5-tahun-di-bengkel-resmi/
+- https://www.indoblazer.com/2024/09/Daftar-sparepart-mobil-hyundai-yang-harus-anda-ganti-secara-rutin.html
+- https://hyundaipusatsurabaya.com/spareparts/
+
+### Sales data and market position
+
+- https://voi.id (sales data & production)
+- https://katadata.co.id (GIIAS SPK data)
+- https://jawapos.com (50% penjualan Hyundai)
+- https://gooto.com (sales domination)
+- https://mobitekno.com (GIIAS features)
+
+### Complaints and problems
+
+- https://radartegal.disway.id (keluhan pengguna)
+- https://mediakonsumen.com (keluhan delivery)
+- https://enginecrux.com/hyundai-stargazer-problems-insights-and-facts/
+- https://enginecrux.com/hyundai-blue-link-problems-facts-and-owner-insights/
+
+### Resale value
+
+- https://biz.kompas.com (resale value guarantee 70%)
+- https://tribunnews.com (aset keluarga)
+- https://otogaz.indozone.id (trade-in program)
+
+### Community and forums
+
+- https://www.hystori.id/ (HYSTORI community)
+- https://www.kaskus.co.id/thread/66f4e8e9fab6ec72080831ca/hyundai-stargazer-owner-indonesia-hystori-on-kaskus
+- https://hyundaiinternusa.com/komunitas-hystori-pusaka-creta-id-beberkan-pengalaman-otentik-bersama-hyundai
+- https://patrolmedia.co.id/2026/02/04/pengalaman-pengguna-hyundai-stargazer-cartenz/
+- https://otomotif.kompas.com/read/2026/01/26/110200815/curhat-pengguna-soal-plus-minus-hyundai-stargazer-cartenz
 
 ### YouTube reviewer research
 
-- https://www.youtube.com/watch?v=wKxsLy4vsIA (Om Mobi — Cartenz review)
-- https://www.youtube.com/watch?v=0PZH50kNHMY (Ridwan Hanif — Cartenz review)
-- https://www.youtube.com/watch?v=-mr21cBIWTs (Carmudi — Cartenz vs Veloz/Xpander)
-- https://www.youtube.com/watch?v=e_W12NtC_AA (Carmudi — Cartenz X vs Rush/Xpander Cross)
-- https://www.youtube.com/watch?v=aj5NnIqNKLg (Ridwan Hanif — Cartenz X review)
-- https://www.youtube.com/watch?v=GBvOqbjHjRw (OtoDriver — Stargazer 2022 review)
-- https://www.youtube.com/watch?v=BD13q9VHPSU (OtoDriver — Stargazer X review)
-- https://www.youtube.com/watch?v=BZM6S9HAp_8 (OtoDriver — Stargazer vs Xpander vs Veloz)
-- https://www.youtube.com/watch?v=aJXh2eGeMt4 (GridOto — Cartenz review)
-- https://www.youtube.com/watch?v=rVkYxLJDqJ0 (KOKOMOBIL — Cartenz Cangar hill-climb)
-- https://www.youtube.com/watch?v=5Lg2QGaM7Ok (LugNutz — Stargazer Active 2023)
-- https://www.youtube.com/watch?v=_bOzGnFCPNc (Moladin — Stargazer X Jogja climb)
-- https://www.youtube.com/watch?v=Kl3DqxYVG4w (LugNutz — 3-way LSUV comparison)
-- https://www.youtube.com/watch?v=N5rSMhXRGZo (Moladin — 3-way LSUV comparison)
-- https://www.youtube.com/watch?v=kQ8BKz_Hy1A (Carmudi — SUV 7-seater mega comparison)
-- https://www.youtube.com/watch?v=9HvJjLq_v6I (B Channel — Cartenz Trend in-depth)
-- https://www.youtube.com/watch?v=7eWjN8Kk6dc (TreNDS Auto — Cartenz review)
-- https://www.youtube.com/watch?v=MxLqMQxOtYw (Teguhku — Cartenz Style vs Smart)
-- https://www.youtube.com/watch?v=kFGJ8NQMT1o (Teguhku — Cartenz Prime 2026)
-- https://www.youtube.com/watch?v=4lqQjJx8rCk (Kacamata Andi Pras — Cartenz Prime unboxing)
-- https://www.youtube.com/watch?v=JzLHrm4fKOA (Kacamata Andi Pras — Cartenz X Prime unboxing)
-- https://www.youtube.com/watch?v=oQv5HJwbN6U (Jason Nathaniel — Cartenz X review)
-- https://www.youtube.com/watch?v=ZfJLgVfJbRk (Otohubdotco — Cartenz X vs competitors)
-- https://www.youtube.com/watch?v=HqjY5ks3FfE (Motomobi — Stargazer X review)
-- https://www.youtube.com/watch?v=dF2HjKVNR2c (Driving Indonesia — Stargazer Prime POV)
-- https://www.youtube.com/watch?v=aUh9VvC9CBA (OTW Indonesia — 10 kelemahan Stargazer)
-- https://www.youtube.com/watch?v=1Gx8bYcNbDM (Motomobi — Stargazer ownership)
-- https://www.youtube.com/watch?v=qW8vY5aDtDE (GridOto — Stargazer X vs Xpander Cross)
-- https://www.youtube.com/watch?v=XMvDqjFjJxY (Dokter Mobil — CVT vs IVT)
+- https://www.youtube.com/watch?v=yhfEECNONDU (Ridwan Hanif - LSUV Terbaik, 251K views)
+- https://www.youtube.com/watch?v=E3kojLcBkos (Ridwan Hanif - First Look, 194K views)
+- https://www.youtube.com/watch?v=6rUsBTE1nhU (Carmudi - Full Review, 189K views)
+- https://www.youtube.com/watch?v=e_W12NtC_AA (KOKOMOBIL - Tes Tanjakan, 49K views)
+- https://www.youtube.com/watch?v=0PZH50kNHMY (LugNutz - Comparison, 975K views)
+- https://www.youtube.com/watch?v=BZM6S9HAp_8 (Moladin - Comparison, 145K views)
+- https://www.youtube.com/watch?v=p3qLPYpyimo (B Channel - In Depth Tour, 38K views)
+- https://www.youtube.com/watch?v=PipP_wFbI0o (Jason Nathaniel - Cartenz X, 27K views)
+- https://www.youtube.com/watch?v=yewBJQuDp8k (Otohub - Comparison, 7.3K views)
+- https://www.youtube.com/watch?v=49MPoTU1ngg (Driving Indonesia - POV Cartenz X, 45K views)
+- https://www.youtube.com/watch?v=HvulbUapeoQ (GridOto - Cartenz overview, 36K views)
+- https://www.youtube.com/watch?v=bGb1dSyKwnE (Kacamata Andi Pras - Prime, 10K views)
+- https://www.youtube.com/watch?v=pq2LjrKR1OU (Teguhku - Style vs Smart, 14K views)
+- https://www.youtube.com/watch?v=IRb7HuTarIk (TreNDS Auto - Review Jujur, 14K views)
+- https://www.youtube.com/watch?v=6ncL7Z3IFZk (Driving Indonesia - Cartenz X POV)
+- https://www.youtube.com/watch?v=uBgxfx3xFes (Driving Indonesia - Cartenz Prime POV)
+- https://www.youtube.com/watch?v=lZVuF0Wsfi8 (Kacamata Andi Pras - Cartenz X Prime)
+- https://www.youtube.com/watch?v=H--iyzEx7Co (Teguhku - Cartenz Prime 2026)
+- https://www.youtube.com/watch?v=vsrQmkDNEMQ (KabarOto - Cartenz X Prime, 4.5K views)
+- https://www.youtube.com/watch?v=FHV1B0nVFiw (SoJooCars - Full Review, 35K views)
 
 ### X / Twitter sentiment research
 
-- https://x.com/Gieehad/status/stargazer-is-the-best (owner praise, 222 likes)
-- https://x.com/SmwGwOto/status/radiator-fan-recall-warning (396 likes, 55K views)
-- https://x.com/madtyarizki/status/3-year-owner (19 likes)
-- https://x.com/ceh_fajar/status/3-year-owner-dealer-concern (verified)
-- https://x.com/ardiindra/status/cartenz-x-vs-veloz-hybrid (balanced comparison)
-- https://x.com/innovacommunity/status/recall-awareness (43 likes)
-- https://x.com/MikeyRosfield/status/stargazer-x-impression
-- https://x.com/spicyboyszsss/status/jkt-malang-fuel-economy
-- https://x.com/bigdigjohnny/status/sby-fuel-economy
-- https://x.com/orangcadel/status/prime-2025-purchase
-- https://x.com/RosemaryFrie124/status/bluelink-battery-drain
-- https://x.com/radarmadiunweb/status/giias-3017-spk
-- https://x.com/katadataoto/status/cartenz-giias-favorit
-- https://x.com/Carmudi_ID/status/cartenz-x-adaptive-cruise
-- https://x.com/sayamakibao/status/stargazer-prime-recommendation
-- https://x.com/Hwanshuu/status/xl7-vs-stargazer-comparison
-- https://x.com/jabang_tetuko/status/stargazer-recommendation
-- https://x.com/lo_myself7/status/cartenz-x-analysis (multiple analysis threads)
-- https://x.com/eRaptorrr/status/hyundai-management-criticism
-- https://x.com/paultan/status/malaysia-stargazer-cartenz
+- https://x.com/hyundaimotorid (official promotional, multiple tweets)
+- https://x.com/Persija_Jkt/status/2038473205376262219 (collaboration, 201 likes)
+- https://x.com/detikoto/status/2039189954274967954 (MPV keluarga article)
+- https://x.com/innovacommunity/status/2017495473767256133 (Cartenz X vs Veloz poll, 60 replies)
+- https://x.com/ardiindra/status/2017802229605089481 (owner comparison insight)
+- https://x.com/ardiindra/status/2017804728063955386 (feature detail)
+- https://x.com/sayamakibao (Prime HSS value praise)
+- https://x.com/ashiieef (family recommendation)
+- https://x.com/Kevin_Anggie/status/2039281209076002893 (Cartenz X mention)
+- https://x.com/ibubiasa25/status/2039215826964979769 (aspirational buyer)
+- https://x.com/kompasios/status/2024323070777766272 (Bluelink feature)
+- https://x.com/KompasOtomotif (automotive news, multiple)
+- https://x.com/kompascom (news coverage, multiple)
+- https://x.com/uzoneindonesia (review link)
+- https://x.com/autofunid (market analysis)
+- https://x.com/ThePhrase_ID (Hyundai Subscribe service)
+- https://x.com/Carmudi_ID (GIIAS launch)
+
+---
