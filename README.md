@@ -7,9 +7,9 @@ Indonesian automotive research repository. Contains in-depth research, variant c
 | Folder / File | Purpose |
 |---|---|
 | `research/` | All car research files, organized by model |
+| `research/{car-name}/{car-name}-sources.md` | Source links for each car (organized by Web/YouTube/Twitter) |
 | `research/variant-suggestion-questionnaire.md` | Questionnaire used for buyer recommendations |
 | `memory.md` | Verified insights accumulated across research sessions |
-| `sources.md` | Source links organized by car model |
 | `web/` | Next.js UI for reading research files in the browser |
 | `.github/agents/` | AI agent configuration |
 | `.github/instructions/` | Workflow instructions (research, comparison, suggestion) |
@@ -24,6 +24,7 @@ Each car model has its own folder inside `research/`:
 ```
 research/
   {car-name}/
+    {car-name}-sources.md                 ← source links for this car
     {car-name}-web-research.md
     {car-name}-youtube-research.md
     {car-name}-twitter-research.md
@@ -37,11 +38,29 @@ research/
 
 | File | Content |
 |---|---|
+| `sources` | Complete reference list of all sources gathered (Web, YouTube, Twitter) |
 | `web-research` | Specs and narrative from web sources (news, media, forums, blogs) |
 | `youtube-research` | Specs from video descriptions/transcripts + narrative from comments |
 | `twitter-research` | Public sentiment, owner opinions, and experiences from Twitter/X |
 | `master-research` | Final compiled research synthesizing all three sources |
 | `variant-comparison` | Side-by-side comparison of trims within the same model |
+
+### Sources Organization
+
+Each car has its own **per-car sources file** inside the research folder:
+
+**Location:** `research/{car-name}/{car-name}-sources.md`
+
+Example files:
+- `research/toyota-veloz-hybrid/toyota-veloz-hybrid-sources.md` — All sources for Veloz Hybrid
+- `research/hyundai-stargazer-cartenz/hyundai-stargazer-cartenz-sources.md` — All sources for Stargazer
+
+**Organization:** Links organized by source type (Web, YouTube, Twitter) with descriptions and counts.
+
+**Benefits:**
+- Self-contained research packages (each car has its complete source list)
+- Sources discoverable on web UI: `/research/[car]/sources`
+- Future research tasks automatically follow this convention
 
 ---
 
@@ -56,7 +75,7 @@ Researches a car model by gathering from three sources:
 - **YouTube** — minimum 50 sources via YouTube MCP
 - **Twitter** — minimum 100 sources (tweets + replies) via Twitter MCP
 
-Produces 4 markdown files per car: web, youtube, twitter, and master research.
+Produces 4 markdown files per car: sources, web, youtube, twitter, and master research.
 
 ### 2. Comparison
 
@@ -87,6 +106,24 @@ All research content uses two formats:
 ## Web UI
 
 A simple Next.js app for reading research files in the browser.
+
+### Features
+
+- **Auto-discovery**: All research files matching the naming convention appear automatically
+- **Per-car organization**: Each car shows all research types: Sources, Master, Web, YouTube, Twitter, Variant Comparison
+- **Research-focused**: Shows only research content (reviews deprecated)
+- **Mobile-friendly**: Hamburger menu on mobile, sidebar navigation on desktop
+
+### Available Research Types
+
+The web UI displays all research file types with color-coded navigation:
+
+- 🟨 **Sources** — Reference links organized by source type
+- 🟦 **Master** — Synthesized research from all sources
+- 🟩 **Web** — Web-gathered specifications and narratives
+- 🟥 **YouTube** — Video specs and owner comments
+- 🟦 **Twitter** — Public sentiment from Twitter/X
+- 🟪 **Compare** — Variant or cross-car comparisons
 
 ### Run locally
 
