@@ -66,3 +66,66 @@
 - #1 complained: annual tax Rp 5.5M
 - Key debate: Veloz Hybrid (385M) vs Stargazer Cartenz Smart HSS (329.9M for ADAS)
 - Chinese competition credited for forcing Toyota competitive pricing
+
+## Hyundai Stargazer Cartenz & Cartenz X
+
+### Pricing (verified April 2026 via hyundaimobil.co.id, oto.com, carmudi.co.id, YouTube)
+- 9 variants: 6 Cartenz + 3 Cartenz X
+- Cartenz: Rp 269.9M (Trend MT) to Rp 350.4M (Prime HSS)
+- Cartenz X: Rp 361.9M (Trend) to Rp 391.9M (Prime Package)
+- Options: Captain Seat +Rp 3.5M, Matte Color +Rp 3.5M
+- CRITICAL: Cartenz X Trend (Rp 361.9M) has NO SmartSense ADAS despite being more expensive than Cartenz Smart HSS (Rp 332.9M) which has FULL ADAS
+
+### Specs (verified April 2026)
+- Engine: Smartstream G 1.5 MPI, 1,497cc, 115 PS, 143.8 Nm — all variants identical
+- Transmission: 6MT (Trend/Style only) or IVT (all variants)
+- Fuel tank: 40 liters (confirmed KabarOto, Carmudi — NOT 45L from gen-1)
+- Wheelbase: 2,780mm all variants
+- Ground clearance: 185mm (R16 variants), 205mm (R17 variants + all Cartenz X)
+- Cartenz dimensions: 4,575 x 1,780 x 1,695-1,710mm
+- Cartenz X dimensions: 4,610 x 1,820 x 1,740mm
+- Ban: 205/55 R16 (Trend/Style) or 205/50 R17 (Smart/Prime + all X)
+- Rear brake: drum (Trend/Style) or disc (Smart/Prime + all X)
+
+### ADAS SmartSense (13 fitur — only on Smart HSS, Prime HSS, X Style, X Prime)
+- FCA (incl. Junction Turning), LKA, LFA, SCC w/ Stop & Go, BCA, RCCA, SVM (360°), SEW, HBA, DAW, LVDA, PDW F+R
+- BVM (Blind-spot View Monitor) — exclusive to Cartenz X Style and X Prime Package
+- IMPORTANT: Cartenz X Trend does NOT have SmartSense despite higher price than Smart HSS
+
+### Fuel Economy (real-world)
+- City: 12-14 km/l
+- Highway: 15-22 km/l (eco up to 25 km/l)
+- Combined: 14-19 km/l
+- Hill climb/aggressive: 9.7-12 km/l
+
+### Ownership Cost
+- Annual tax: ~Rp 5.0-6.2M depending on variant
+- Free service: 5 years / 75,000 km (parts free 3yr/45K km)
+- Warranty: 3 years / 100,000 km
+- Bluelink free: 3 years
+
+### Key Strengths
+1. ADAS terlengkap di segmen LMPV (mulai Rp 332.9M)
+2. Bluelink connectivity (remote AC, tracking, SOS)
+3. 6 airbag dari mid-variant (Smart HSS+)
+4. Service gratis 5 tahun (terlama di segmen)
+5. Ventilated seat & BOSE audio <Rp 400M (X Prime)
+6. Ground clearance 205mm (Cartenz X)
+
+### Key Weaknesses
+1. Mesin 1.5L NA kurang bertenaga (115 PS untuk ~1,400 kg)
+2. IVT/CVT noise saat akselerasi
+3. Cartenz X Trend tanpa ADAS (anomali harga)
+4. Suspensi cenderung stiff
+5. Ban profil tipis 205/50 R17
+6. Baris 3 terbatas untuk dewasa >170cm
+7. Spare part availability di kota kecil
+8. Tangki BBM hanya 40L
+
+### Reviewer Consensus
+- Best value: Cartenz Smart HSS (Rp 332.9M)
+- Worst value: Cartenz X Trend (Rp 361.9M tanpa ADAS)
+- ADAS winner vs Veloz, Xpander Cross, Destinator
+- Mesin kalah vs Destinator (turbo) dan Veloz (hybrid)
+- Sales: 500-700 unit/bulan, target 1,000/bulan
+- Awards: People's Favorite MPV (GJAW 2025), Most Inspiring MPV (IAA 2025)

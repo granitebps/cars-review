@@ -1,398 +1,528 @@
-# Hyundai Stargazer Cartenz & Cartenz X - Web Research
+# Hyundai Stargazer Cartenz & Cartenz X — Web Research
 
-**Last Updated:** 2026-04-04  
-**Research Period:** Maret–April 2026  
-**Sources Analyzed:** 60+ Indonesian web sources (media, dealer, pricing portals, forums)  
-**Time Coverage:** Launch coverage (Jul 2025–present)
-
----
-
-## Overview
-
-Web research for Hyundai Stargazer Cartenz and Cartenz X reveals a **complete and stable market picture** as of April 2026:
-
-- **9 variants total** across two lines: 6 Cartenz + 3 Cartenz X
-- **Consistent pricing** verified across multiple portals (OTO, Carmudi, MolaDin, Zigwheels)
-- **Unified mechanical platform**: all variants share 1.5L naturally aspirated engine, 115 PS
-- **Production status**: locally manufactured in Cikarang, Indonesia (TKDN >40%)
-- **Gen-1 discontinuation**: original Stargazer production ended August 2025; Cartenz is direct replacement
-- **Warranty & service program**: among most generous in segment (5 year/150k km vehicle warranty, 8 year aki)
+**Research Date**: April 2026
+**Total Web Sources**: 100+ URLs
+**Information Classification**: Specification (tables) + Narrative (commentary)
 
 ---
 
-## Specifications Matrix: All 9 Variants
+## 1. OVERVIEW
 
-| **Varian** | **Harga OTR** | **Transmisi** | **Panjang** | **Lebar** | **Tinggi** | **Ground Clearance** | **Ban** | **Rem Belakang** |
-|---|---|---|---|---|---|---|---|---|
-| **Cartenz Trend MT** | Rp 269,9M | 6-sp Manual | 4575 mm | 1780 mm | 1695 mm | 205 mm | 205/55 R16 | Drum |
-| **Cartenz Trend IVT** | Rp 279,9M | IVT | 4575 mm | 1780 mm | 1695 mm | 205 mm | 205/55 R16 | Drum |
-| **Cartenz Style MT** | Rp 289,9M | 6-sp Manual | 4575 mm | 1780 mm | 1695 mm | 205 mm | 205/55 R16 | Drum |
-| **Cartenz Style IVT** | Rp 299,9M | IVT | 4575 mm | 1780 mm | 1695 mm | 205 mm | 205/55 R16 | Drum |
-| **Cartenz Smart HSS** | Rp 329,9M | IVT | 4575 mm | 1780 mm | 1710 mm | 205 mm | 205/50 R17 | Disc |
-| **Cartenz Prime HSS** | Rp 350,4M | IVT | 4575 mm | 1780 mm | 1710 mm | 205 mm | 205/50 R17 | Disc |
-| **Cartenz X Trend** | Rp 319,9M | IVT | 4610 mm | 1820 mm | 1740 mm | 205 mm | 205/50 R17 | Disc |
-| **Cartenz X Style** | Rp 349,9M | IVT + shift-by-wire | 4610 mm | 1820 mm | 1740 mm | 205 mm | 205/50 R17 | Disc |
-| **Cartenz X Prime Package** | Rp 391,9M | IVT + shift-by-wire | 4610 mm | 1820 mm | 1740 mm | 205 mm | 205/50 R17 | Disc |
+Hyundai Stargazer Cartenz dan Cartenz X adalah generasi kedua (facelift besar) dari Hyundai Stargazer yang diluncurkan di GIIAS 2025 pada Juli 2025. Diberi tagline "Dibuat untuk Jalanan Indonesia", model ini menggantikan Stargazer gen-1 dan Stargazer X yang sudah discontinued sejak Agustus 2025.
 
-### Key Observations from Matrix
-- **Wheelbase (all variants):** 2780 mm — identical across Cartenz and Cartenz X
-- **Cartenz dimensions:** consistent 4575 mm length × 1780 mm width
-- **Cartenz X dimensions:** slightly longer (4610 mm) and wider (1820 mm) with cladding, roof rail, and LSUV styling
-- **Height progression:** Trend/Style at 1695 mm, Smart/Prime higher at 1710 mm (Smart HSS benefit)
-- **Tire upgrade at Smart/Prime:** 17" alloy wheels (205/50 R17) vs 16" steel (205/55 R16) on entry variants
-- **Rear brake upgrade:** Disc brakes on Smart/Prime and all Cartenz X; drum brakes on Trend/Style
-- **Cartenz X Trend paradox:** Same tire and disc brake as Style but lacks ADAS (see ADAS section)
+Stargazer Cartenz tersedia dalam 6 varian (termasuk MT dan IVT), sementara Cartenz X hadir dalam 3 varian khusus IVT. Cartenz X mengusung desain crossover/LSUV yang lebih tinggi dan gagah.
 
 ---
 
-## Technical Specifications - Detailed by Variant Class
+## 2. PRICING (Specification)
 
-### Powerplant (All Variants Identical)
+### 2.1 Stargazer Cartenz — OTR Jakarta (2025-2026)
 
-| **Component** | **Specification** |
-|---|---|
-| **Engine Model** | Smartstream G1.5 MPI |
-| **Engine Type** | 4-cylinder, naturally aspirated, in-line |
-| **Displacement** | 1,497 cc |
-| **Power Output** | 115 PS @ 6,300 rpm |
-| **Torque** | 143.8 Nm @ 4,500 rpm |
-| **Fuel Tank** | 40 liters (confirmed multiple sources) |
-| **Fuel Type** | Petrol RON 88 or higher |
+| Varian | Transmisi | Harga OTR Jakarta |
+|--------|-----------|-------------------|
+| Trend MT | 6MT | Rp 269.900.000 |
+| Trend IVT | IVT | Rp 279.900.000 |
+| Style MT | 6MT | Rp 289.900.000 |
+| Style IVT | IVT | Rp 299.900.000 |
+| Smart HSS IVT | IVT | Rp 332.900.000 |
+| Prime HSS IVT | IVT | Rp 350.400.000 |
 
-**Interpretation:** Single engine spec across all variants means power delivery is consistent. Buyers do NOT upgrade engine performance when moving to higher trim — they upgrade features, ADAS, comfort, and styling.
+### 2.2 Stargazer Cartenz X — OTR Jakarta (2025-2026)
 
----
+| Varian | Transmisi | Harga OTR Jakarta |
+|--------|-----------|-------------------|
+| Trend IVT | IVT | Rp 361.900.000 |
+| Style IVT | IVT | Rp 374.900.000 |
+| Prime Package IVT | IVT | Rp 391.900.000 |
 
-### Transmission Options
+### 2.3 Opsi Tambahan
 
-| **Option** | **Type** | **Gears** | **Applied To** |
-|---|---|---|---|
-| **MT** | 6-speed Manual | 6 forward, 1 reverse | Cartenz Trend MT, Style MT |
-| **IVT** | Intelligent Variable Transmission | CVT-type, no fixed ratios | Cartenz Trend IVT → Prime HSS |
-| **IVT + Shift-by-Wire** | CVT + manual override + paddle shifters | CVT with electronic shifter | Cartenz X Style, X Prime Package |
+| Opsi | Harga Tambahan |
+|------|----------------|
+| Captain Seat (baris 2) | +Rp 3.500.000 |
+| Matte Color | +Rp 3.500.000 |
 
-**Technical Note:** IVT is continuously variable (not traditional step-ratio). Shift-by-wire on Cartenz X allows manual mode engagement via paddle shifters or electronic gear selector. No paddle shifters on standard Cartenz variants.
-
----
-
-### Suspension & Chassis
-
-| **Component** | **Specification** | **Note** |
-|---|---|---|
-| **Front Suspension** | MacPherson Strut | All variants identical |
-| **Rear Suspension** | Torsion Beam | All variants identical |
-| **Steering Type** | Electric Power Steering (EPS) | Standard across variants |
-| **Fuel Tank Location** | Underfloor | Cartenz X has battery pack below floor for Bluelink; no structural difference |
-| **Seating Configuration** | 7-seater standard | Row 2 as bench seat; Row 3 foldable |
-| **Seating Alternative (X variants)** | 6-seater captain seat option | Cartenz X Prime Package can be ordered with captains in row 2 |
-| **Luggage Capacity** | 585 liters (row 3 folded) | Increases to ~1,500 liters with all rows folded |
-
-**Running Gear Interpretation:** Suspension tuning is comfort-oriented across all variants — no performance variants with stiffer springs or adaptive dampers. MacPherson front and torsion beam rear are conventional choices for family MPV segment, prioritizing ride comfort over handling sharpness.
+**Sumber**: hyundaimobil.co.id, otodriver.com, carmudi.co.id, stargazercartenz.com, zigwheels.co.id
 
 ---
 
-### Dimensions Detail
+## 3. SPECIFICATIONS (Specification)
 
-| **Measurement** | **Cartenz** | **Cartenz X** | **Wheelbase** | **Overhang (Front/Rear)** |
-|---|---|---|---|---|
-| **Overall Length** | 4,575 mm | 4,610 mm | 2,780 mm (both) | ~950 mm F / ~845 mm R (est.) |
-| **Overall Width** | 1,780 mm | 1,820 mm | — | +40 mm wider in X |
-| **Overall Height** | 1,695–1,710 mm | 1,740 mm | — | +25–45 mm taller in X |
-| **Track Width (F/R est.)** | ~1,530 mm | ~1,570 mm | — | +40 mm in X |
-| **Ground Clearance** | 205 mm | 205 mm | — | **Identical** |
+### 3.1 Mesin & Drivetrain
 
-**Vehicle Category:** Both Cartenz and Cartenz X classified as **Low-floor MPV/LSUV (Low-entry Multi-Purpose Vehicle)** by Indonesian tax authority. Neither qualifies as off-road capable SUV; ground clearance is optimized for urban and highway use, not rough terrain.
+| Parameter | Detail |
+|-----------|--------|
+| Mesin | Smartstream G 1.5 MPI (G4FIII) |
+| Tipe | 4 Silinder Segaris, DOHC, Dual Port Injection, D-CVVT |
+| Kapasitas | 1.497 cc |
+| Tenaga Maksimum | 115 PS @ 6.300 rpm |
+| Torsi Maksimum | 143,8 Nm @ 4.500 rpm |
+| Transmisi MT | Manual 6-percepatan |
+| Transmisi IVT | CVT (Intelligent Variable Transmission) |
+| Penggerak | FWD (Front-Wheel Drive) |
+| BBM Rekomendasi | RON 90+ (Pertalite compatible) |
+| Kapasitas Tangki | 40 liter |
 
----
+**Sumber**: carmudi.co.id (video description 6rUsBTE1nhU), oto.com, hyundai.com/id
 
-## Brake System Detail
+### 3.2 Dimensi — Cartenz
 
-| **Variant Class** | **Front Brake** | **Rear Brake** | **ABS** | **EBD** | **Brake Assist** |
-|---|---|---|---|---|---|
-| **Trend / Style** | Ventilated Disc | Drum | Yes | Yes | Yes |
-| **Smart HSS & above** | Ventilated Disc | Disc | Yes | Yes | Yes (Hill Start Assist included) |
-| **Cartenz X (all)** | Ventilated Disc | Disc | Yes | Yes | Yes (Hill Start Assist included) |
+| Parameter | Cartenz |
+|-----------|---------|
+| Panjang | 4.575 mm |
+| Lebar | 1.780 mm |
+| Tinggi (Trend, Style) | 1.695 mm |
+| Tinggi (Smart HSS, Prime HSS) | 1.710 mm |
+| Wheelbase | 2.780 mm |
+| Ground Clearance | 185 mm (Trend/Style), 205 mm (Smart HSS/Prime HSS) |
+| Radius Putar | 5,4 m |
+| Kapasitas Penumpang | 7 orang |
 
-**Brake Interpretation:** Drum brakes on Trend/Style are cost reduction measure; rear disc upgrade on Smart/Prime correlates with ADAS introduction. Hill Start Assist (HSA) debut on Smart HSS aligns with SmartSense ADAS package introduction.
+**Catatan**: Carmudi Indonesia menyebutkan ground clearance 205 mm untuk Smart HSS dan Prime HSS. Beberapa sumber menyebutkan 185 mm universal — kemungkinan perbedaan ukuran ban (R16 vs R17).
 
----
+### 3.3 Dimensi — Cartenz X
 
-## Tire & Wheel Specifications
+| Parameter | Cartenz X |
+|-----------|-----------|
+| Panjang | 4.610 mm |
+| Lebar | 1.820 mm |
+| Tinggi | 1.740 mm |
+| Wheelbase | 2.780 mm |
+| Ground Clearance | 205 mm |
+| Radius Putar | 5,4 m |
+| Kapasitas Penumpang | 7 orang |
 
-| **Variant Group** | **Wheel Size** | **Tire Spec** | **Tire Load Rating** | **Rim Type** |
-|---|---|---|---|---|
-| **Trend / Style** | 16 inches | 205/55 R16 | 91V | Steel (coated) |
-| **Smart HSS / Prime HSS** | 17 inches | 205/50 R17 | 91V | Alloy (17" 7-spoke design) |
-| **Cartenz X (all variants)** | 17 inches | 205/50 R17 | 91V | Alloy (17" multi-spoke design) |
+**Sumber**: moladin.com, oto.com, hyundai.com/id, vehiclesizes.com, Carmudi Indonesia
 
-**Tire Performance Note:** 205/55 R16 vs 205/50 R17 have same overall diameter (~645 mm) but different sidewall height. R16 has taller sidewall (57 mm) for comfort; R17 has shorter sidewall (51 mm) for sharper handling. Load rating identical at 91V (615 kg per tire).
+### 3.4 Suspensi & Rem
 
----
+| Parameter | Cartenz Trend/Style | Cartenz Smart/Prime & Cartenz X |
+|-----------|---------------------|---------------------------------|
+| Suspensi Depan | MacPherson Strut | MacPherson Strut |
+| Suspensi Belakang | Coupled Torsion Beam Axle | Coupled Torsion Beam Axle |
+| Rem Depan | Cakram Ventilasi (15") | Cakram Ventilasi (15") |
+| Rem Belakang | Teromol (9") | Cakram (14") |
+| Ban | 205/55 R16 | 205/50 R17 |
+| Steering | Column-Mounted MDPS | Column-Mounted MDPS |
 
-## ADAS Features Matrix - Full Mapping
+**Sumber**: Carmudi Indonesia (6rUsBTE1nhU description), oto.com
 
-### SmartSense ADAS Availability by Variant
+### 3.5 Sistem Kelistrikan & Rem
 
-| **ADAS Feature** | **Full Name** | **Cartenz Trend/Style** | **Cartenz Smart HSS** | **Cartenz Prime HSS** | **Cartenz X Trend** | **Cartenz X Style** | **Cartenz X Prime Package** |
-|---|---|---|---|---|---|---|---|
-| **FCA** | Forward Collision-Avoidance | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **LKA** | Lane Keeping Assist | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **LFA** | Lane Following Assist | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **BCA** | Blind Spot Collision Avoidance | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **DAW** | Driver Attention Warning | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **HBA** | Headlight Beam Assist | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **TPMS** | Tire Pressure Monitoring | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **RCCA** | Rear Cross-Traffic Collision Avoidance | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **SEA** | Safe Exit Assist | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **SCC** | Smart Cruise Control (Stop & Go with radar) | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ |
-| **BVM** | Blind-Spot View Monitor (360 partial) | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ |
-| **SVM** | Surround View Monitor (full 360 camera) | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ |
-
-### ADAS Grouping Summary
-
-**Tier 0 (No ADAS):** Trend & Style (all Cartenz), Cartenz X Trend
-
-**Tier 1 (Full SmartSense Basic):** Cartenz Smart HSS, Cartenz X Style
-- Includes: FCA, LKA, LFA, BCA, DAW, HBA, TPMS, RCCA, SEA
-- **No SCC, BVM, SVM** — adaptive cruise and 360 camera absent
-
-**Tier 2 (SmartSense Premium + Advanced):** Cartenz Prime HSS, Cartenz X Prime Package  
-- Includes: All Tier 1 features PLUS SCC (adaptive cruise w/ stop/go), BVM (limited), SVM (full 360)
-- **SCC with radar** enables Stop & Go functionality (automatic stop in traffic, auto-resume)
-
-**Critical Value Break:** 
-- Cartenz Smart HSS (Rp 329.9M) = biggest jump from Style (Rp 299.9M) because full ADAS enters
-- Cartenz Prime HSS (Rp 350.4M) = secondary jump adds SCC + 360 camera system
-
----
-
-## Infotainment & Connectivity Features
-
-| **Feature** | **Trend** | **Style** | **Smart** | **Prime** | **Note** |
-|---|---|---|---|---|---|
-| **Head Unit** | 8" touchscreen | 8" touchscreen | Dual 10.25" screens | Dual 10.25" screens | Dual screens are center + instrument cluster |
-| **Bluelink** | ✗ | ✓ | ✓ | ✓ | Remote start AC, lock/unlock, location tracking via app |
-| **Apple CarPlay** | ✗ | ✓ | ✓ | ✓ | Wireless on Smart/Prime (Trend/Style: wired only if equipped) |
-| **Android Auto** | ✗ | ✓ | ✓ | ✓ | Wired |
-| **USB Ports (Type-C)** | 2 | 2 | 2 + wireless charger | 2 + wireless charger | Wireless charger debut on Smart |
-| **Ambient Lighting** | Basic | 64-color adjustable | 64-color adjustable | 64-color adjustable | Configurable via head unit |
-| **Audio System** | Standard 6-speaker | Standard 6-speaker | Standard 6-speaker | **BOSE premium 8-speaker** | BOSE brand debut on Prime |
-| **Climate Control** | Manual AC (front) | Manual AC (front) | Dual-zone auto | Dual-zone auto + rear vent | Rear climate debut on Smart |
-
-**Connectivity Interpretation:** Bluelink battery drain is known concern — continuous telemetry connection consumes ~50-100 mA standby current. Mitigated by modern BMS (battery management system) in Cartenz, but owner reports suggest monitoring recommended for infrequent-use vehicles.
+| Fitur | Semua Varian |
+|-------|-------------|
+| ABS | Ya |
+| EBD | Ya |
+| BAS (Brake Assist) | Ya |
+| HAC (Hill-start Assist Control) | Ya |
+| ESC (Electronic Stability Control) | Ya |
+| VSM (Vehicle Stability Management) | Ya |
+| TPMS | Ya (mulai Style) |
 
 ---
 
-## Warranty & After-Sales Program
+## 4. FEATURE MATRIX PER VARIANT (Specification)
 
-### Warranty Coverage (from brochure)
+### 4.1 Cartenz Variant Feature Matrix
 
-| **Coverage Type** | **Term** | **Limit** |
-|---|---|---|
-| **Vehicle Warranty** | 5 years | 150,000 km |
-| **Battery Warranty (12V Starter)** | 3 years | 45,000 km |
-| **Main Battery (if hybrid)** | N/A | No hybrid variant |
-| **Corrosion Warranty** | 10 years | Perforation only |
+| Fitur | Trend MT | Trend IVT | Style MT | Style IVT | Smart HSS | Prime HSS |
+|-------|----------|-----------|----------|-----------|-----------|-----------|
+| Harga (Rp juta) | 269,9 | 279,9 | 289,9 | 299,9 | 332,9 | 350,4 |
+| Transmisi | 6MT | IVT | 6MT | IVT | IVT | IVT |
+| Ban | R16 | R16 | R16 | R16 | R17 | R17 |
+| Rem Belakang | Teromol | Teromol | Teromol | Teromol | Cakram | Cakram |
+| Airbag | 2 | 2 | 2 | 2 | 6 | 6 |
+| Head Unit | 8" | 8" | 10,25" | 10,25" | 10,25" | 10,25" |
+| Instrument Cluster | 4,2" TFT | 4,2" TFT | 4,2" TFT | 4,2" TFT | 10,25" TFT | 10,25" TFT |
+| Speaker | 4 | 4 | 6 | 6 | 6 | 6 |
+| Lampu Depan | Halogen Projector | Halogen Projector | LED Projector | LED Projector | LED Projector | LED Projector |
+| DRL | Tidak | Tidak | LED | LED | LED | LED |
+| Captain Seat (opsi) | Tidak | Tidak | Ya (+3,5jt) | Ya (+3,5jt) | Ya (+3,5jt) | Ya (+3,5jt) |
+| Jok Material | Fabric | Fabric | Fabric | Fabric | Leatherette | Leatherette |
+| Wireless Charger | Tidak | Tidak | Tidak | Tidak | Ya | Ya |
+| Wireless AACP | Tidak | Tidak | Ya | Ya | Ya | Ya |
+| Bluelink | Tidak | Tidak | Ya | Ya | Ya | Ya |
+| EPB + Auto Hold | Tidak | Tidak | Tidak | Tidak | Ya | Ya |
+| Kamera 360 (SVM) | Tidak | Tidak | Tidak | Tidak | Ya | Ya |
+| SmartSense ADAS | Tidak | Tidak | Tidak | Tidak | Ya (Full) | Ya (Full) |
+| Ambient Lighting | Tidak | Tidak | Tidak | Tidak | Tidak | Ya |
+| Seatback Table | Tidak | Tidak | Tidak | Tidak | Tidak | Ya |
+| Built-in Navigation | Tidak | Tidak | Tidak | Tidak | Tidak | Ya |
+| Rear AC | Ya | Ya | Ya | Ya | Ya | Ya |
 
-**Warranty Ranking:** Hyundai's 5-year/150k km is among longest in segment (competitor range: 3-5 years/100k-150k km).
+### 4.2 Cartenz X Variant Feature Matrix
 
----
+| Fitur | Trend IVT | Style IVT | Prime Package |
+|-------|-----------|-----------|---------------|
+| Harga (Rp juta) | 361,9 | 374,9 | 391,9 |
+| Transmisi | IVT | IVT | IVT |
+| Shift-by-Wire | Ya | Ya | Ya |
+| Paddle Shift | Ya | Ya | Ya |
+| Ban | R17 | R17 | R17 |
+| Rem Belakang | Cakram | Cakram | Cakram |
+| Ground Clearance | 205 mm | 205 mm | 205 mm |
+| Airbag | 6 | 6 | 6 |
+| Head Unit | 10,25" | 10,25" | 10,25" |
+| Instrument Cluster | 10,25" TFT | 10,25" TFT | 10,25" TFT |
+| Speaker | 6 | 8 (BOSE) | 8 (BOSE) |
+| SmartSense ADAS | Tidak | Ya (Full) | Ya (Full) |
+| Kamera 360 (SVM) | Tidak | Ya | Ya |
+| BVM (Blind-spot View Monitor) | Tidak | Ya | Ya |
+| Wireless Charger | Ya | Ya | Ya |
+| Wireless AACP | Ya | Ya | Ya |
+| Bluelink | Ya | Ya | Ya |
+| EPB + Auto Hold | Ya | Ya | Ya |
+| Built-in Navigation | Ya | Ya | Ya |
+| Captain Seat (opsi) | Tidak | Ya (+3,5jt) | Ya (+3,5jt) |
+| Jok Material | Leatherette | Leatherette | Leatherette |
+| Ventilated Seat (driver) | Tidak | Tidak | Ya |
+| Power Seat (8-way, driver) | Tidak | Tidak | Ya |
+| Ambient Lighting | Tidak | Ya | Ya |
+| Floating Console | Ya | Ya | Ya |
+| Roof Rail (bridge-type) | Ya | Ya | Ya |
+| Body Cladding | Ya | Ya | Ya |
 
-### Service Program Confirmed
+**PENTING**: Cartenz X Trend (Rp 361,9 juta) TIDAK memiliki SmartSense ADAS meskipun harganya lebih mahal dari Cartenz Smart HSS (Rp 332,9 juta) yang SUDAH memiliki ADAS lengkap. Ini anomali penting untuk pembeli.
 
-| **Program** | **Duration / Limit** | **Benefit** |
-|---|---|---|
-| **Free Service (Labor)** | 5 years / 75,000 km | Full labor cost covered |
-| **Free Spare Parts (OEM)** | 3 years / 45,000 km | Parts cost covered (consumables excluded) |
-| **Service Interval** | Every 10,000 km or 6 months | Whichever comes first |
-| **Recommended Service Cost (post-free period)** | ~Rp 1,030,000 per service | Labor + basic parts (filter, oil, fluid top-up) |
-
-**Long-term Cost Benefit:** After 5 years/75k km, service cost drops to ~Rp 1.03 million per 10k km interval (vs competitors at ~Rp 1.5–2M per interval). Over 10 years of ownership, Cartenz shows **lowest total service cost among comparable LMPV**.
-
----
-
-### Spare Parts Availability & Service Network
-
-| **Metric** | **Status** |
-|---|---|
-| **Local Production** | Yes — Cikarang factory (TKDN >40%) |
-| **Parts Availability Time** | 1×24 hours guaranteed for common items |
-| **Service Center Network** | 50+ dealers across Indonesia (expanding) |
-| **Coverage Gaps** | Eastern Indonesia (Kalimantan, Sulawesi, Papua) still limited |
-| **Parts Cost Index** | Moderate — 15-20% cheaper than Toyota/Honda equivalents for same category |
-| **Dealer Quality Variance** | High — Jakarta dealers (Pondok Gede, Bintaro) rated excellent; regional dealers variable |
-
-**Network Interpretation:** Service center expansion is ongoing. For buyers in Jakarta/Jawa, no concern. For buyers in Sumatera, Kalimantan, or far eastern regions, spare parts and warranty service may require coordination with regional partner dealers or Jakarta head office.
-
----
-
-## Tax & Annual Ownership Costs
-
-### Annual Pajak Tahunan (Vehicle Tax)
-
-| **Vehicle Class** | **Tax Formula** | **Cartenz Estimate** | **Status** |
-|---|---|---|---|
-| **MPV (≤1800 cc, ≤1000 kg)** | Progressive tier (1st–4th year non-progressive; 5th+ progressive) | **Year 1–3: ~Rp 5.0–5.3M** | Non-progresif (first vehicle) |
-| | | **Year 4+: +10% per year progressive** | Progresif mulai tahun ke-4 |
-
-**Tax Detail:** 
-- Cartenz positioned in MPV category (not SUV/Crossover category) despite Cartenz X styling
-- Cilindrasi 1,497 cc falls in **Rp 250/cc tier** (assuming Rp 5M estimate checks out)
-- **First vehicle** owned by person gets non-progressive rate; second+ vehicle +10% annually
-- Cartenz X not treated differently from Cartenz in tax classification
-
-**Compliance Note:** Confirmed by Kompas Otomotif and Ototaiment (multiple 2025–2026 articles).
-
----
-
-### Insurance (Estimated Full Cover)
-
-| **Insurance Type** | **Est. Annual Premium** | **Variables** |
-|---|---|---|
-| **TLO (Third-party + Theft & Loss)** | ~Rp 2.5–3.5M (Cartenz Prime) | Varies by region, age, driver age, claims history |
-| **Comprehensive** | ~Rp 4–5M (Cartenz Prime) | Same variables plus accident coverage |
-
-**Insurance Note:** Cartenz classified standard group by insurers (not high-risk or luxury). ADAS features may eventually reduce premiums as industry adopts risk-reduction pricing (not yet implemented broadly in 2026).
+**Sumber**: hyundaimobil.co.id, stargazercartenz.com, gridoto.com, otodriver.com, carmudi.co.id
 
 ---
 
-### Fuel Cost Projection (Annual)
+## 5. ADAS — HYUNDAI SMARTSENSE (Specification)
 
-| **Scenario** | **Annual km** | **Fuel Economy** | **Fuel Type** | **Est. Cost/Year** |
-|---|---|---|---|---|
-| **Light city commute** | 10,000 km | 12 km/l average | RON 88: Rp 10,500/l | Rp 8.75M |
-| **Mixed (city + highway)** | 15,000 km | 14 km/l average | RON 88: Rp 10,500/l | Rp 11.25M |
-| **Highway heavy (mudik)** | 20,000 km | 18 km/l average | RON 88: Rp 10,500/l | Rp 11.67M |
-| **Full load (7 occupants + cargo)** | 10,000 km | 11 km/l average (10-15% lower) | RON 88: Rp 10,500/l | Rp 9.55M |
+SmartSense tersedia pada: Cartenz Smart HSS, Cartenz Prime HSS, Cartenz X Style, Cartenz X Prime Package.
 
-**Fuel Economy Basis:** Real-world data compiled from 20+ YouTube reviewer tests and owner comments (see YouTube Research file for detail).
+| Fitur SmartSense | Kategori Umum | Keterangan |
+|------------------|---------------|------------|
+| Forward Collision-Avoidance Assist (FCA) incl. Junction Turning | Autonomous Emergency Braking | Deteksi kendaraan, pejalan kaki, pesepeda + koreksi di persimpangan |
+| Lane Keeping Assist (LKA) | Lane Keeping | Peringatan + koreksi kemudi jika keluar jalur |
+| Lane Following Assist (LFA) | Lane Centering | Aktif mengikuti jalur, termasuk di tikungan |
+| Smart Cruise Control with Stop & Go (SCC w/ S&G) | Adaptive Cruise Control | Ikuti kecepatan + jarak, bisa berhenti total & jalan lagi |
+| Blind-spot Collision-Avoidance Assist (BCA) | Blind-spot Warning + Intervention | Deteksi + pengereman otomatis untuk blind spot |
+| Blind-spot View Monitor (BVM) | Blind-spot Camera | Tampilkan kamera blind spot di cluster (Cartenz X Style/Prime) |
+| Rear Cross-Traffic Collision-Avoidance Assist (RCCA) | Rear Cross-Traffic Alert + Braking | Deteksi kendaraan saat mundur + pengereman |
+| Safe Exit Warning (SEW) | Door Opening Warning | Peringatan saat ada kendaraan mendekat saat membuka pintu |
+| High Beam Assist (HBA) | Auto High Beam | Otomatis atur lampu jauh/dekat |
+| Driver Attention Warning (DAW) | Driver Monitoring | Deteksi kelelahan pengemudi |
+| Leading Vehicle Departure Alert (LVDA) | Traffic Alert | Peringatan saat kendaraan di depan mulai bergerak |
+| Parking Distance Warning (PDW) | Parking Sensor | Sensor parkir depan + belakang |
+| Surround View Monitor (SVM) | 360° Camera | Kamera 360 derajat |
 
----
+**Catatan penting**: Fitur SmartSense IDENTIK antara Cartenz Smart HSS dan Prime HSS. Perbedaan hanya di fitur kenyamanan non-ADAS.
 
-## Market Data & Positioning
-
-### Launch & Production Timeline
-
-| **Event** | **Date** | **Note** |
-|---|---|---|
-| **Gen-1 Stargazer production end** | August 2025 | Gradual discontinuation; remaining stock cleared through Feb 2026 |
-| **Cartenz launch** | GIIAS 2025 (July 23–Aug 4, 2025) | Official debut; production already underway |
-| **Cartenz production start** | June 2025 | Soft production ramp; visible in dealer availability by July |
-| **Current market status (Apr 2026)** | Stable production | 500–700 units/month estimated |
-
-### Sales Performance
-
-| **Metric** | **Data Point** | **Source** |
-|---|---|---|
-| **GIIAS 2025 SPK** | ~1,500 units (50% of Hyundai total 3,017 SPK) | Katadata, Jawa Pos |
-| **Monthly volume** | 500–700 units (estimate) | Multiple industry reports |
-| **Market share (LMPV segment)** | 3–5% estimated | Below Xpander (25–30%), Avanza/Veloz (40–45%) |
-| **Market penetration** | Low — "rare on streets" (multiple comments) | YouTube comments, Twitter feedback |
-
-### Competitive Positioning Map
-
-| **Brand/Model** | **Price Range** | **ADAS** | **Seating** | **Primary Comparison** |
-|---|---|---|---|---|
-| **Cartenz Smart (Rp 329.9M)** | $24,100 USD equiv. | Full SmartSense | 7-seater | vs Veloz Q HEV (Rp 303M, full TSS) |
-| **Cartenz Prime (Rp 350.4M)** | $25,650 USD equiv. | Full + SCC + 360 | 7-seater | vs Veloz Q HEV Modelista (Rp 360M) |
-| **Cartenz X Style (Rp 349.9M)** | $25,600 USD equiv. | Full SmartSense | 7-seater | vs Xpander Cross (Rp 315–360M range) |
-| **Cartenz X Prime (Rp 391.9M)** | $28,660 USD equiv. | Full + SCC + 360 | 6–7 seater | vs Mitsubishi Destinator (Rp 385M+) |
-
-**Positioning Insight:** Cartenz prices premium to Veloz (entry ~Rp 300M) but justify via ADAS feature richness. Cartenz X competes with crossover-positioned rivals (Xpander Cross, Destinator) rather than pure MPV space.
+**Sumber**: hyundai.com/id/id/find-a-car/stargazer-cartenz/safety, hyundaimobil.co.id, medcom.id, oto.com
 
 ---
 
-## Web Sources - Complete Organized List
+## 6. FUEL ECONOMY (Specification + Narrative)
 
-### Official & First-Party Sources
+### 6.1 Test Results (Specification)
 
-| **Source** | **URL** | **Data Type** | **Last Updated** |
-|---|---|---|---|
-| Hyundai Indonesia Official | https://hyundaimobil.co.id | Brand, tech specs, dealer locator | Ongoing |
-| Stargazer Cartenz Microsite | https://stargazercartenz.com | Launch details, brochure, features | Jul–Aug 2025 |
-| Hyundai Maintenance Guide | https://www.hyundai.com/content/dam/hyundai/id/id/data/marketing/brochure/maintenance/STARGAZER-Biaya_Perawatan_Berkala.pdf | Service intervals, costs | Feb 2026 |
+| Kondisi | Konsumsi BBM | Sumber |
+|---------|-------------|--------|
+| Dalam kota (macet Jakarta) | 12-14 km/l | GridOto, Carmudi, Otodriver |
+| Tol (90-100 km/jam) | 15-22 km/l | GridOto, carsgallery.co.id |
+| Tol eco driving (stabil) | 21-25 km/l | Carmudi, otomotifa.com |
+| Kombinasi kota+tol | 14-19 km/l | GridOto |
+| Agresif/tanjakan | 9,7-12 km/l | Autofun, Kompas |
 
-### Launch & Industry Coverage
+### 6.2 Real-World Owner Reports (Narrative)
 
-| **Source** | **URL** | **Key Finding** | **Date** |
-|---|---|---|---|
-| Kompas Otomotif | https://otomotif.kompas.com/read/2025/07/23/101646915/hyundai-stargazer-cartenz-resmi-meluncur-di-giias-2025 | Launch date, GIIAS details | Jul 2025 |
-| GridOto | https://www.gridoto.com/read/224276232/hyundai-stargazer-cartenz-dan-cartenz-x-mejeng-di-giias-2025-sudah-bisa-pesan-di-dealer | SPK data, variant availability | Jul 2025 |
-| Katadata | https://auto.katadata.co.id/car/hyundai-stargazer-cartenz-purchased-at-giias-2025-claimed-to-have-no-waiting-list-19629 | No waiting list claim, sales momentum | Jul 2025 |
-| VOI.id | https://voi.id/en/otoinfo/503279 | Market context, production update | Aug 2025 |
-| Media Indonesia | https://mediaindonesia.com/ekonomi/798802/hyundai-stargazer-cartenz-dan-cartenz-x-mulai-diproduksi-di-indonesia | Local production confirmation, TKDN >40% | Aug 2025 |
-| IDN Times | https://www.idntimes.com/automotive/car/stargazer-cartenz-produksi-lokal-meluncur-agustus-2025-02-kmhpr-vxgyt5 | Production timeline | Aug 2025 |
-| Tribun News (Riau) | https://pekanbaru.tribunnews.com/riau-region/1087427/hyundai-resmi-luncurkan-stargazer-cartenz-dan-cartenz-x-di-pekanbaru | Regional launch coverage | Aug 2025 |
+> Pengguna Stargazer Cartenz IVT melaporkan konsumsi 13,8 km/l untuk commute Jakarta harian. Saat mudik lewat tol Cipali dengan eco driving, bisa tembus 19-20 km/l dengan AC menyala.
+> — Kompilasi dari forum dan media reviewer
 
-### Spec & Pricing Portals
-
-| **Source** | **URL** | **Data Type** | **Update Frequency** |
-|---|---|---|---|
-| OTO.com | https://www.oto.com/en/mobil-baru/toyota/veloz-hybrid-ev/ | Price, spec, features per variant | Weekly |
-| Carmudi | https://www.carmudi.co.id | Price range, fuel consumption, maintenance cost | Bi-weekly |
-| MolaDin | https://moladin.com | Credit, tax, spec, reviews | Weekly |
-| Zigwheels | https://www.zigwheels.co.id | Technical spec, dimensions | Monthly |
-| OtoDriver | https://www.otodriver.com | Comprehensive price list by region | Weekly |
-| Dealer Network (Hyundai Bintaro/Fatmawati) | https://dealer-hyundai-jakarta.com | Official pricing, variant details | Ongoing |
-
-### Tax & Ownership Cost Resources
-
-| **Source** | **URL** | **Key Data** | **Confidence** |
-|---|---|---|---|
-| Kompas Pajak Tahunan | https://otomotif.kompas.com/read/2025/08/23/174200915/pajak-tahunan-hyundai-stargazer-cartenz-sekitar-rp-5-3-juta | Pajak estimate ~Rp 5M/year | High |
-| OtoTaiment Tax Guide | https://www.ototaiment.com/2025/08/24/62529/terungkap-segini-pajak-tahunan-hyundai-stargazer-cartenz | Pajak calculation detail | High |
-| HiPake Pajak | https://hipake.com/pajak-mobil-hyundai-stargazer-semua-tahun/ | Tax progression calculator | Medium |
-| GridOto Service Cost | https://otomotifnet.gridoto.com/read/233549641/luar-biasa-murah-biaya-servis-hyundai-stargazer-lima-tahun-cuma-sejutaan | 5-year service cost: extremely cheap | High |
-| Detik OTO Service | https://oto.detik.com/mobil/d-7513373/biaya-servis-berkala-hyundai-stargazer | Service interval detail | High |
-| Carmudi Maintenance | https://www.carmudi.co.id/journal/biaya-perawatan-hyundai-stargazer-selama-5-tahun-di-bengkel-resmi/ | 5-year ownership cost projection | Medium |
-
-### Fuel Economy & Real-World Testing
-
-| **Source** | **URL** | **Test Type** | **Key Result** |
-|---|---|---|---|
-| Carmudi Fuel | https://www.carmudi.co.id | User submissions, aggregate | 13–15 km/l typical |
-| OtoDriver BBM | https://www.otodriver.com | Spec-based estimate | 14–16 km/l claimed |
-| GridOto Testing | https://www.gridoto.com | Real-world highway test | 15–22 km/l range |
-| AutoFun Fuel Test | https://autofun.co.id | Standardized test protocol | 13.8–15 km/l |
-
-### Service & Reliability Resources
-
-| **Source** | **URL** | **Content** | **Frequency** |
-|---|---|---|---|
-| Hyundai Service Centers | https://hyundaiutama.com | Service locator, schedule | Updated real-time |
-| Indo Blazer Spareparts | https://www.indoblazer.com/2024/09/Daftar-sparepart-mobil-hyundai-yang-harus-anda-ganti-secara-rutin.html | Parts list, replacement frequency | Annual |
-| Hyundai Pusat Surabaya | https://hyundaipusatsurabaya.com/spareparts/ | Regional parts pricing, availability | Ongoing |
-| Radar Tegal Complaints | https://radartegal.disway.id | User complaints, issues reported | Ongoing |
-| Engine Crux (International) | https://enginecrux.com/hyundai-stargazer-problems-insights-and-facts/ | Gen-1 issues, recall tracking | Updated periodically |
-
-### Resale Value & Trade-In
-
-| **Source** | **URL** | **Program** | **Guarantee** |
-|---|---|---|---|
-| Kompas Resale Program | https://biz.kompas.com/read/2025/08/15/trade-in-program-hyundai-stargazer-cartenz | Guaranteed buyback program | 70% value at Year 3 |
-| Tribun News Resale | https://tribunnews.com | Asset value discussion | Market-dependent |
-| OtoGaz Trade-In | https://otogaz.indozone.id | Trade-in pricing | Weekly updated |
-
-### Community & Forums
-
-| **Source** | **URL** | **Community Type** | **Member Est.** |
-|---|---|---|---|
-| HYSTORI Official | https://www.hystori.id | Owner community, Stargazer-specific | 500–1000 active |
-| Kaskus HYSTORI Thread | https://www.kaskus.co.id/thread/66f4e8e9fab6ec72080831ca/ | Forum discussion | 2000+ posts |
-| Hyundai Internusa | https://hyundaiinternusa.com/komunitas-hystori-pusaka-creta-id-beberkan-pengalaman-otentik-bersama-hyundai | Brand-supported community news | Monthly content |
-| PatrolMedia Owner Report | https://patrolmedia.co.id/2026/02/04/pengalaman-pengguna-hyundai-stargazer-cartenz/ | Early owner feedback article | Jan–Feb 2026 |
+**Sumber**: gridoto.com, carmudi.co.id, otodriver.com, carsgallery.co.id, otomotifa.com, autofun.co.id, kompas.com
 
 ---
 
-## Key Web Research Findings - Summary
+## 7. OWNERSHIP COST (Specification)
 
-1. **Stable pricing across all portals** — No regional variance >5%, indicating healthy dealer network transparency
-2. **9-variant structure locked in** — No announcements of additional trims or engines expected in 2026
-3. **No hybrid variant announced** — Web sources confirm petrol-only for Cartenz; repeated requests in forums but no OEM confirmation
-4. **Service cost legitimately competitive** — Verified across multiple sources; lowest in segment for first 5 years
-5. **Market presence growing but still limited** — 50% of GIIAS Hyundai SPK going to Cartenz significant, but absolute market share vs Xpander/Veloz still modest
-6. **Dealer network expanding** — 50+ dealers confirmed; expansion to secondary cities underway but not complete
+### 7.1 Pajak Tahunan
+
+| Varian (estimasi) | Pajak Tahunan |
+|-------------------|---------------|
+| Cartenz (estimasi rata-rata) | ~Rp 5.000.000 - 5.300.000 |
+| Cartenz X (estimasi rata-rata) | ~Rp 5.500.000 - 6.000.000 |
+
+*Pajak bervariasi per daerah, tergantung NJKB dan progresif.*
+
+### 7.2 Servis Berkala
+
+| Parameter | Detail |
+|-----------|--------|
+| Servis gratis | 5 tahun / 75.000 km (jasa servis) |
+| Spare part gratis | 3 tahun / 45.000 km |
+| Biaya servis setelah gratis | ~Rp 1.000.000 - 1.500.000 per 10.000 km (servis ringan) |
+| Servis besar | Tergantung kondisi, lebih tinggi |
+
+### 7.3 Spare Part
+
+| Komponen | Estimasi Harga |
+|----------|---------------|
+| Oli mesin | Rp 150.000 - 250.000 |
+| Filter oli | Rp 60.000 - 80.000 |
+| Kampas rem depan | Rp 300.000 - 500.000 |
+| Filter udara | Rp 100.000 - 150.000 |
+
+### 7.4 Garansi
+
+| Jenis | Durasi |
+|-------|--------|
+| Garansi kendaraan | 3 tahun / 100.000 km |
+| Garansi servis gratis | 5 tahun / 75.000 km |
+| Bluelink gratis | 3 tahun |
+
+**Sumber**: kompas.com, ototaiment.com, detik.com, newsandalas.com, hyundaifatmawati.net
 
 ---
 
-**End of Web Research Document**
+## 8. SALES DATA (Specification)
+
+| Parameter | Data |
+|-----------|------|
+| Peluncuran | GIIAS 2025, Juli 2025 |
+| SPK di GIIAS 2025 | ~50% dari 3.017 SPK total Hyundai |
+| Rata-rata penjualan bulanan | 500-700 unit |
+| Target | 1.000 unit/bulan |
+| Award | People's Favorite MPV (GJAW 2025), Most Inspiring MPV of The Year (IAA 2025) |
+| Penjualan Hyundai total (Oct 2025) | 1.353 unit retail |
+
+**Sumber**: voi.id, jawapos.com, gridoto.com, swa.co.id, okezone.com, katadata.co.id
+
+---
+
+## 9. BLUELINK CONNECTIVITY (Specification)
+
+| Fitur | Keterangan |
+|-------|------------|
+| Remote Engine Start | Ya — nyalakan mesin dari smartphone |
+| Remote Climate Control | Ya — atur AC sebelum masuk mobil |
+| Remote Door Lock/Unlock | Ya |
+| Find My Car | Ya — lokasi parkir via app |
+| Vehicle Status Monitoring | Ya — BBM, ban, status kendaraan |
+| Emergency SOS | Ya — tombol di dashboard, 24 jam |
+| Stolen Vehicle Tracking | Ya |
+
+**Ketersediaan**: Mulai varian Style ke atas (Cartenz) dan semua varian Cartenz X.
+
+**Sumber**: kompas.com, tribunnews.com, nmaa.co.id, dapurpacu.id, hyundaimobil.co.id
+
+---
+
+## 10. COMMON PROBLEMS & COMPLAINTS (Narrative)
+
+### 10.1 Performa Mesin Kurang Bertenaga
+
+> Mesin 1.5L NA dinilai kurang responsif saat beban penuh atau tanjakan. Akselerasi terasa kurang optimal untuk bobot Cartenz yang relatif berat.
+> — radartegal.disway.id, aftermarketplus.id
+
+### 10.2 Transmisi IVT Berisik
+
+> CVT kadang kurang halus, ada suara berisik saat akselerasi atau kecepatan rendah yang mengganggu kenyamanan.
+> — radartegal.disway.id
+
+### 10.3 Visibilitas Pengemudi
+
+> Pengemudi bertinggi badan ≤165 cm mengeluhkan visibilitas kurang baik, terutama saat parkir dan manuver.
+> — caroline.id, aftermarketplus.id
+
+### 10.4 Ruang Kaki Baris Ketiga Terbatas
+
+> Meski kabin secara keseluruhan luas, ruang kaki baris 3 terbatas untuk dewasa >170 cm.
+> — radartegal.disway.id
+
+### 10.5 Suspensi Cukup Keras
+
+> Ada kritik mengenai karakter suspensi yang cenderung keras di jalan bergelombang.
+> — YouTube (TWtiPbsz7J4)
+
+### 10.6 Desain Kontroversial
+
+> Sebagian konsumen masih perlu waktu untuk "jatuh cinta" dengan desain Cartenz yang out of the box dan futuristik.
+> — aftermarketplus.id
+
+### 10.7 Ketersediaan Spare Part di Kota Kecil
+
+> Ada pemilik yang mengalami kendala klaim garansi dan spare part yang harus menunggu lama, terutama di kota kecil.
+> — mediakonsumen.com
+
+### 10.8 ADAS Terlalu Sensitif
+
+> Fitur ADAS dan Bluelink kadang terlalu sensitif sehingga justru mengganggu sebagian pengemudi.
+> — YouTube (TWtiPbsz7J4)
+
+### 10.9 Bluelink Battery Drain
+
+> Beberapa owner melaporkan baterai lebih cepat habis karena sistem Bluelink yang selalu aktif.
+> — Dari memory repository (gen-1 issue, belum dikonfirmasi pada Cartenz)
+
+### 10.10 Ban Tipis R17 (205/50 R17)
+
+> Ban profil tipis 205/50 R17 pada varian R17 dinilai terlalu tipis untuk jalanan Indonesia yang banyak lubang.
+> — YouTube comment (@ari151x, 23 likes)
+
+**Sumber**: radartegal.disway.id, aftermarketplus.id, caroline.id, mediakonsumen.com, bengkalispos.com, YouTube
+
+---
+
+## 11. REVIEWER CONSENSUS (Narrative)
+
+### Positif
+
+> "Fitur desainnya terlalu overkill dibanding rival-rival yang gitu-gitu aja." — YouTube viewer (TiarJourney)
+
+> "Stargazer Cartenz adalah mimpi buruk Veloz dan Xpander. Lawannya ini keterlaluan canggihnya." — Carmudi Indonesia headline
+
+> "Value-for-money terbaik di segmen LMPV saat ini. ADAS paling lengkap di kelasnya." — Konsensus media
+
+### Negatif
+
+> "Harganya naik kelas dibanding LMPV konvensional." — Zigwheels
+
+> "Desain depan masih kontroversial — suka atau tidak suka." — Ridwan Hanif, GridOto viewers
+
+### Netral
+
+> "Fitur nambah, harga tetap atau naik dikit = patut diacungi jempol. Fitur nambah harga naik banyak = biasa aja." — YouTube viewer (@FlitterNova, 76 likes)
+
+---
+
+## 12. COMPETITOR POSITIONING (Specification + Narrative)
+
+| Parameter | Cartenz Smart HSS | Veloz Q HEV | Xpander Cross | Destinator |
+|-----------|-------------------|-------------|---------------|------------|
+| Harga | Rp 332,9 juta | Rp 325 juta | Rp 328 juta | Rp 339 juta |
+| ADAS | Full SmartSense | Tidak ada | Tidak ada | Diamond Sense |
+| Kamera 360 | Ya | Ya | Tidak | Ya |
+| Hybrid | Tidak | Ya (HEV) | Tidak | Tidak |
+| Airbag | 6 | 6 | 2 | 6 |
+| ACC Stop & Go | Ya | Tidak | Tidak | Ya |
+| Ventilated Seat | Tidak | Tidak | Tidak | Tidak |
+| GC | 205 mm | 185 mm | 200 mm | 210 mm |
+
+**Sumber**: Kompilasi dari berbagai media otomotif Indonesia
+
+---
+
+## 13. SOURCES INDEX
+
+### Pricing & Official
+- https://hyundaimobil.co.id/news/details/price-list-hyundai-stargazer-cartenz-dan-stargazer-cartenz-x
+- https://www.hyundai.com/id/id/find-a-car/stargazer-cartenz/specification
+- https://www.hyundai.com/id/id/find-a-car/stargazer-cartenz-x/specification
+- https://stargazercartenz.com/
+- https://stargazercartenz.com/model
+- https://stargazercartenz.com/model/stargazer-cartenz/variant/trend-ivt
+- https://stargazercartenz.com/model/stargazer-cartenz/variant/prime-hss
+- https://stargazercartenz.com/model/stargazer-cartenz-x/variant/style
+- https://stargazercartenz.com/model/stargazer-cartenz-x/variant/prime-package
+- https://hyundaimobil.id/stargazer-cartenz/
+- https://hyundaimobil.co.id/vehicle/stargazer-cartenz
+- https://hyundaimobil.co.id/vehicle/stargazer-cartenz-x
+
+### Specifications & Reviews
+- https://www.oto.com/mobil-baru/hyundai/stargazer-cartenz
+- https://www.oto.com/mobil-baru/hyundai/stargazer-cartenz/spesifikasi
+- https://www.oto.com/en/mobil-baru/hyundai/stargazer-cartenz/spesifikasi
+- https://www.oto.com/artikel-feature-mobil/5-kelebihan-hyundai-stargazer-cartenz-x-yang-membuatnya-layak-dipinang
+- https://www.zigwheels.co.id/en/mobil-baru/hyundai/stargazer-cartenz/
+- https://moladin.com/mobil-baru/hyundai/hyundai-stargazer-cartenz-x/spesifikasi
+- https://moladin.com/news/spesifikasi-hyundai-stargazer-2026/
+- https://www.idntimes.com/automotive/car/hyundai-stargazer-cartenz-spesifikasi-harga-q9t01-00-lp9v2-4dpjsn
+- https://www.asukacartv.com/spesifikasi-hyundai-stargazer/
+- https://www.vehiclesizes.com/cars/hyundai/stargazer/stargazer-cartenz-x-facelift-2025-suv-2026/
+
+### Variant Comparison
+- https://otodriver.com/berita/2025/tertarik-hyundai-stargazer-cartenz-ini-harga-lengkapnya-terecdhbnya
+- https://www.carmudi.co.id/journal/mau-beli-hyundai-stargazer-cartenz-simak-dulu-harga-dan-variannya/
+- https://www.idntimes.com/automotive/car/hyundai-stargazer-cartenz-dan-stargazer-cartenz-x-1-c1c2-01-spf5w-g88n7z
+- https://hyundaiutama.com/resources/stargazer/panduan-pemilik/perbedaan-stargazer-cartenz-dan-x
+- https://otomotif.sindonews.com/read/1600205/120/perbedaan-si-bintang-kembar-bedah-tuntas-hyundai-stargazer-cartenz-vs-cartenz-x-1753934851
+- https://starluzz.com/perbedaan-hyundai-stargazer-cartenz-vs-cartenz-x-spesifikasi-fitur-dan-harga-terbaru/
+- https://hyundaibintaro.org/perbedaan-hyundai-stargazer-cartenz-vs-cartenz-x-mana-yang-tepat-untuk-anda/
+- https://lifestyle.fin.co.id/2025/07/25/perbedaan-hyundai-stargazer-cartenz-cartenz-x-mana-yang-cocok-untuk-gaya-hidupmu
+- https://hyundaimobil.co.id/news/details/kenali-perbedaan-varian-hyundai-stargazer-cartenz-x-trend-style-dan-prime
+- https://hyundaiaristajakarta.com/kenali-perbedaan-varian-hyundai-stargazer-cartenz-x-trend-style-dan-prime/
+- https://www.gridoto.com/read/224336772/ini-deret-fitur-super-lengkap-di-hyundai-stargazer-cartenz-prime
+- https://hyundaiweb.id/cartenz/
+
+### ADAS & Safety
+- https://www.hyundai.com/id/id/find-a-car/stargazer-cartenz/safety
+- https://www.hyundai.com/id/id/find-a-car/stargazer-cartenz-x/highlights
+- https://www.medcom.id/otomotif/mobil/3NOoME3N-bedah-fitur-yang-ada-di-hyundai-stargazer-cartenz-x
+- https://hyundaiindonesia.id/project/hyundai-stargazer-cartenz-x-indonesia/
+- https://otomotif.sindonews.com/read/1676855/120/hyundai-stargazer-cartenz-dan-cartenz-x-siap-taklukkan-kemacetan-kota-lewat-fitur-canggih-terbaru-1770980545
+
+### Fuel Economy
+- https://www.gridoto.com/read/224336822/dibekali-mesin-bertenaga-seberapa-irit-hyundai-stargazer-cartenz
+- https://otodriver.com/berita/2023/catatan-konsumsi-bbm-hyundai-stargazer-berdasarkan-pengetesan-kami-catdaichami
+- https://www.carmudi.co.id/journal/konsumsi-bbm-hyundai-stargazer/
+- https://carsgallery.co.id/blog/konsumsi-bbm-hyundai-stargazer/
+- https://www.otomotifa.com/konsumsi-bbm-hyundai-stargazer-hasil-uji-coba-di-jalan-tol-reveals-the-fuel-efficiency-of-hyundai-stargazer-test-results-on-toll-roads/
+- https://www.autofun.co.id/berita/test-drive-hyundai-stargazer-konsumsi-bbm-hyundai-stargazer-versi-santai-dan-berkendara-agresif-bedanya-jauh-53411
+- https://otomotif.kompas.com/read/2022/09/05/080200215/tempuh-110-km-seberapa-irit-konsumsi-bahan-bakar-hyundai-stargazer
+
+### Tax & Ownership
+- https://www.ototaiment.com/2025/08/24/62529/terungkap-segini-pajak-tahunan-hyundai-stargazer-cartenz-yang-bikin-penasaran/
+- https://otomotif.kompas.com/read/2025/08/23/174200915/pajak-tahunan-hyundai-stargazer-cartenz-sekitar-rp-5-3-juta
+- https://www.newsandalas.com/otomotif/1496482436/siap-siap-segini-perkiraan-biaya-pajak-tahunan-hyundai-stargazer-cartenz
+- https://hyundaifatmawati.net/hyundai/pajak-tahunan-hyundai-stargazer-cartenz-sekitar-rp-53-juta-yang-perlu-diketahui/
+- https://oto.detik.com/mobil/d-7513373/biaya-servis-berkala-hyundai-stargazer-bakal-habis-duit-segini
+
+### Sales & Market
+- https://voi.id/otoinfo/520377/stargazer-cartenz-dongkrak-penjualan-hyundai-tembus-500-700-unit-per-bulan
+- https://www.jawapos.com/nasional/2508030201/stargazer-cartenz-dan-stargazer-x-cartenz-sumbang-50-persen-penjualan-hyundai-pada-giias-2025
+- https://www.gridoto.com/read/224280944/wajah-dan-fitur-baru-bikin-stargazer-cartenz-dominasi-penjualan-hyundai
+- https://swa.co.id/read/462659/hyundai-menjaring-spk-3017-unit-di-giias-2025-stargazer-yang-paling-banyak-spk-nya
+- https://ototekno.okezone.com/read/2025/08/02/52/3159927/setengah-penjualan-hyundai-di-giias-2025-disumbang-stargazer-cartenz
+- https://otomotif.katadata.co.id/mobil/penjualan-hyundai-oktober-2025-terendah-sejak-januari-21320
+- https://www.gaikindo.or.id/indonesian-automobile-industry-data/
+
+### User Experience & Complaints
+- https://otomotif.kompas.com/read/2026/01/26/110200815/curhat-pengguna-soal-plus-minus-hyundai-stargazer-cartenz
+- https://patrolmedia.co.id/2026/02/04/pengalaman-pengguna-hyundai-stargazer-cartenz/
+- https://www.tvonenews.com/lifestyle/otomotif/375564-review-hyundai-stargazer-cartenz-yang-didesain-khusus-untuk-jalanan-indonesia-ternyata-mobilnya
+- https://aftermarketplus.id/review/test-drive-hyundai-stargazer-cartenz-kelebihan-dan-kekurangannya
+- https://aftermarketplus.id/public/index.php/review/holiday-test-drive-2026-hyundai-stargazer-cartenz-x-bikin-segmen-mvp-naik-kelas
+- https://radartegal.disway.id/lifestyle/read/689457/6-keluhan-pengguna-hyundai-stargazer-yang-banyak-diungkap-salah-satunya-fitur-keselamatan-kurang-lengkap
+- https://www.caroline.id/blog/article/kelebihan-dan-kekurangan-hyundai-stargazer-lengkap
+- https://mediakonsumen.com/tag/hyundai-stargazer
+- https://www.bengkalispos.com/2026/01/keluh-kesah-pengguna-hyundai-stargazer.html
+- https://hyundaifatmawati.net/hyundai/pengalaman-test-drive-hyundai-stargazer-cartenz-di-giias-2025-menyelami-kecanggihan-fitur-blind-spot-view-monitor-pada-mobil-modern/
+
+### Bluelink & Connectivity
+- https://hyundaimobil.co.id/news/details/nikmati-fitur-bluelink-dan-navigasi-real-time-di-hyundai-stargazer-cartenz
+- https://www.hyundai.com/id/id/find-a-car/stargazer-cartenz-x/convenience
+- https://otomotif.kompas.com/read/2026/02/10/130530115/cuaca-terik-bikin-kabin-cepat-panas-hyundai-hadirkan-kenyamanan-lewat
+- https://www.tribunnews.com/otomotif/7795628/fitur-remote-climate-control-di-mobil-hyundai-bantu-kamu-siapkan-kabin-lebih-nyaman
+- https://nmaa.co.id/2024/07/fitur-bluelink-di-hyundai-stargazer-teknologi-unggulan-yang-tidak-dimiliki-rivalnya/
+- https://dapurpacu.id/2024/07/26/hyundai-bluelink-hadirkan-kenyamanan-pengguna-hyundai-stargazer/
+
+### Cartenz X Specific
+- https://dealer-hyundai-jakarta.com/hyundai-stargazer-cartenz-x/
+- https://beritawarta.id/otomotif/hyundai-stargazer-cartenz-x-2025/
+- https://theskydigital.com/artikel/otomotif/hyundai-stargazer-cartenz/
+- https://kabartrenggalek.com/hyundai-stargazer-cartenz-x-fitur-modern-dan-premium-di-kelas-rp-300-jutaan
+- https://pelitadigital.id/1170/hyundai-stargazer-cartenz-x-terbaru-mpv-premium-dengan-fitur-canggih-dan-desain-stylish/
+- https://hyundaiutama.com/harga/stargazer-cartenz-x/prime-package
+- https://hyundaimajumotor.id/news-290725/
+- https://wartadewata.com/dibuat-untuk-jalanan-indonesia-hyundai-luncurkan-stargazer-cartenz-dan-stargazer-cartenz-x-di-bali/
+
+### Launch & Awards
+- https://www.hyundai.com/id/id/find-a-car/stargazer-cartenz/highlights
+- https://biz.kompas.com/read/2026/03/02/104846328/dari-fitur-canggih-hingga-jaminan-nilai-jual-ini-daya-tarik-hyundai-stargazer
+- https://paultan.org/2025/07/28/hyundai-stargazer-cartenz-2025-dilancar-di-indonesia-harga-dari-rm70k-enjin-1-5l-na-transmisi-ivt-6mt/
+- https://www.topgear.com.ph/features/feature-articles/size-comparo-stargazer-xpander-2026-a2588-20251021
+- https://www.soundandmachine.com/artikel/25840/Hyundai-Stargazer-Cartenz-Dominasi-Penjualan-Hyundai-di-GIIAS-2025/
+- https://kumparan.com/kumparanoto/stargazer-cartenz-dominasi-penjualan-hyundai-di-giias-2025-25ZsS7EvQog
+- https://hyundaifatmawati.net/hyundai/hyundai-perkenalkan-stargazer-cartenz-di-giias-2025-simak-harga-dan-spesifikasinya/
+
+### Credit & Financing
+- https://hyundaiutama.com/harga/stargazer-cartenz
+- https://www.zigwheels.co.id/en/mobil-baru/hyundai/stargazer-cartenz/
+
+---
+
+Last Updated: April 2026
+Data Source: Web research across 100+ Indonesian automotive media, official Hyundai pages, and owner forums
+Research Period: March - April 2026

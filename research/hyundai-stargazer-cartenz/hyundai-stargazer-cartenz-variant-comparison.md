@@ -1,242 +1,417 @@
-# Hyundai Stargazer Cartenz & Cartenz X - Variant Comparison Matrices
+# Hyundai Stargazer Cartenz — Variant Comparison
 
-**Last Updated:** 2026-04-04  
-**Purpose:** Quick-reference buyer decision matrices for comparing all 9 variants across critical dimensions  
-**Structure:** 100% table format for scannability
-
----
-
-## Quick Reference: Price vs. Features Matrix
-
-| **Variant** | **Price (OTR)** | **ADAS?** | **360 Camera?** | **SCC (ACC)** | **Shift-by-Wire** | **17" Wheels** | **Captain Seat Option** | **BOSE Audio** | **Value Rating** |
-|---|---|---|---|---|---|---|---|---|---|
-| **Trend MT** | Rp 269.9M | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ★★★ (budget entry) |
-| **Trend IVT** | Rp 279.9M | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ★★☆ (minimal gain vs MT) |
-| **Style MT** | Rp 289.9M | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ★★★ (basic comfort) |
-| **Style IVT** | Rp 299.9M | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ★★★☆ (mid-entry) |
-| **Smart HSS** | Rp 329.9M | ✓✓✓ | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ★★★★★ (**SWEET SPOT**) |
-| **Prime HSS** | Rp 350.4M | ✓✓✓✓ | ✓ | ✓ | ✗ | ✓ | ✗ | ✓ | ★★★★☆ (all-in premium) |
-| **X Trend** | Rp 319.9M | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ | ✗ | ★★☆ (**VALUE TRAP**) |
-| **X Style** | Rp 349.9M | ✓✓✓ | ✗ | ✗ | ✓ | ✓ | ✓ | ✗ | ★★★★☆ (good crossover) |
-| **X Prime Package** | Rp 391.9M | ✓✓✓✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ★★★★ (maximum features) |
-
-**Key Observations:**
-- **Smart HSS (Rp 329.9M)** = Best feature jump; ADAS enters here
-- **X Trend (Rp 319.9M)** = Avoid; more expensive than Smart but lacks ADAS
-- **Prime variants** = Add SCC (adaptive cruise) + 360 camera; premium pricing justified
-- **Cartenz X all variants** = Shift-by-wire + captain seat option available
+**Research Date**: April 2026
+**Comparison Type**: Variant Comparison (same model, 9 variants)
+**Classification**: Specification (tables) + Narrative (commentary)
 
 ---
 
-## Variant Positioning Map - Target Buyer by Tier
+## 1. VARIANT OVERVIEW
 
-| **Tier** | **Name** | **Variants** | **Target Buyer** | **Price Range** | **Primary Appeal** | **Key Trade-off** |
-|---|---|---|---|---|---|---|
-| **TIER 0 (Entry)** | **Budget Base** | Trend MT, Trend IVT | Extreme price-conscious, first-time LMPV | Rp 269–280M | Lowest entry price | Zero ADAS, basic comfort |
-| **TIER 1 (Mid-Entry)** | **Comfort Base** | Style MT, Style IVT | Basic family needs, second-hand market-aware | Rp 290–300M | LED lights, wiper belakang | Still no ADAS; Rp 30M to Smart |
-| **TIER 2 (Smart Entry)** | **ADAS Introduction** | **Cartenz Smart HSS** | **Tech-forward families, safety prioritizers** | **Rp 329.9M** | **Full ADAS entry point** | **Best value segment** |
-| **TIER 3 (Premium)** | **All-In Package** | Cartenz Prime HSS | All-feature buyers, comfort prioritizers | Rp 350.4M | SCC + 360 camera + BOSE | Maximum features, premium price |
-| **TIER 4 (Crossover Entry)** | **LSUV Style** | **Cartenz X Trend** | **Visual crossover preference ONLY** | **Rp 319.9M** | **Crossover styling** | **Lacks ADAS — VALUE TRAP** |
-| **TIER 5 (Crossover Smart)** | **LSUV + ADAS** | **Cartenz X Style** | **Crossover-aspirant + ADAS-conscious buyers** | **Rp 349.9M** | **Styling + ADAS combo** | **Good alternative** |
-| **TIER 6 (Crossover Premium)** | **Maximum Crossover** | Cartenz X Prime Package | Premium crossover seekers, all-feature buyers | Rp 391.9M | Maximum features + LSUV styling | Premium territory pricing |
+Hyundai Stargazer Cartenz tersedia dalam **9 varian** yang terbagi dalam 2 lini:
 
----
+**Cartenz (6 varian)** — MPV conventional
+- Trend MT (Rp 269,9 juta) — Entry manual
+- Trend IVT (Rp 279,9 juta) — Entry automatic
+- Style MT (Rp 289,9 juta) — Mid manual
+- Style IVT (Rp 299,9 juta) — Mid automatic
+- Smart HSS IVT (Rp 332,9 juta) — ADAS
+- Prime HSS IVT (Rp 350,4 juta) — Premium ADAS
 
-## Feature Differences: Complete Matrix (All Variants)
-
-| **Feature Category** | **Feature** | **Trend** | **Style** | **Smart** | **Prime** | **X Trend** | **X Style** | **X Prime Pkg** |
-|---|---|---|---|---|---|---|---|---|
-| **DRIVETRAIN** | Transmission | 6MT / IVT | 6MT / IVT | IVT | IVT | IVT | IVT + shift | IVT + shift |
-| | Shift-by-wire paddled | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ |
-| **ADAS** | Full SmartSense suite | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| | SCC (Stop & Go ACC) | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ |
-| | 360 Camera / SVM | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ |
-| **INFOTAINMENT** | Head Unit Size | 8" | 8" | 10.25" dual | 10.25" dual | 8" | 10.25" dual | 10.25" dual |
-| | Bluelink | ✗ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| | Apple CarPlay | ✗ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| | Wireless Charger | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ |
-| **AUDIO** | Speaker System | 6-speaker std | 6-speaker std | 6-speaker std | BOSE 8-speaker | 6-speaker std | 6-speaker std | BOSE 8-speaker |
-| **LIGHTING** | Headlights | Halogen | LED | LED projector | LED projector | LED | LED projector | LED projector |
-| | Ambient Interior | ✗ | ✓ | ✓ (64-color) | ✓ (64-color) | LED basic | ✓ (64-color) | ✓ (64-color) |
-| **COMFORT** | Dual-zone AC | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| | Rear vent control | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| | Ventilated seats (row 2) | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ |
-| | Captain seat option | ✗ | ✗ | ✗ | ✗ | ✓ | ✓ | ✓ |
-| **EXTERIOR** | Wheel size | 16" steel | 16" steel | 17" alloy | 17" alloy | 17" alloy | 17" alloy | 17" alloy |
-| | Rear wiper | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| | Roof rail (X only) | — | — | — | — | ✓ | ✓ | ✓ |
-| | Body cladding (X only) | — | — | — | — | ✓ | ✓ | ✓ |
-| **SAFETY** | Rear disc brakes | ✗ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| | Airbag count | 4 or 6 | 6 | 6 | 6 | 6 | 6 | 6 |
-| | Hill Start Assist | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ |
-| **WARRANTY** | Vehicle warranty | 5y/150k | 5y/150k | 5y/150k | 5y/150k | 5y/150k | 5y/150k | 5y/150k |
-| | Free service period | 5y/75k (Labor) | 5y/75k | 5y/75k | 5y/75k | 5y/75k | 5y/75k | 5y/75k |
-| | Free parts period | 3y/45k (Some) | 3y/45k | 3y/45k | 3y/45k | 3y/45k | 3y/45k | 3y/45k |
-
-**Key Observations:**
-- **ADAS gate:** Starts at Smart HSS (Rp 329.9M); unavailable on Trend/Style
-- **Infotainment upgrade:** 8" → 10.25" dual screen at Smart (matches ADAS gate)
-- **Cartenz X differentiation:** Shift-by-wire + captain seats + crossover styling; no additional ADAS features vs standard Cartenz
-- **Premium package at Prime:** SCC + 360 camera + BOSE audio
+**Cartenz X (3 varian)** — Crossover-MPV
+- X Trend IVT (Rp 361,9 juta) — Entry crossover
+- X Style IVT (Rp 374,9 juta) — ADAS crossover
+- X Prime Package IVT (Rp 391,9 juta) — Full premium
 
 ---
 
-## Sweet Spot Analysis - Which Variants Offer Best Value
+## 2. PRICE COMPARISON
 
-| **Buyer Priority** | **Recommended Variant** | **Price** | **Reasoning** | **Alternative** |
-|---|---|---|---|---|---|
-| **Value for money** | **Cartenz Smart HSS** | **Rp 329.9M** | **Rp 30M jump from Style = FULL ADAS entry; best feature-to-price ratio** | Veloz Q HEV (Rp 303M, no ADAS) |
-| **All-in features** | **Cartenz Prime HSS** | **Rp 350.4M** | SCC + 360 camera + BOSE justify +Rp 20M over Smart | Cartenz X Style (less premium) |
-| **Budget conscious** | **Cartenz Trend IVT** | **Rp 279.9M** | Lowest auto entry; accept zero ADAS | Xpander Avanza (cheaper, proven) |
-| **Crossover + ADAS** | **Cartenz X Style** | **Rp 349.9M** | Best crossover option with full ADAS | Xpander Cross (proven, cheaper) |
-| **Maximum everything** | **Cartenz X Prime Pkg** | **Rp 391.9M** | All features + crossover styling + premium feels | Destinator GLS (more power, cheaper) |
-| **Avoid at all costs** | **Cartenz X Trend** | **Rp 319.9M** | Overpriced crossover without ADAS | Skip; choose Smart (Rp 329.9M) or X Style (Rp 349.9M) |
+### 2.1 Price Ladder
 
----
+```
+Rp 391,9 jt ████████████████████████████████████████ X Prime Package
+Rp 374,9 jt ██████████████████████████████████████   X Style
+Rp 361,9 jt ████████████████████████████████████     X Trend
+Rp 350,4 jt ██████████████████████████████████       Prime HSS
+Rp 332,9 jt ████████████████████████████████         Smart HSS  ⭐ Best Value
+Rp 299,9 jt ████████████████████████████             Style IVT
+Rp 289,9 jt ██████████████████████████               Style MT
+Rp 279,9 jt █████████████████████████                Trend IVT
+Rp 269,9 jt ████████████████████████                 Trend MT
+```
 
-## Buyer Recommendation Matrix by Buyer Type
+### 2.2 Price Delta Analysis
 
-| **Buyer Archetype** | **Primary Need** | **Secondary Need** | **Best Variant** | **Price** | **Why** | **Red Flag** |
-|---|---|---|---|---|---|---|
-| **Tech-Forward Family** | ADAS safety | Modern interior | Smart HSS | Rp 329.9M | ADAS entry + kabin luas + modern interior | If wants SCC, upgrade to Prime (+Rp 20M) |
-| **Comfort-Priority Mudik** | Spacious cabin | Smooth ride | Cartenz Smart or Prime | Rp 329–350M | Kabin luas + comfort suspension | Underpowered full load; accept limitation |
-| **Safety-Conscious Parent** | ADAS features | Reliability | Smart HSS | Rp 329.9M | ACC + LFA + FCA + collision avoid | Hyundai brand newness; watch long-term |
-| **Crossover Aspirant** | Styling + tech | ADAS | X Style | Rp 349.9M | LSUV look + full ADAS + shift-by-wire | Avoid X Trend (no ADAS); skip to X Style |
-| **Premium Buyer** | All features | Brand prestige | X Prime Pkg | Rp 391.9M | Maximum everything + crossover | Price approaches competitors (Destinator comparable) |
-| **Extreme Budget** | Low price | Basic function | Trend IVT | Rp 279.9M | Absolute cheapest auto variant | Zero ADAS; consider Xpander instead |
-| **Regional Buyer** | Dealer access | Service availability | Consider Xpander | Rp 315M+ | Better dealer network nationwide | Cartenz outside Jawa has gaps |
-| **Fuel Economy Focuser** | High efficiency | Budget | Choose Veloz HEV | Rp 303M | 2× fuel efficiency; Cartenz cannot compete | Cartenz lacks hybrid option |
-| **Power-Seeker** | Engine tenaga | Performance | Choose Destinator | Rp 385M+ | Turbocharged 1.2T; Cartenz 115 PS underpowered | Cartenz NA 1.5L weak for hill-climbs |
-
----
-
-## Who Should AVOID Each Variant
-
-| **Variant** | **Should AVOID If You...** | **Better Alternative** |
-|---|---|---|
-| **Trend MT** | Want comfort features or automatic transmission | Trend IVT or Style IVT |
-| **Trend IVT** | Want any ADAS features; minimum feature comfort | Jump to Smart HSS (Rp 329.9M) |
-| **Style MT** | Want automatic transmission | Style IVT (only Rp 10M more) |
-| **Style IVT** | Need ADAS features for safety; want modern tech | Smart HSS (Rp 329.9M, ADAS entry) |
-| **Smart HSS** | Want adaptive cruise (SCC) + 360 camera | Prime HSS (Rp 350.4M, add both) |
-| **Prime HSS** | Prefer crossover styling; budget-conscious | X Style (similar feature, LSUV style) |
-| **X Trend** | Want ADAS features at all; expect crossover value | Smart HSS (Rp 329.9M, cheaper with ADAS) or X Style (Rp 349.9M, ADAS + crossover) |
-| **X Style** | Want maximum features; budget limited | Prime HSS standard Cartenz (all features, no crossover styling) |
-| **X Prime Pkg** | Budget tight; need basic features only | Smart HSS or Style IVT (much cheaper) |
+| Dari → Ke | Selisih | Apa yang Didapat |
+|-----------|---------|-----------------|
+| Trend MT → Trend IVT | +Rp 10 jt | Transmisi IVT (matic) |
+| Trend IVT → Style IVT | +Rp 10 jt | LED headlamp, HU 10.25", 6 speaker, Bluelink, AA/CP, captain seat option |
+| Style IVT → Smart HSS | +Rp 33 jt | **FULL ADAS**, 6 airbag, R17, disc brake rear, EPB, kamera 360, leatherette, wireless charger, cluster 10.25" |
+| Smart HSS → Prime HSS | +Rp 17,5 jt | Ambient lighting, seatback table, built-in nav |
+| Trend MT → Smart HSS | +Rp 63 jt | Total upgrade: ADAS + safety + comfort + connectivity |
+| Smart HSS → X Trend | +Rp 29 jt | Body Cartenz X, GC 205mm, Shift-by-Wire, paddle shift, nav, roof rail — **TAPI KEHILANGAN ADAS** |
+| Smart HSS → X Style | +Rp 42 jt | Semua yang di X Trend + ADAS + BVM + BOSE + ambient |
+| X Trend → X Style | +Rp 13 jt | **ADAS + kamera 360 + BVM + BOSE + ambient lighting** |
+| X Style → X Prime Pkg | +Rp 17 jt | Ventilated seat, power seat 8-way, seatback table |
 
 ---
 
-## Safety & ADAS Comparison Matrix
+## 3. SIDE-BY-SIDE SPECIFICATION COMPARISON
 
-| **Safety Feature** | **Trend** | **Style** | **Smart** | **Prime** | **X Trend** | **X Style** | **X Prime** | **Typical Competitor** |
-|---|---|---|---|---|---|---|---|---|
-| **Forward Collision Avoidance (FCA)** | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | Veloz Q HEV: ✓ basic |
-| **Lane Keeping Assist (LKA)** | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | Xpander: ✗ |
-| **Lane Following Assist (LFA)** | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | Xpander: ✗ |
-| **Blind Spot Collision Avoidance** | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | Xpander: ✗ |
-| **Smart Cruise Control (Stop & Go)** | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | Veloz Q: ✗ |
-| **360 Camera / Surround View** | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | Xpander: Basic |
-| **Automatic Emergency Braking** | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | Veloz Q: ✓ basic |
-| **Airbag Count** | 4 | 6 | 6 | 6 | 6 | 6 | 6 | Xpander: 6–8 |
-| **ADAS Completeness Score** | 0/9 | 0/9 | **9/9** | **12/12** (includes SCC+360) | 0/9 | **9/9** | **12/12** | Xpander: 4/9; Veloz Q: 5/9 |
+### 3.1 Mesin & Transmisi (IDENTIK semua varian)
 
-**Safety Summary:**
-- **ADAS leadership:** Cartenz Smart/Prime/X variants have most complete ADAS in segment at comparable price
-- **Trend/Style/X Trend:** No ADAS — direct competitor comparison favors equipped variants
-- **Competitive positioning:** Cartenz ADAS > Veloz ADAS; Cartenz ADAS > Xpander ADAS (first-mover advantage)
+| Parameter | Semua Varian |
+|-----------|-------------|
+| Mesin | 1.497 cc Smartstream G 1.5 MPI |
+| Tenaga | 115 PS @ 6.300 rpm |
+| Torsi | 143,8 Nm @ 4.500 rpm |
+| BBM | RON 90+ |
+| Tangki | 40 liter |
+| Penggerak | FWD |
 
----
+### 3.2 Dimensi & Chassis
 
-## Comfort & Convenience Comparison Matrix
+| Parameter | Cartenz Trend/Style | Cartenz Smart/Prime | Cartenz X (All) |
+|-----------|--------------------|--------------------|-----------------|
+| Panjang | 4.575 mm | 4.575 mm | 4.610 mm (+35) |
+| Lebar | 1.780 mm | 1.780 mm | 1.820 mm (+40) |
+| Tinggi | 1.695 mm | 1.710 mm | 1.740 mm (+30~45) |
+| Wheelbase | 2.780 mm | 2.780 mm | 2.780 mm |
+| Ground Clearance | 185 mm | 205 mm | 205 mm |
+| Ban | 205/55 R16 | 205/50 R17 | 205/50 R17 |
+| Rem Belakang | Teromol | Cakram | Cakram |
 
-| **Comfort Feature** | **Trend** | **Style** | **Smart** | **Prime** | **X Trend** | **X Style** | **X Prime** | **Verdict** |
-|---|---|---|---|---|---|---|---|---|
-| **Dual-zone AC** | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | Smart+ get temp control |
-| **Rear AC vents** | ✗ | ✗ | ✓ | ✓ | ✗ | ✓ | ✓ | Row 3 comfort at Smart+ |
-| **Ventilated seats** | ✗ | ✗ | ✗ | ✓ | ✗ | ✗ | ✓ | Prime only (premium touch) |
-| **Ambient lighting** | ✗ | ✓ | ✓ 64-color | ✓ 64-color | Basic | ✓ 64-color | ✓ 64-color | Style+ get customizable |
-| **Wireless charger** | ✗ | ✗ | ✓ | ✓ | ✗ | ✗ | ✓ | Smart/Prime convenience |
-| **Head unit size** | 8" | 8" | 10.25" dual | 10.25" dual | 8" | 10.25" dual | 10.25" dual | Smart+ get premium display |
-| **Apple CarPlay** | ✗ | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | Style+ get smartphone integration |
-| **Power back door** | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | ✗ | None available (cost reduction) |
-| **Captain seats (X only)** | — | — | — | — | ✓ | ✓ | ✓ | X variants offer seating option |
-| **Comfort rating** | 6/10 | 7/10 | **9/10** | **9/10** | 7/10 | **9/10** | **9/10** | Smart/Prime class leaders |
+### 3.3 Safety Comparison
 
-**Comfort Verdict:**
-- **Smart HSS jumps comfort dramatically** (dual AC, rear vents, wireless charger, larger screen)
-- **Trend/Style** = bare-bones comfort; Rp 30M jump to Smart well-justified
-- **Prime/X Prime** = maximum comfort with premium touches (ventilated seats, BOSE)
+| Fitur Safety | Trend | Style | Smart HSS | Prime HSS | X Trend | X Style | X Prime |
+|-------------|-------|-------|-----------|-----------|---------|---------|---------|
+| Airbag | 2 | 2 | 6 | 6 | 6 | 6 | 6 |
+| ABS+EBD+BAS | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| ESC+VSM | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| HAC | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| TPMS | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| FCA | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| LKA | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| LFA | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| SCC Stop&Go | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| BCA | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| BVM | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ |
+| RCCA | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| SVM (360°) | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| SEW | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| HBA | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| DAW+LVDA | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| PDW F+R | ❌ | ❌ | ✅ | ✅ | ❌ | ✅ | ✅ |
+| **Total ADAS** | **0** | **0** | **12** | **12** | **0** | **13** | **13** |
 
----
+### 3.4 Comfort & Convenience Comparison
 
-## Performance & Efficiency Comparison Matrix
-
-| **Performance Metric** | **All Cartenz/X** | **Veloz HEV** | **Xpander** | **Destinator 1.2T** | **Cartenz Advantage** |
-|---|---|---|---|---|---|
-| **Engine** | 1.5L NA, 115 PS | 1.5L Hybrid, 109 PS | 1.5L NA, 105–108 PS | 1.2L Turbo, 110 PS | More power than Xpander; less than Destinator |
-| **Torque** | 143.8 Nm @ 4.5k | 121 Nm engine + motor | 141–142 Nm | 145 Nm turbo | Mid-range, adequate |
-| **City fuel economy** | 10–14 km/l | 22–25 km/l | 12–14 km/l | 12–14 km/l | **Xpander comparable city** |
-| **Highway fuel economy** | 15–22 km/l | 28–32 km/l | 14–18 km/l | 13–15 km/l | **Veloz HEV 40% more efficient** |
-| **Combined avg** | 13.8–15 km/l | 24–26 km/l | 13–14 km/l | 13–14 km/l | Competitive vs non-hybrid |
-| **Hill climb full load** | Struggles, Mode Sport needed | Excellent hybrid torque | Adequate, 105 PS | Strong turbo | **Destinator > Cartenz > Xpander** |
-| **0–100 km/h (est.)** | ~12–13 sec | ~11–12 sec (hybrid smooth) | ~12–14 sec | ~11–12 sec turbo | Comparable to non-turbo rivals |
-| **Towing capacity** | Not rated for towing | 800 kg | 800 kg | 1000 kg | **Destinator better for towing** |
-
-**Performance Verdict:**
-- **Power:** Destinator 1.2T > Veloz HEV hybrid character > Cartenz NA > Xpander NA
-- **Efficiency:** Veloz HEV 40% better; Cartenz competitive with non-hybrid Xpander
-- **Cartenz strength:** Balanced power (not weak vs Xpander) + competitive fuel economy
-- **Cartenz weakness:** Cannot match Veloz HEV efficiency; underpowered vs Destinator turbo
-
----
-
-## Style & Design Comparison Matrix
-
-| **Design Element** | **Cartenz** | **Cartenz X** | **Assessment** | **Buyer Impact** |
-|---|---|---|---|---|
-| **Front grille** | Modern, busy design | Identical to Cartenz | Polarizing; 50/50 in comments | Design taste; dealbreaker for some |
-| **Front bumper** | Sleek with LED DRL | Sleek with LED DRL | Modern execution | Positive reception |
-| **Headlights** | Halogen/LED projector | LED projector | Clean design | Well-received |
-| **Side profile** | Conventional MPV | LSUV with cladding + roof rail | X more adventurous | Crossover appeal for X buyers |
-| **Rear bumper** | Modern, sculpted | Modern, sculpted | Universally praised | Positive |
-| **Rear lights** | Modern LED tail lights | Modern LED tail lights | Clean, modern look | Positive |
-| **Body color options** | Standard automotive palette | Standard automotive palette | 6–8 colors typical | Standard |
-| **Overall proportion** | 4575 mm length, balanced | 4610 mm length, LSUV stance | X more imposing | X appeals to style-conscious |
-| **Interior dashboard** | Modern dual-screen layout | Identical | Futuristic, premium feel | Highly praised |
-| **Design maturity** | Significant upgrade from gen-1 | Upgrade + LSUV differentiation | Fresh market entry | Positive glow-up |
-
-**Design Verdict:**
-- **Cartenz interior/rear:** Universally praised as premium
-- **Front design:** Polarizing; some love modern; some dislike busy appearance
-- **Cartenz X:** Cladding/roof rail add crossover proportion; more visually balanced for crossover-skeptics
-- **Overall:** Design is strength except front polarization; interior quality competitive with Rp 400M+ vehicles
+| Fitur | Trend | Style | Smart HSS | Prime HSS | X Trend | X Style | X Prime |
+|-------|-------|-------|-----------|-----------|---------|---------|---------|
+| Head Unit | 8" | 10,25" | 10,25" | 10,25" | 10,25" | 10,25" | 10,25" |
+| Cluster | 4,2" | 4,2" | 10,25" | 10,25" | 10,25" | 10,25" | 10,25" |
+| Speaker | 4 | 6 | 6 | 6 | 6 | 8 BOSE | 8 BOSE |
+| Lampu | Halogen | LED | LED | LED | LED | LED | LED |
+| DRL | ❌ | LED | LED | LED | LED | LED | LED |
+| EPB+AutoHold | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Wireless Charger | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Wireless AA/CP | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Bluelink | ❌ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Captain Seat | ❌ | +3,5jt | +3,5jt | +3,5jt | ❌ | +3,5jt | +3,5jt |
+| Jok | Fabric | Fabric | Leather | Leather | Leather | Leather | Leather |
+| Ambient Light | ❌ | ❌ | ❌ | ✅ | ❌ | ✅ | ✅ |
+| Built-in Nav | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ | ✅ |
+| Shift-by-Wire | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Paddle Shift | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Ventilated Seat | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Power Seat 8-way | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ✅ |
+| Seatback Table | ❌ | ❌ | ❌ | ✅ | ❌ | ❌ | ✅ |
+| Rear AC | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
+| Roof Rail | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
+| Body Cladding | ❌ | ❌ | ❌ | ❌ | ✅ | ✅ | ✅ |
 
 ---
 
-## Value Hierarchy Summary Table
+## 4. VALUE INDEX ANALYSIS
 
-| **Value Tier** | **Best Variant(s)** | **Price Range** | **Key Value Driver** | **Market Fit** |
-|---|---|---|---|---|
-| **BEST VALUE** | **Smart HSS** | **Rp 329.9M** | **ADAS entry + kabin + tech** | Tech-forward families |
-| **VERY GOOD** | **Prime HSS, X Style** | Rp 349.9–350M | Full ADAS + premium/style options | All-in buyers, crossover seekers |
-| **GOOD** | **Style IVT, X Prime Package** | Rp 299.9M / Rp 391.9M | Entry comfort / maximum features | Mid-entry buyers / premium seekers |
-| **ACCEPTABLE** | **Trend IVT** | Rp 279.9M | Entry-level auto MPV | Budget-conscious buyers |
-| **POOR** | **Trend MT, X Trend** | Rp 269.9M / Rp 319.9M | Manual entry / crossover without ADAS | Avoid; better alternatives exist |
-| **QUESTIONABLE** | **Style MT** | Rp 289.9M | Manual mid-entry | Manual lovers only; IVT better |
+### 4.1 Feature Count per Rp 10 Juta
+
+| Varian | Harga | Key Features | Value Index |
+|--------|-------|-------------|-------------|
+| Trend MT | 269,9 | Basic: ABS, ESC, HAC, rear AC | ⭐⭐ |
+| Trend IVT | 279,9 | + IVT transmission | ⭐⭐ |
+| Style MT | 289,9 | + LED, HU 10.25", Bluelink, AA/CP | ⭐⭐⭐ |
+| Style IVT | 299,9 | + IVT transmission | ⭐⭐⭐ |
+| **Smart HSS** | **332,9** | **+ Full ADAS, 6 airbag, 360 cam, EPB, wireless** | **⭐⭐⭐⭐⭐** |
+| Prime HSS | 350,4 | + Ambient, nav, seatback table | ⭐⭐⭐⭐ |
+| X Trend | 361,9 | + X body, SbW, paddle, nav — TANPA ADAS | ⭐⭐ |
+| X Style | 374,9 | + ADAS, BVM, BOSE, 360, ambient | ⭐⭐⭐⭐ |
+| X Prime Pkg | 391,9 | + Ventilated seat, power seat, seatback table | ⭐⭐⭐⭐ |
+
+### 4.2 Value Analysis per Category
+
+**Best Value Overall**: ⭐ **Cartenz Smart HSS (Rp 332,9 juta)**
+- Lompatan fitur terbesar dari Style ke Smart HSS: ADAS penuh, 6 airbag, kamera 360, EPB, rem cakram belakang, R17, leatherette, wireless charger, digital cluster
+- Selisih Rp 33 juta dari Style IVT tapi upgrade MASIF
+
+**Best Entry**: **Cartenz Trend IVT (Rp 279,9 juta)**
+- MPV 7-seater termurah dengan Hyundai build quality
+- IVT lebih nyaman dari MT untuk +Rp 10 juta
+
+**Worst Value**: ⚠️ **Cartenz X Trend (Rp 361,9 juta)**
+- Rp 29 juta lebih mahal dari Smart HSS tapi TANPA ADAS
+- Premium hanya untuk: body crossover, GC 205mm, Shift-by-Wire, paddle shift, roof rail
+- Pembeli safety-conscious harus SKIP varian ini
+
+**Best Premium**: **Cartenz X Prime Package (Rp 391,9 juta)**
+- Untuk yang mau semua: ADAS + BOSE + ventilated seat + BVM
+- Termahal tapi paling lengkap fiturnya di seluruh lineup LMPV Indonesia
 
 ---
 
-## Final Variant Recommendation
+## 5. VARIANT-SPECIFIC RECOMMENDATIONS (Narrative)
 
-| **Buyer Profile** | **Recommendation** | **Rationale** |
-|---|---|---|
-| **Best Overall Choice** | **Cartenz Smart HSS** | Rp 329.9M, ADAS entry, best feature-to-price, optimal value |
-| **Premium Choice** | **Cartenz Prime HSS or X Style** | Rp 350–349.9M, full features or crossover + ADAS |
-| **Budget Choice** | **Cartenz Trend IVT** | Rp 279.9M, auto entry-level (accept no ADAS) |
-| **Crossover Choice** | **Cartenz X Style** | Rp 349.9M, LSUV styling + full ADAS |
-| **Maximum Choice** | **Cartenz X Prime Package** | Rp 391.9M, all features + crossover |
-| **AVOID** | **Cartenz X Trend** | Rp 319.9M, no ADAS; Smart HSS (Rp 329.9M) better value +Rp 10M |
+### 5.1 Cartenz Trend MT (Rp 269,9 juta)
+
+**Untuk siapa**: Pembeli yang butuh MPV murah dengan transmisi manual, komersial/fleet.
+**Kelebihan**: Harga termurah, manual 6MT tersedia.
+**Kekurangan**: Sangat basic — 2 airbag, halogen, HU 8", tanpa Bluelink/ADAS/DRL/TPMS.
+**Verdict**: Hanya jika budget sangat terbatas atau memang prefer manual.
+
+### 5.2 Cartenz Trend IVT (Rp 279,9 juta)
+
+**Untuk siapa**: Pembeli entry yang mau matic untuk daily commute.
+**Kelebihan**: IVT lebih nyaman, harga kompetitif.
+**Kekurangan**: Masih basic — sama seperti Trend MT minus manual.
+**Verdict**: Starting point yang masuk akal untuk pembeli budget.
+
+### 5.3 Cartenz Style MT (Rp 289,9 juta)
+
+**Untuk siapa**: Pembeli yang mau upgrade signifikan dari Trend dengan manual.
+**Kelebihan**: LED headlamp, HU 10.25", Bluelink, AA/CP, captain seat option, 6 speaker.
+**Kekurangan**: Masih 2 airbag, tanpa ADAS, manual saja.
+**Verdict**: Sweet spot untuk yang prefer manual + butuh fitur konektivitas.
+
+### 5.4 Cartenz Style IVT (Rp 299,9 juta)
+
+**Untuk siapa**: Pembeli mid-range yang mau matic + konektivitas.
+**Kelebihan**: Sama dengan Style MT + IVT, harga masih sub-300 juta.
+**Kekurangan**: Masih 2 airbag, tanpa ADAS, tanpa EPB.
+**Verdict**: Pilihan solid di Rp 300 juta jika tidak butuh ADAS.
+
+### 5.5 ⭐ Cartenz Smart HSS IVT (Rp 332,9 juta) — BEST VALUE
+
+**Untuk siapa**: Keluarga yang sering tol/jalan jauh, safety-first buyer, tech enthusiast.
+**Kelebihan**: Full ADAS (13 fitur), 6 airbag, kamera 360, EPB + Auto Hold, rem cakram belakang, R17, leatherette, wireless charger, digital cluster 10.25".
+**Kekurangan**: Tanpa ambient lighting, nav, seatback table (ada di Prime).
+**Verdict**: **BEST BUY di seluruh lineup.** Lompatan fitur dari Style ke Smart HSS sangat besar (Rp 33 juta) tapi upgrade MASIF. Ini varian yang paling sering direkomendasikan reviewer.
+
+> "Cartenz Smart HSS menurut gw best value. Udah dapet ADAS full, 360, EPB. Gak perlu nambah ke Prime kecuali mau ambient lighting." — YouTube comment (45 likes)
+
+### 5.6 Cartenz Prime HSS IVT (Rp 350,4 juta)
+
+**Untuk siapa**: Pembeli yang mau ADAS + sentuhan premium.
+**Kelebihan**: Semua fitur Smart HSS + ambient lighting, built-in navigation, seatback table.
+**Kekurangan**: Selisih Rp 17,5 juta dari Smart HSS untuk fitur comfort yang bukan keharusan.
+**Verdict**: Worth it HANYA jika ambient lighting dan seatback table penting. Mayoritas pembeli cukup di Smart HSS.
+
+### 5.7 ⚠️ Cartenz X Trend IVT (Rp 361,9 juta) — CAUTION
+
+**Untuk siapa**: Pembeli yang KHUSUS ingin tampilan crossover + ground clearance 205mm, dan TIDAK peduli ADAS.
+**Kelebihan**: Body Cartenz X (cladding, roof rail, lebih tinggi), Shift-by-Wire, paddle shift, floating console, built-in nav.
+**Kekurangan**: TANPA SmartSense ADAS meskipun harga Rp 29 juta di atas Cartenz Smart HSS yang SUDAH punya ADAS lengkap. Tanpa kamera 360.
+**Verdict**: **Varian paling kontroversial.** Pembeli membayar premium untuk look dan body crossover, bukan untuk keselamatan. Jangan beli ini jika ADAS penting — turun ke Smart HSS (hemat Rp 29 juta dan DAPAT ADAS) atau naik ke X Style (+Rp 13 juta dan DAPAT ADAS + BOSE + 360 + BVM + ambient).
+
+> "Cartenz X Trend itu trap. Harga paling mahal di Cartenz biasa, tapi gak dapet ADAS. Mending Cartenz Smart HSS." — YouTube comment (167 likes)
+
+### 5.8 Cartenz X Style IVT (Rp 374,9 juta)
+
+**Untuk siapa**: Pembeli yang mau crossover MPV dengan ADAS lengkap + BOSE audio.
+**Kelebihan**: Full ADAS + BVM (Blind-spot View Monitor, eksklusif X Style & X Prime), BOSE 8-speaker, kamera 360, ambient lighting, semua fitur crossover body.
+**Kekurangan**: Harga sudah Rp 374,9 juta — jauh dari LMPV mainstream.
+**Verdict**: Pilihan terbaik jika ingin Cartenz X + ADAS. Selisih hanya Rp 13 juta dari X Trend tapi upgrade SANGAT SIGNIFIKAN (ADAS + 360 + BVM + BOSE + ambient).
+
+### 5.9 Cartenz X Prime Package IVT (Rp 391,9 juta)
+
+**Untuk siapa**: Pembeli yang mau SEMUA fitur tanpa kompromi.
+**Kelebihan**: Ventilated seat (pengemudi), power seat 8-way, seatback table, BOSE, BVM, full ADAS, body crossover.
+**Kekurangan**: Rp 391,9 juta sudah masuk territory SUV/sedan bekas premium.
+**Verdict**: Untuk pembeli yang tahu apa yang mereka mau dan bersedia bayar full price. Ventilated seat dan power seat 8-way di bawah Rp 400 juta sangat langka.
 
 ---
 
-**End of Variant Comparison Document**
+## 6. CRITICAL UPGRADE PATH GUIDE
+
+### 6.1 Upgrade Path yang Direkomendasikan
+
+```
+Budget <Rp 280 jt → Cartenz Trend IVT
+Budget Rp 280-300 jt → Cartenz Style IVT
+Budget Rp 300-350 jt → ⭐ Cartenz Smart HSS (best value)
+Budget Rp 350-375 jt → Cartenz Prime HSS (jika mau premium Cartenz)
+                        ATAU Cartenz X Style (jika mau crossover + ADAS)
+Budget >Rp 375 jt → Cartenz X Prime Package
+```
+
+### 6.2 Upgrade Path yang TIDAK Direkomendasikan
+
+```
+❌ Smart HSS → X Trend (downgrade ADAS untuk body crossover, buang Rp 29 juta)
+❌ Prime HSS → X Trend (downgrade ADAS + comfort untuk body crossover)
+❌ Trend MT untuk pemakaian harian Jakarta (macet + manual = menderita)
+```
+
+### 6.3 Key Decision Trees
+
+**"Apakah ADAS penting?"**
+- Ya → Minimal: Cartenz Smart HSS (Rp 332,9 jt)
+- Ya + crossover → Cartenz X Style (Rp 374,9 jt)
+- Tidak → Cartenz Style IVT (Rp 299,9 jt)
+
+**"Apakah tampilan crossover penting?"**
+- Ya + ADAS → Cartenz X Style atau X Prime Package
+- Ya tanpa ADAS → Cartenz X Trend (tapi pertimbangkan Smart HSS)
+- Tidak → Tetap di Cartenz lineup
+
+**"Budget terbatas tapi mau fitur terlengkap?"**
+- ⭐ Cartenz Smart HSS — fitur paling banyak per rupiah
+
+---
+
+## 7. HEAD-TO-HEAD COMPARISONS
+
+### 7.1 Cartenz Smart HSS vs Cartenz X Trend
+
+**Pertarungan yang paling penting untuk pembeli.**
+
+| Parameter | Smart HSS | X Trend | Pemenang |
+|-----------|-----------|---------|----------|
+| Harga | Rp 332,9 jt | Rp 361,9 jt | Smart HSS (-Rp 29 jt) |
+| SmartSense ADAS | ✅ Full (12 fitur) | ❌ Tidak ada | **Smart HSS** |
+| Kamera 360 | ✅ | ❌ | **Smart HSS** |
+| Airbag | 6 | 6 | Seri |
+| Ground Clearance | 205 mm | 205 mm | Seri |
+| Body Cladding | ❌ | ✅ | X Trend |
+| Roof Rail | ❌ | ✅ | X Trend |
+| Shift-by-Wire | ❌ | ✅ | X Trend |
+| Paddle Shift | ❌ | ✅ | X Trend |
+| BVM | ❌ | ❌ | Seri |
+| Dimensi | Cartenz standard | +35mm P, +40mm L, +30mm T | X Trend |
+
+**Verdict**: Smart HSS menang telak jika prioritas adalah keselamatan/ADAS. X Trend hanya menang di tampilan crossover. **Rekomendasi: Smart HSS kecuali crossover look SANGAT penting.**
+
+### 7.2 Cartenz X Trend vs Cartenz X Style
+
+| Parameter | X Trend | X Style | Selisih |
+|-----------|---------|---------|---------|
+| Harga | Rp 361,9 jt | Rp 374,9 jt | +Rp 13 jt |
+| SmartSense ADAS | ❌ | ✅ Full | **X Style** |
+| Kamera 360 | ❌ | ✅ | **X Style** |
+| BVM | ❌ | ✅ | **X Style** |
+| Speaker | 6 | 8 BOSE | **X Style** |
+| Ambient Lighting | ❌ | ✅ | **X Style** |
+| Captain Seat | ❌ | +3,5jt | **X Style** |
+
+**Verdict**: **X Style menang mutlak.** Hanya +Rp 13 juta tapi upgrade ADAS penuh + BVM + BOSE + 360 cam + ambient. Tidak ada alasan logis memilih X Trend kecuali budget benar-benar mentok.
+
+### 7.3 Cartenz Smart HSS vs Cartenz Prime HSS
+
+| Parameter | Smart HSS | Prime HSS | Selisih |
+|-----------|-----------|-----------|---------|
+| Harga | Rp 332,9 jt | Rp 350,4 jt | +Rp 17,5 jt |
+| SmartSense ADAS | ✅ Full | ✅ Full (identik) | Seri |
+| Kamera 360 | ✅ | ✅ | Seri |
+| Ambient Lighting | ❌ | ✅ | Prime HSS |
+| Built-in Nav | ❌ | ✅ | Prime HSS |
+| Seatback Table | ❌ | ✅ | Prime HSS |
+
+**Verdict**: ADAS identik. Prime HSS menambahkan sentuhan premium (ambient, nav, seatback table) untuk +Rp 17,5 juta. **Worth it jika fitur premium penting. Jika tidak, Smart HSS sudah sangat cukup.**
+
+### 7.4 Cartenz Prime HSS vs Cartenz X Style
+
+| Parameter | Prime HSS | X Style | Selisih |
+|-----------|-----------|---------|---------|
+| Harga | Rp 350,4 jt | Rp 374,9 jt | +Rp 24,5 jt |
+| SmartSense ADAS | ✅ Full | ✅ Full | Seri |
+| Body | Cartenz | Cartenz X (crossover) | X Style |
+| GC | 205 mm | 205 mm | Seri |
+| BVM | ❌ | ✅ | **X Style** |
+| Speaker | 6 | 8 BOSE | **X Style** |
+| Shift-by-Wire | ❌ | ✅ | X Style |
+| Ambient Lighting | ✅ | ✅ | Seri |
+| Seatback Table | ✅ | ❌ | Prime HSS |
+| Built-in Nav | ✅ | ✅ | Seri |
+| Ventilated Seat | ❌ | ❌ | Seri |
+
+**Verdict**: X Style menambahkan BVM, BOSE, Shift-by-Wire, body crossover untuk +Rp 24,5 juta. **Pilih X Style jika mau crossover look + BVM + BOSE. Pilih Prime HSS jika prefer seatback table dan hemat Rp 24,5 juta.**
+
+---
+
+## 8. OVERALL RANKING
+
+### 8.1 Ranking by Value-for-Money
+
+| Rank | Varian | Value Score | Catatan |
+|------|--------|-------------|---------|
+| 1 | ⭐ Cartenz Smart HSS | 10/10 | Best value di seluruh lineup |
+| 2 | Cartenz X Style | 8,5/10 | Best value di lini Cartenz X |
+| 3 | Cartenz Style IVT | 8/10 | Best value tanpa ADAS |
+| 4 | Cartenz X Prime Pkg | 7,5/10 | Full fitur untuk yang mampu |
+| 5 | Cartenz Prime HSS | 7/10 | Upgrade modest dari Smart HSS |
+| 6 | Cartenz Trend IVT | 6,5/10 | Entry yang solid |
+| 7 | Cartenz Style MT | 6/10 | Untuk fans manual |
+| 8 | Cartenz Trend MT | 5,5/10 | Sangat basic |
+| 9 | ⚠️ Cartenz X Trend | 4/10 | Mahal tanpa ADAS — worst value |
+
+### 8.2 Ranking by Feature Completeness
+
+| Rank | Varian | Feature Score | ADAS | Premium |
+|------|--------|---------------|------|---------|
+| 1 | Cartenz X Prime Pkg | 10/10 | ✅ Full + BVM | Ventilated, BOSE, Power Seat |
+| 2 | Cartenz X Style | 9/10 | ✅ Full + BVM | BOSE, Ambient |
+| 3 | Cartenz Prime HSS | 8/10 | ✅ Full | Ambient, Nav, Table |
+| 4 | Cartenz Smart HSS | 7,5/10 | ✅ Full | Wireless Charger |
+| 5 | Cartenz X Trend | 6/10 | ❌ | SbW, Paddle, Nav |
+| 6 | Cartenz Style IVT | 5/10 | ❌ | Bluelink, AA/CP |
+| 7 | Cartenz Style MT | 4,5/10 | ❌ | Bluelink, AA/CP |
+| 8 | Cartenz Trend IVT | 3/10 | ❌ | - |
+| 9 | Cartenz Trend MT | 2,5/10 | ❌ | - |
+
+### 8.3 Ranking by Safety
+
+| Rank | Varian | Safety Score | Airbag | ADAS |
+|------|--------|-------------|--------|------|
+| 1 | Cartenz X Style / X Prime | 10/10 | 6 | Full + BVM |
+| 2 | Cartenz Smart HSS / Prime HSS | 9/10 | 6 | Full |
+| 3 | Cartenz X Trend | 5/10 | 6 | ❌ |
+| 4 | Cartenz Style MT/IVT | 3/10 | 2 | ❌ |
+| 5 | Cartenz Trend MT/IVT | 2/10 | 2 | ❌ |
+
+---
+
+## 9. FINAL VERDICT
+
+### The Definitive Recommendation
+
+| Pertanyaan | Jawaban |
+|------------|---------|
+| **Varian terbaik secara keseluruhan?** | ⭐ Cartenz Smart HSS (Rp 332,9 juta) |
+| **Termurah yang layak beli?** | Cartenz Trend IVT (Rp 279,9 juta) |
+| **Terlengkap fiturnya?** | Cartenz X Prime Package (Rp 391,9 juta) |
+| **Best value di Cartenz X?** | Cartenz X Style (Rp 374,9 juta) |
+| **Varian yang harus dihindari?** | ⚠️ Cartenz X Trend (Rp 361,9 juta) — mahal tanpa ADAS |
+| **Pilihan teraman?** | Cartenz X Style/Prime (6 airbag + ADAS + BVM) |
+
+### The Smart Buyer's Shortlist
+
+1. **Budget buyer**: Cartenz Trend IVT → upgrade ke Style IVT kalau ada dana lebih
+2. **Value buyer**: ⭐ **Cartenz Smart HSS** → ini sweet spot lineup
+3. **Premium buyer**: Cartenz X Style → best balance ADAS + crossover + BOSE
+4. **All-in buyer**: Cartenz X Prime Package → semua fitur, tanpa kompromi
+
+---
+
+Last Updated: April 2026
+Data Source: Cross-referenced from master-research and source-specific files
+Research Period: March - April 2026
