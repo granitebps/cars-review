@@ -129,3 +129,87 @@
 - Mesin kalah vs Destinator (turbo) dan Veloz (hybrid)
 - Sales: 500-700 unit/bulan, target 1,000/bulan
 - Awards: People's Favorite MPV (GJAW 2025), Most Inspiring MPV (IAA 2025)
+
+## Suzuki XL7 Hybrid
+
+### Pricing (verified April 2026 via Suzuki Official, Kompas, Moladin, Carmudi, Pikiran Rakyat)
+- 8 hybrid variants (excluding Zeta non-hybrid): Beta MT/AT, Alpha MT/AT, Alpha 2Tone MT/AT, Alpha Kuro AT x2
+- OTR Jakarta: Rp 286M (Beta MT) to Rp 314.2M (Alpha Kuro AT Two Tone)
+- Cash discount bisa Rp 40-47 juta → Alpha AT efektif ~Rp 260M cash (sumber: Twitter @RWWReborn, dealer)
+- Selisih Beta→Alpha: ~Rp 10M (E-Mirror Touchscreen, HU 9", Android Auto/CarPlay, Roof Rail, Door Visor)
+- Selisih Alpha→Kuro: ~Rp 5-7M (9 black accents only, NO functional upgrade)
+- Alpha Kuro hanya AT, tidak ada opsi MT
+
+### Powertrain (verified via Suzuki Official, Kompas, GridOto, Carmudi YouTube, KabarOto)
+- Engine: K15B 1.462cc DOHC 16V, 104.7 PS / 6,000 rpm, 138 Nm / 4,400 rpm
+- Hybrid: SHVS (Smart Hybrid Vehicle by Suzuki) — mild hybrid, ISG + Li-ion 10Ah
+- Transmission: 5MT manual / 4AT automatic (conventional torque converter, NOT CVT)
+- BBM: RON 90+ (Pertalite compatible — keunggulan vs Veloz Hybrid RON 95)
+- Fuel tank: 45 liters
+- Berat kosong: ~1,170-1,200 kg
+
+### Dimensions & Chassis
+- 4,450 x 1,775 x 1,710 mm, Wheelbase 2,740 mm
+- Ground clearance: 200 mm (tertinggi di kelas LSUV)
+- Radius putar: 5.1 meter
+- Suspensi: MacPherson Strut (F) / Torsion Beam (R) — karakter lembut, comfort-oriented
+- Rem: Disc ventilated (F) / Drum (R)
+- Ban: 195/60 R16 Alloy (semua varian)
+- Platform shared with Ertiga
+
+### Fuel Economy (verified via Kompas test, DetikOto, GridOto YouTube, owner reports)
+- City: 10.5-14 km/l (typical 13 km/l)
+- Highway/toll: 15-19.9 km/l
+- Combined daily realistic: 13-15 km/l
+- Eco-driving optimal: 19-20 km/l
+- Jakarta-Jogja toll: 15.2 km/l (MobilKomersial)
+- Pantura 5 pax RON92: 18 km/l (owner report)
+- SHVS penghematan ~10-15% vs non-hybrid
+
+### Ownership Cost (verified via Suzuki Official, Kompas, Moladin, Katadata)
+- Pajak tahunan: ~Rp 4.19M (MT) / ~Rp 4.32M (AT) — benefit LCEV
+- Servis gratis: 0-50,000 km
+- Servis 50-100K km: ~Rp 6.37M total
+- Biaya harian 5 tahun: ~Rp 15,000/hari (pajak + servis)
+- Garansi kendaraan: 3 tahun / 100,000 km
+- Garansi baterai hybrid: 8 tahun / 160,000 km
+- Penggantian baterai pasca garansi: ~Rp 14 juta
+- Resale value bekas 2023-2025: Rp 179-277 juta (stabil)
+
+### Safety (verified via Suzuki Official, Oto.com, multiple reviewers)
+- 2 airbag saja (dual front) — SEMUA varian, tidak ada side/curtain
+- ESP: Beta, Alpha, Kuro (semua hybrid)
+- ABS + EBD + Brake Assist: semua varian
+- Hill Hold Control: AT only
+- ISOFIX: semua varian
+- TIDAK ADA ADAS apapun (no ACC, LKA, AEB, kamera 360)
+- ASEAN NCAP: belum ada rating khusus XL7 (basis Ertiga 4 bintang)
+
+### Key Feature Differences (Beta vs Alpha vs Kuro)
+- Beta: E-Mirror standar (non-touchscreen), HU 8", Android Auto/CarPlay perlu konfirmasi
+- Alpha: E-Mirror Touchscreen, HU 9", Android Auto/CarPlay, Roof Rail, Rear Spoiler, Door Visor
+- Alpha Kuro: Semua Alpha + 9 Black Accents, AT only, 3 warna eksklusif
+- Cruise Control ada di SEMUA varian hybrid (langka di kelas harga ini)
+
+### Common Problems (verified via OLX, Domotransmisi, PinterMekanik, owner reports)
+- Karat body (handle pintu, bawah pintu) — terutama produksi awal
+- Rembesan oli mesin (sealant/cover timing)
+- Aki bawaan cepat soak
+- Dashboard rattle di jalan bergelombang
+- Road noise dari ban
+- Mild hybrid "nanggung" — penghematan terbatas ~10-15%
+- 4AT perpindahan kurang halus (trade-off durabilitas)
+
+### Market Position
+- LSUV best-seller Suzuki, 731 unit SPK di IIMS 2025 (43% total Suzuki)
+- Posisi 2 penjualan hybrid nasional (setelah Innova Zenix)
+- ~20% total penjualan Suzuki 2025
+- Kompetitor: Rush, Terios, BR-V, Xpander Cross, Stargazer X
+- Key advantage: Termurah hybrid SUV 7-seater, AT konvensional (bukan CVT), RON 90, biaya kepemilikan sangat rendah
+
+### Reviewer Consensus
+- Value for Money: ⭐⭐⭐⭐⭐ — "the most sensible car in Indonesia" (GridOto)
+- Durabilitas: ⭐⭐⭐⭐⭐ — mesin K15B bandel, AT konvensional awet
+- Best variant value: Beta AT (Rp 297M) — sweet spot terbaik
+- Owner satisfaction tinggi — sentiment positif ~60% di Twitter, sangat positif di YouTube
+- Kelemahan utama: 2 airbag, no ADAS, 4AT old school, interior plastik
