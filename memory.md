@@ -1,44 +1,68 @@
+# Memory — Verified Insights
+
 ## Toyota Veloz Hybrid
 
-- Per 2026-04-01, Toyota Veloz Hybrid sudah muncul sebagai model yang resmi diluncurkan di Indonesia pada GJAW 2025 dan bukan lagi sekadar rumor.
-- Harga intro yang paling sering dikutip adalah Rp 299 juta, tetapi listing pasar yang lebih stabil pada 2026-04-01 berada di kisaran Rp 303 juta sampai Rp 385 juta tergantung varian.
-- Struktur varian yang paling konsisten di sumber web adalah V HEV, Q HEV, Q HEV Modelista, dan Q HEV TSS Modelista.
-- Paket mekanikal yang paling konsisten adalah 1.5L 2NR-VEX hybrid dengan e-CVT, output sistem sekitar 109-111 hp, torsi mesin 121 Nm, dan torsi motor listrik 141 Nm.
-- Detail fitur per varian masih lebih mudah diverifikasi dari portal listing pihak ketiga daripada dari brochure resmi Toyota Astra yang mudah diakses publik.
-- Owner feedback jangka menengah belum memadai dari sumber non-social-media dan non-YouTube karena model masih sangat baru.
+### Pricing (verified April 2026 via Kompas, GridOto, Mobil123, YouTube Carmudi/Otodriver, Twitter @ToyotaID)
+- 4 main variants: V HEV, Q HEV, Q HEV Modellista, Q HEV TSS Modellista (12 sub-variants with color)
+- OTR Jakarta: Rp 308M (V HEV) to Rp 389M (Q TSS Modellista TT Premium)
+- Promo: V HEV Rp 303M (S1 2026)
+- Premium color surcharge: Rp 1.5M (Platinum Pearl White)
+- Pre-book price (Nov 2025): Rp 299M V HEV — "tidak sampai Rp 300 juta" (Fitra Eri)
+- Selisih V→Q: Rp 17M (best value jump — adds 4 airbags, 360 cam, wireless AACP)
+- Selisih V→Q TSS Modellista: Rp 77M
 
-- Dari review YouTube Indonesia, Veloz Hybrid konsisten digambarkan lebih halus, lebih senyap, dan lebih irit daripada Veloz bensin biasa.
-- Reviewer YouTube paling konsisten menyebut struktur varian V HEV, Q HEV, Q HEV Modelista, dan Q HEV TSS Modelista.
-- Reviewer YouTube menegaskan trim V kehilangan fitur seperti 360 camera, cruise control/TSS, dan head unit plus konektivitas yang lebih lengkap dibanding trim atas.
-- Data efisiensi dari reviewer YouTube berkisar sekitar 25,8-25,9 km/l pada beberapa tes, dengan GridOto mencatat 28,9 km/l kota, 35,5 km/l kombinasi, 19,5 km/l tol, dan 30,3 km/l saat full 7 penumpang.
-- Dari komentar YouTube di beberapa video sumber, reaksi awal publik terhadap Veloz Hybrid cenderung positif pada efisiensi, value hybrid Toyota, dan potensi jadi MPV keluarga favorit, tetapi kritik berulang muncul soal harga, desain, kualitas kamera 360, serta pertanyaan pajak dan biaya kepemilikan.
-- Komentar YouTube saat ini lebih kuat sebagai sinyal minat beli dan buyer concern awal daripada sebagai owner feedback jangka menengah, karena model masih sangat baru.
-- Dari ekspansi 20 video YouTube tambahan, concern pengguna paling konsisten bergeser ke tes tanjakan full penumpang, kelengkapan ACC/TSS per trim, ergonomi akibat baterai di bawah jok, dan waiting period/indent; jadi buyer concern makin ownership-fit, bukan sekadar spesifikasi.
-- Dari percakapan X/Twitter Indonesia, Veloz Hybrid dipersepsikan positif sebagai hybrid Toyota 7-seater yang irit dan cocok untuk keluarga atau mudik, tetapi keberatan yang paling sering muncul adalah pajak tahunan, perbandingan value vs XL7/Tiggo 8 CSH/used Zenix, dan kekhawatiran ownership cost.
-- Twitter/X lebih berguna untuk membaca shopping behavior dan barrier ke pembelian Veloz Hybrid daripada untuk menarik kesimpulan reliabilitas jangka menengah.
+### Powertrain (verified via Auto2000, Carmudi transcript, Otodriver transcript, KabarOto)
+- Engine: 1.5L 2NR-VEX, Atkinson Cycle, Dual VVT-i
+- ICE: 91 PS / 121 Nm; Motor: 80 PS / 141 Nm; Combined: ~111 PS
+- eCVT with planetary gear (NOT belt) — same as Yaris Cross/Prius
+- Battery: 0.7 kWh Li-ion under front passenger seat; 8yr/160K km warranty
+- BBM: RON 92+ minimum, RON 95 Pertamax recommended
+- Fuel tank: 43 liters; Platform: DNGA
 
-## Hyundai Stargazer Cartenz & Cartenz X
+### Fuel Economy (verified via GridOto test, KabarOto test, owner reports)
+- City: 25-29 km/l real-world; 28.9 km/l GridOto optimal; 35.5 km/l GridOto ideal
+- Highway: 19-26 km/l
+- Combined: 22-26 km/l
+- Full load 7 pax: 30.3 km/l (GridOto test — only 5.2 km/l less than empty)
+- Range per tank: ~946-1,075 km
+- Non-hybrid Veloz city: ~12 km/l for comparison
 
-- Stargazer Cartenz dan Cartenz X diluncurkan di GIIAS 2025 (Juli 2025), diproduksi lokal di pabrik Hyundai Cikarang dengan TKDN >40%. Branding: "The Real Indonesian Car".
-- Gen-1 Stargazer dan Stargazer X sudah berhenti produksi sejak Agustus 2025. Sisa stok masih dijual terbatas di beberapa dealer per Feb 2026.
-- Harga OTR Jakarta: Cartenz Trend MT Rp 269.9M → Cartenz X Prime Package Rp 391.9M (9 varian total: 6 Cartenz + 3 Cartenz X).
-- Mesin semua varian: Smartstream G1.5 MPI, 115 PS / 143.8 Nm, transmisi 6MT atau IVT (bukan 5MT).
-- Tangki BBM: 40 liter (dikonfirmasi oleh Carmudi, KabarOto description). Beberapa sumber lama menyebut 45L yang merujuk ke gen-1.
-- Ground clearance Cartenz dan Cartenz X: 205 mm. Dikonfirmasi multiple sources (Carmudi, KabarOto, Moladin). Beberapa sumber menyebut 190mm untuk Cartenz X Trend yang perlu verifikasi ulang.
-- Ban Cartenz Trend/Style: 205/55 R16. Ban Cartenz Smart HSS/Prime HSS dan semua Cartenz X: 205/50 R17.
-- Rem belakang Cartenz Trend/Style: drum. Cartenz Smart HSS/Prime HSS dan semua Cartenz X: disc.
-- Cartenz X Trend (Rp 319.9M) TIDAK memiliki SmartSense ADAS, sementara Cartenz Smart HSS (Rp 329.9M) memiliki full ADAS — buyer harus cermat membandingkan.
-- Cartenz Prime HSS (Rp 350.4M) memiliki value index tertinggi menurut analisis fitur-per-rupiah: full ADAS + SVM 360 + BOSE + ventilated seat + SCC Stop & Go.
-- SmartSense ADAS lengkap tersedia mulai Cartenz Smart HSS dan Cartenz X Style ke atas: FCA, LKA, LFA, BCA, DAW, HBA, TPMS, RCCA, SEA. SCC w/ Stop & Go, BVM, dan SVM hanya di Prime/Prime Package.
-- Konsumsi BBM real-world dari multiple owner dan reviewer: kota 10-14 km/l, tol 15-22 km/l, kombinasi 13.8-15 km/l. Irit untuk mesin 1.5L NA.
-- Pajak tahunan Cartenz: estimasi ~Rp 5.0-5.3 juta/tahun (kendaraan pertama, non-progresif). Dikonfirmasi Kompas Otomotif.
-- Biaya servis sangat murah: gratis jasa 5 tahun/75,000 km, gratis sparepart 3 tahun/45,000 km. Setelah garansi ~Rp 1.03 juta per servis.
-- Program resale value: 70% guaranteed buyback di tahun ke-3 (program trade-in Hyundai). Dikonfirmasi Kompas dan Tribunnews.
-- Waiting period pendek: 2-3 minggu dari order. Produksi lokal memastikan stok tersedia. Dikonfirmasi Katadata dan GridOto.
-- Keluhan paling konsisten: (1) underpowered full load di tanjakan, (2) IVT noise saat akselerasi keras, (3) desain depan polarizing, (4) Bluelink battery drain, (5) ADAS terlalu sensitif.
-- Radiator fan recall mempengaruhi gen-1 pre-2024. Belum dikonfirmasi apakah masalah ini masih ada di Cartenz. SoJooCars YouTube comment menyebut aux fan issue.
-- Pilar A agak tebal, sedikit mengurangi visibility saat belok. Dilaporkan owner @ardiindra di Twitter.
-- Komunitas HYSTORI (Hyundai Stargazer Owner Indonesia) aktif di seluruh Indonesia, ada thread Kaskus dan website resmi hystori.id.
-- Dari YouTube (20 video, 300+ komentar): desain depan 50/50 polarizing (belakang dan interior dipuji), fitur ADAS sangat diapresiasi, concern harga Cartenz X Prime mendekati segmen atas, wish list utama: varian hybrid.
-- Dari Twitter/X: sentimen mixed-positive. Feature-to-price ratio dipuji, service center expansion diminta, perbandingan dengan Veloz Hybrid sangat sering muncul.
-- Sales: 500-700 unit/bulan. GIIAS 2025: 50% total SPK Hyundai (~1,500 unit). Market share LMPV masih di bawah Xpander dan Avanza/Veloz tapi bertumbuh.
+### Key Features (verified via KabarOto, B Channel, Carmudi)
+- TSS/ADAS: ONLY on Q TSS Modellista (Rp 385M+) — PCS, ACC, LDA, PMC, FDA
+- LTA (Lane Tracing Assist): NOT confirmed — possibly removed vs Yaris Cross
+- V HEV: 2 airbags, no 360 cam, wired AACP, 9" HU
+- Q HEV: 6 airbags, 360 cam, wireless AACP, 10" HU, wireless charger
+- ALL variants: NO AC directional vents — #1 complaint across all sources
+- 360° camera quality: "burik" / "3gp" — criticized vs Chinese competitors
+- ASEAN NCAP: 5 stars (79.99 points)
+
+### Ownership Cost (verified via DetikOto, Moladin, Twitter @SmwGwOto)
+- Annual tax: Rp 5.4-6.3M/year (Jakarta, 1st ownership)
+- Free service: 7×/60,000 km
+- Post-free service: Rp 1.1-2.3M per service
+- Battery replacement: Rp 30-40M (post 8yr warranty)
+- Resale: 70% buy-back year 3 (Paket SmartDrive)
+- After-sales: 312+ bengkel resmi, 1,000+ part shop partners
+
+### Market (verified via CNN, Kompas, Bisnis)
+- 6,500+ orders in 4 months; V HEV = 60% of orders
+- Indent: 2-3 months (Apr 2026)
+- Production start: Feb 24, 2026
+- Auto2000 delivered 900+ units by Mar 2026
+
+### Key Weaknesses (consensus across all sources)
+1. No AC directional vents (any variant) — viral complaint
+2. TSS only on most expensive variant
+3. V HEV only 2 airbags
+4. 360° camera poor quality
+5. Annual tax Rp 5.5M+ (higher than ICE Veloz and XL7 Hybrid)
+6. RON 95 requirement (competitors accept Pertalite)
+7. FWD hill-climb concern (not independently tested steep)
+8. Exterior "taksi" stigma
+9. Torsion beam rear suspension
+
+### Twitter Sentiment (62% positive, 28% neutral, 10% negative)
+- #1 praised: fuel efficiency + pricing = incredible value
+- #1 complained: annual tax Rp 5.5M
+- Key debate: Veloz Hybrid (385M) vs Stargazer Cartenz Smart HSS (329.9M for ADAS)
+- Chinese competition credited for forcing Toyota competitive pricing
