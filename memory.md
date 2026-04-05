@@ -213,3 +213,160 @@
 - Best variant value: Beta AT (Rp 297M) — sweet spot terbaik
 - Owner satisfaction tinggi — sentiment positif ~60% di Twitter, sangat positif di YouTube
 - Kelemahan utama: 2 airbag, no ADAS, 4AT old school, interior plastik
+
+## Mitsubishi Xpander 2025 Facelift
+
+### Pricing (verified Feb 2026 via Mitsubishi Indonesia, OTO.com, Moladin, GridOto)
+- 3 tier varian (6 konfigurasi): GLS, Exceed Tourer, Ultimate — masing-masing MT dan CVT
+- OTR Jakarta: Rp 270.1M (GLS MT) to Rp 337.8M (Ultimate CVT)
+- Sport variant DISCONTINUED, replaced by Exceed Tourer
+- Two-tone surcharge +Rp 2M, pearl white +Rp 1.5M
+- Selisih GLS CVT → Exceed Tourer CVT: Rp 18.8M (best value jump)
+- Ultimate CVT = ~60% of sales
+
+### Powertrain (verified via official specs, YouTube reviews)
+- Engine: 1.5L MIVEC DOHC 16V (4A91), 1,499 cc
+- 104-105 PS @ 6,000 rpm, 141 Nm @ 4,000 rpm
+- 5MT or CVT, FWD, RON 92 (Pertalite OK)
+- Fuel tank: 45L
+
+### Dimensions
+- 4,595 x 1,750 x 1,750 mm, WB 2,775 mm
+- GC: 225mm (MT), 220mm (CVT) — highest in class
+
+### Key Features by Variant
+- GLS: Halogen, 7" HU, 16" steel, 2 airbags, manual AC, no keyless, no rear cam — very basic
+- Exceed Tourer: LED, 8" HU w/ AACP, 17" alloy, 2 airbags, keyless, rear cam — best value
+- Ultimate: LED, 10.1" HU, 17" alloy, 6 airbags, AYC, 360 cam, EPB, cruise control — most complete
+
+### ADAS Status
+- CRITICAL: NO ADAS on any Indonesian Xpander variant
+- MI-PILOT/Diamond Sense only on Xpander Hybrid HEV 2026 (Rp 405-485M, separate model)
+- Competitive gap: Stargazer SmartSense (Rp 332.9M), XL7 Hybrid DSBS (Rp 309.5M) already have ADAS
+
+### Fuel Economy (verified via GridOto test, owner reports)
+- City: 14-15.4 km/L; Highway: 17.4-20.6 km/L; Combined: 14-20 km/L
+- GridOto Exceed Tourer: 21.5 km/L mixed
+- Pertalite compatible — no need for Pertamax
+
+### Ownership
+- Tax: GLS MT ~Rp 4.3M to Ultimate CVT ~Rp 5.5M
+- Warranty: 3yr/100K km; Free service SMART 50K km/4yr
+- Service network: 300+ bengkel; Total service 0-100K: ~Rp 7M
+- Resale: 70-85% retention, one of strongest in LMPV segment
+- Sales: 360K+ total population; 2025 YTD ~25K combined with Cross
+
+### Common Complaints
+- Suspension rear shocks leak/bushing creak after 40K km
+- CVT sluggish uphill/overtaking
+- Engine vibration at idle (CVT especially)
+- 105 PS inadequate with full load on inclines
+- FWD hill-climb limitation
+- Paint mismatch bumper vs body
+- GLS/Exceed Tourer only 2 airbags
+
+## Mitsubishi Xpander Cross 2025 Facelift
+
+### Pricing (verified Feb 2026)
+- 2 varian: Cross MT (Rp 338.2-345M), Cross Premium CVT (Rp 364.5-371M)
+- Cross MT ≈ Ultimate CVT harga — critical buyer decision point
+
+### Key Differences vs Xpander
+- Width: 1,790 mm (+40mm) — better highway stability
+- Body cladding, roof rail, fender flares, skid plate — SUV styling
+- Two-tone interior (both variants)
+- 6 airbags STANDARD (both variants, vs only Ultimate on Xpander)
+- AYC STANDARD (both variants, vs only Ultimate)
+- Suspension tuning slightly firmer — more composed
+
+### Cross MT vs Cross Premium CVT
+- Cross MT: 8" HU, no 360 cam, no EPB, no cruise control — trade styling for features
+- Cross Premium CVT: 10.1" HU, 360 cam, EPB, cruise control, wireless CarPlay — most complete in family
+- Selisih ~Rp 26M — very worth it for the feature upgrade
+
+### Cross MT vs Ultimate CVT Dilemma
+- At same price (~Rp 337-345M): Ultimate CVT has far more tech features
+- Cross MT has SUV styling but loses 360 cam, EPB, cruise control, wireless, bigger HU
+- Pure choice: function (Ultimate) vs appearance (Cross MT)
+
+### Market Position
+- 2025 YTD: 8,761 units (~35% of Xpander family)
+- Resale slightly better than regular Xpander due to premium positioning
+- Twitter sentiment ~65% positive; "ganteng" (handsome) is recurring praise
+- Criticism: "cuma plastik" — perceived as Xpander + plastic cladding only
+
+## Honda BR-V
+
+### Pricing (verified April 2026 via Honda Indonesia, Kompas, Moladin, Oto.com, YouTube reviewers)
+- 8 variants: 5 standard + 3 N7X Edition
+- OTR Jakarta: Rp 297.3M (S M/T) to Rp 370.4M (N7X Prestige w/ Honda Sensing)
+- N7X Edition is purely cosmetic — adds aero kit, dark chrome, black interior. Premium Rp 1-8M.
+- Best value: E CVT (Rp 318.4M) — CVT, smart entry, remote start, best features-per-rupiah
+- Honda Sensing only on Prestige HS (Rp 362.4M) and N7X Prestige HS (Rp 370.4M)
+- Selisih Prestige → Prestige HS: Rp 20M for ADAS + 6 airbags + LaneWatch
+
+### Powertrain (verified via Honda Indonesia, Otodriver, Motomobi, GridOto)
+- Engine: 1.5L DOHC i-VTEC, 4-cyl, 1,497 cc
+- Power: 121 PS @ 6,600 rpm (best in LSUV class)
+- Torque: 145 Nm @ 4,300 rpm
+- Transmission: 6MT (S, E M/T) or CVT (all others)
+- Drivetrain: FWD
+- BBM: RON 92+ (Pertalite compatible — advantage over Veloz Hybrid's RON 95)
+
+### Dimensions & Running Gear (verified via Honda Indonesia, Moladin, multiple sources)
+- 4,490 × 1,780 × 1,685 mm, WB 2,700 mm, GC 220 mm
+- Fuel tank: 42 liters (NOT 40L — confirmed multiple sources)
+- Tires: 195/60 R16 (S/E) or 215/55 R17 (Prestige+)
+- Front: MacPherson Strut; Rear: H-Shape Torsion Beam
+- Front: Ventilated Disc; Rear: Drum (no 4-disc on any variant)
+- Steering: Tilt only — NO telescopic (universal complaint)
+
+### Fuel Economy (verified via Tempo, Kompas, Oto.com, Moladin, YouTube owners)
+- City: 10.7-13 km/L
+- Combined: 13-15.5 km/L
+- Highway/toll: 15.5-17.3 km/L
+- Eco mode ideal: 20-24.1 km/L
+- Tank range: ~580-640 km
+
+### Honda Sensing ADAS (Prestige HS / N7X Prestige HS ONLY)
+- CMBS (AEB), LKAS, RDM, ACC Low-Speed Follow (NOT Stop & Go), AHB, LCDN
+- LaneWatch: left-side camera only (NOT radar BSM)
+- Missing: No 360° camera, no BSM, no RCTA on ANY variant
+- ACC is NOT full Stop & Go — must press pedal from complete stop
+- Real-world life-saving reports: owners credit CMBS with preventing accidents
+
+### Key Features by Tier
+- S M/T: Too basic — no smart entry, no TFT, no foglamp
+- E M/T/CVT: Good mid-tier — smart entry, TFT, CVT (E CVT), remote start
+- Prestige: Premium comfort — 17" wheels, leather, auto-fold mirrors, row 3 outlet
+- Prestige HS: Flagship — Honda Sensing, 6 airbags, LaneWatch
+
+### Ownership Cost (verified via Kompas pajak, Honda service advisors, Moladin)
+- Annual tax Jakarta: Rp 5.6M (S M/T) to ~Rp 7M (Prestige HS) — HIGHEST in class
+- Service: Every 10K km, Rp 500K-2M per visit
+- Warranty: 3yr/100K km
+- Paket Hemat 1: ~Rp 3.2M (4yr/50K, 5× service)
+- Resale: ~20% depreciation in 2 years (Kompas), Honda badge supports stability
+- No telescopic, no EPB, no rear defogger, no 360° cam on ANY variant
+
+### Performance (verified via Motomobi, Otodriver, GridOto)
+- 0-100 km/h: 10.9s (Motomobi) / 11.6s (Otodriver) — best in LSUV class
+- Hill climb: Passed GridOto 17° incline test, full load, AC on, from stop
+- Handling: Best in class — fun to drive, responsive steering
+- NVH: Average — tire/wind/rain noise still present, improved over gen-1
+
+### Common Complaints
+- No telescopic steering (every major reviewer)
+- No rear defogger (Fitra Eri: "feels cheap")
+- Manual parking brake / no EPB
+- Rear drum brakes only
+- NVH (cabin noise) at highway speeds
+- Honda Sensing only on top variant (Rp 362-370M)
+- Higher tax than all competitors
+
+### Market Position
+- Sales: ~11,098 units 2024, ~900-1,100/month 2025
+- Only genuine SUV-bodied vehicle in class with ADAS
+- Best engine power (121 PS) and handling in LSUV/LMPV segment
+- Price premium: highest in class, annual tax highest in class
+- Twitter presence: Almost zero — discussions concentrated on YouTube and web forums
