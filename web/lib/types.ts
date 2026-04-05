@@ -6,6 +6,7 @@ export type ResearchType =
   | 'youtube-research'
   | 'twitter-research'
   | 'variant-comparison'
+  | 'sources'
 
 export type ResearchFile = {
   slug: string[]
@@ -22,11 +23,11 @@ export type ReviewFile = {
 }
 
 export type NavTree = {
-  reviews: ReviewFile[]
   research: Record<string, ResearchFile[]>
 }
 
 export const RESEARCH_TYPES: ResearchType[] = [
+  'sources',
   'master-research',
   'web-research',
   'youtube-research',
@@ -35,6 +36,7 @@ export const RESEARCH_TYPES: ResearchType[] = [
 ]
 
 export const RESEARCH_TYPE_LABELS: Record<ResearchType, string> = {
+  'sources': 'Sources',
   'master-research': 'Master Research',
   'web-research': 'Web Research',
   'youtube-research': 'YouTube Research',

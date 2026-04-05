@@ -12,7 +12,6 @@ export { RESEARCH_TYPES, RESEARCH_TYPE_LABELS, toLabel } from '@/lib/types'
 
 const EXCLUDED_ROOT_FILES = new Set([
   'memory.md',
-  'sources.md',
   'README.md',
   'AGENTS.md',
   'CLAUDE.md',
@@ -26,24 +25,7 @@ const RESEARCH_FILE_REGEX = new RegExp(
 const repoRoot = path.join(process.cwd(), '..')
 
 export function getNavTree(): NavTree {
-  const reviews: NavTree['reviews'] = []
   const research: NavTree['research'] = {}
-
-  try {
-    const rootFiles = fs.readdirSync(repoRoot)
-    for (const file of rootFiles) {
-      if (!file.endsWith('.md')) continue
-      if (EXCLUDED_ROOT_FILES.has(file)) continue
-      const slug = file.replace(/\.md$/, '')
-      reviews.push({
-        slug: ['reviews', slug],
-        filePath: path.join(repoRoot, file),
-        label: toLabel(slug),
-      })
-    }
-  } catch {
-    // ignore
-  }
 
   const researchRoot = path.join(repoRoot, 'research')
   try {
@@ -81,7 +63,7 @@ export function getNavTree(): NavTree {
     // ignore
   }
 
-  return { reviews, research }
+  return { research }
 }
 
 export function getFileContent(filePath: string): string {
@@ -100,6 +82,6 @@ export function findResearchFile(car: string, type: string): string | null {
 }
 
 export function findReviewFile(slug: string): string | null {
-  const filePath = path.join(repoRoot, slug + '.md')
-  return fs.existsSync(filePath) ? filePath : null
+  // Deprecated: reviews no longer supported
+  return null
 }

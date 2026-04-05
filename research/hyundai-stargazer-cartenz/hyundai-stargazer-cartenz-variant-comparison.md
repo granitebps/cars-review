@@ -29,17 +29,17 @@ Hyundai Stargazer Cartenz tersedia dalam **9 varian** yang terbagi dalam 2 lini:
 
 ### 2.1 Price Ladder
 
-```
-Rp 391,9 jt ████████████████████████████████████████ X Prime Package
-Rp 374,9 jt ██████████████████████████████████████   X Style
-Rp 361,9 jt ████████████████████████████████████     X Trend
-Rp 350,4 jt ██████████████████████████████████       Prime HSS
-Rp 332,9 jt ████████████████████████████████         Smart HSS  ⭐ Best Value
-Rp 299,9 jt ████████████████████████████             Style IVT
-Rp 289,9 jt ██████████████████████████               Style MT
-Rp 279,9 jt █████████████████████████                Trend IVT
-Rp 269,9 jt ████████████████████████                 Trend MT
-```
+| Harga | Varian |
+|-------|--------|
+| Rp 391,9 jt | X Prime Package |
+| Rp 374,9 jt | X Style |
+| Rp 361,9 jt | X Trend |
+| Rp 350,4 jt | Prime HSS |
+| Rp 332,9 jt | Smart HSS ⭐ Best Value |
+| Rp 299,9 jt | Style IVT |
+| Rp 289,9 jt | Style MT |
+| Rp 279,9 jt | Trend IVT |
+| Rp 269,9 jt | Trend MT |
 
 ### 2.2 Price Delta Analysis
 
@@ -245,22 +245,17 @@ Rp 269,9 jt ██████████████████████�
 
 ### 6.1 Upgrade Path yang Direkomendasikan
 
-```
-Budget <Rp 280 jt → Cartenz Trend IVT
-Budget Rp 280-300 jt → Cartenz Style IVT
-Budget Rp 300-350 jt → ⭐ Cartenz Smart HSS (best value)
-Budget Rp 350-375 jt → Cartenz Prime HSS (jika mau premium Cartenz)
-                        ATAU Cartenz X Style (jika mau crossover + ADAS)
-Budget >Rp 375 jt → Cartenz X Prime Package
-```
+- **Budget <Rp 280 jt** → Cartenz Trend IVT
+- **Budget Rp 280-300 jt** → Cartenz Style IVT
+- **Budget Rp 300-350 jt** → ⭐ Cartenz Smart HSS (best value)
+- **Budget Rp 350-375 jt** → Cartenz Prime HSS (jika mau premium Cartenz) ATAU Cartenz X Style (jika mau crossover + ADAS)
+- **Budget >Rp 375 jt** → Cartenz X Prime Package
 
 ### 6.2 Upgrade Path yang TIDAK Direkomendasikan
 
-```
-❌ Smart HSS → X Trend (downgrade ADAS untuk body crossover, buang Rp 29 juta)
-❌ Prime HSS → X Trend (downgrade ADAS + comfort untuk body crossover)
-❌ Trend MT untuk pemakaian harian Jakarta (macet + manual = menderita)
-```
+- ❌ **Smart HSS → X Trend** — Downgrade ADAS untuk body crossover, buang Rp 29 juta
+- ❌ **Prime HSS → X Trend** — Downgrade ADAS + comfort untuk body crossover
+- ❌ **Trend MT untuk pemakaian harian Jakarta** — Macet + manual = menderita
 
 ### 6.3 Key Decision Trees
 

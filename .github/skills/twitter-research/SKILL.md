@@ -101,3 +101,11 @@ Group findings by theme:
 - Comparison discussions
 
 If another related insight materially improves the car review, extract it too.
+
+## Sources Storage
+
+All tweets and related discussions should be referenced in the per-car sources file:
+
+`research/{car-name}/{car-name}-sources.md`
+
+Create a Twitter/X section with notable tweet counts, sentiment summary, and links to key discussion threads.

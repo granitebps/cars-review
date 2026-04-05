@@ -83,3 +83,11 @@ For every extracted item:
 When possible, record the source video URL and timestamp or segment that supports each claim.
 
 If another related insight materially improves the car review, extract it too.
+
+## Sources Storage
+
+All YouTube videos and sources gathered should be added to the per-car sources file:
+
+`research/{car-name}/{car-name}-sources.md`
+
+Organize YouTube sources in a section with video titles, URLs, view counts, and descriptions of what content each video provides.

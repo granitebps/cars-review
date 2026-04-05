@@ -112,3 +112,11 @@ For every piece of extracted information, classify it:
 Build a comprehensive per-variant research dataset covering price, dimensions, specs, fuel use, suspension, tires, features, ADAS, ownership cost, after-sales, spare parts, and sourced user reviews.
 
 If additional related information is important for the review, include it even if not explicitly listed.
+
+## Sources Storage
+
+All web sources gathered should be added to the per-car sources file:
+
+`research/{car-name}/{car-name}-sources.md`
+
+Organize web sources by category (Pricing, Specifications, ADAS, Fuel Economy, Tax, Sales, Owner Feedback, etc.) with links and descriptions.

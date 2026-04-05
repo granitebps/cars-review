@@ -209,9 +209,11 @@ During research, update the project knowledge files.
 
 ### Step A — Record Sources
 
-Add links to `sources.md`.
+Create a per-car sources file at `research/{car-name}/{car-name}-sources.md`.
 
 Include: articles, videos, forum discussions, tweets, official pages.
+
+Organize sources by type (Web, YouTube, Twitter) with descriptions and link counts.
 
 ### Step B — Extract Knowledge
 
@@ -221,6 +223,14 @@ Only include information that appears in multiple reliable sources.
 
 ### Step C — Write Research Documents
 
-Write the 4 research files in `research/{car-name}/` as described in Steps 7-8.
+Write the 4 research files in `research/{car-name}/` as described in Steps 7-8 and the Knowledge Recording steps above:
+
+1. `{car-name}-web-research.md` — from Step 7
+2. `{car-name}-youtube-research.md` — from Step 7
+3. `{car-name}-twitter-research.md` — from Step 7
+4. `{car-name}-master-research.md` — from Step 8
+5. `{car-name}-sources.md` — from Step A above
+
+All files stored in `research/{car-name}/` folder.
 
 If another fact is important or strongly related to the car review, extract it even if not explicitly listed above.

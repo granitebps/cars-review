@@ -4,6 +4,7 @@ import { toLabel } from '@/lib/types'
 import type { ResearchType } from '@/lib/types'
 
 const TYPE_COLORS: Record<ResearchType, string> = {
+  'sources': 'text-yellow-700 bg-yellow-50 border-yellow-200',
   'master-research': 'text-blue-700 bg-blue-50 border-blue-200',
   'web-research': 'text-green-700 bg-green-50 border-green-200',
   'youtube-research': 'text-red-700 bg-red-50 border-red-200',
@@ -12,6 +13,7 @@ const TYPE_COLORS: Record<ResearchType, string> = {
 }
 
 const TYPE_LABELS: Record<ResearchType, string> = {
+  'sources': 'Sources',
   'master-research': 'Master',
   'web-research': 'Web',
   'youtube-research': 'YouTube',
@@ -21,8 +23,7 @@ const TYPE_LABELS: Record<ResearchType, string> = {
 
 export default function Home() {
   const navTree = getNavTree()
-  const hasContent =
-    navTree.reviews.length > 0 || Object.keys(navTree.research).length > 0
+  const hasContent = Object.keys(navTree.research).length > 0
 
   return (
     <div>
@@ -44,24 +45,6 @@ export default function Home() {
             e.g. <code className="bg-gray-100 px-1 rounded">toyota-veloz-master-research.md</code>
           </p>
         </div>
-      )}
-
-      {navTree.reviews.length > 0 && (
-        <section className="mb-8">
-          <h2 className="text-lg font-semibold text-gray-700 mb-3">📚 Reviews</h2>
-          <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-            {navTree.reviews.map((r) => (
-              <Link
-                key={r.slug.join('/')}
-                href={'/' + r.slug.join('/')}
-                className="block p-4 bg-white rounded-lg border border-gray-200 hover:border-blue-400 hover:shadow-sm transition-all"
-              >
-                <span className="text-base font-medium text-gray-900">{r.label}</span>
-                <span className="block text-xs text-gray-400 mt-1">Review</span>
-              </Link>
-            ))}
-          </div>
-        </section>
       )}
 
       {Object.keys(navTree.research).length > 0 && (

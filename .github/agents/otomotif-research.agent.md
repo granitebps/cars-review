@@ -306,7 +306,7 @@ Examples:
 
 ## Knowledge Management
 
-During research, maintain two shared knowledge files in the repository.
+During research, maintain shared knowledge files in the repository:
 
 ### memory.md
 
@@ -321,13 +321,19 @@ Examples:
 
 Only store **confirmed insights** supported by multiple sources.
 
-### sources.md
+### Sources Storage Convention
 
-This file stores links and references used during research.
+Sources for each car are stored in a **per-car sources file** inside the research folder:
 
-Organize sources by car model.
+- **Location**: `research/{car-name}/{car-name}-sources.md`
+- **Purpose**: Complete reference list for all sources gathered during research for that car
+- **Content**: Links organized by source type (Web, YouTube, Twitter) with descriptions
 
-Each research document should reference sources listed in this file.
+Each research task creates a per-car sources file. The root `sources.md` is **not used**; all sources are car-specific.
+
+Example:
+- `research/toyota-veloz-hybrid/toyota-veloz-hybrid-sources.md` — All sources for Veloz Hybrid research
+- `research/hyundai-stargazer-cartenz/hyundai-stargazer-cartenz-sources.md` — All sources for Stargazer research
 
 ### Research Workflow
 
@@ -335,8 +341,8 @@ When researching a car:
 
 1. Verify MCP availability (YouTube MCP and Twitter MCP). Install if missing.
 2. Gather sources from all three channels: web (≥100), YouTube (≥50), Twitter (≥100).
-3. Add all sources to `sources.md`.
+3. Create `research/{car-name}/{car-name}-sources.md` and add all sources there (organized by type).
 4. Extract insights and add verified facts to `memory.md`.
-5. Write the 3 source-specific research files in `research/{car-name}/`.
+5. Write the 3 source-specific research files in `research/{car-name}/`:
 6. Compile the master research file from the 3 source-specific files.
 7. Include additional related findings if they materially improve the car review.

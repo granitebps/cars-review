@@ -7,6 +7,7 @@ import type { NavTree, ResearchType } from '@/lib/types'
 import { toLabel } from '@/lib/types'
 
 const TYPE_DOT: Record<ResearchType, string> = {
+  'sources': 'bg-yellow-500',
   'master-research': 'bg-blue-500',
   'web-research': 'bg-green-500',
   'youtube-research': 'bg-red-500',
@@ -78,23 +79,6 @@ export default function Sidebar({ navTree }: { navTree: NavTree }) {
 
   const navContent = (
     <nav className="p-4 space-y-5 overflow-y-auto h-full">
-      {/* Reviews */}
-      <div>
-        <p className="text-xs font-semibold uppercase tracking-wider text-gray-400 px-3 mb-2">
-          📚 Reviews
-        </p>
-        <div className="space-y-0.5">
-          {navTree.reviews.map((r) => (
-            <NavLink
-              key={r.slug.join('/')}
-              href={'/' + r.slug.join('/')}
-              label={r.label}
-              active={pathname === '/' + r.slug.join('/')}
-            />
-          ))}
-        </div>
-      </div>
-
       {/* Research */}
       {Object.keys(navTree.research).length > 0 && (
         <div>

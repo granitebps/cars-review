@@ -2,6 +2,7 @@ import type { ResearchType } from '@/lib/types'
 import { RESEARCH_TYPE_LABELS } from '@/lib/types'
 
 const COLOR_MAP: Record<ResearchType, string> = {
+  'sources': 'bg-yellow-100 text-yellow-800 border-yellow-200',
   'master-research': 'bg-blue-100 text-blue-800 border-blue-200',
   'web-research': 'bg-green-100 text-green-800 border-green-200',
   'youtube-research': 'bg-red-100 text-red-800 border-red-200',
